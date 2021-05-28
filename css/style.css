@@ -1,0 +1,349 @@
+/*Credit where credit is due, this format appealed to me and was adapted from YouTube.
+https://www.youtube.com/watch?v=-2LtZRi6Q0s
+*/
+/*Overall Setting*/
+
+* {
+	margin:0;
+	padding:0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+html, body{
+	width:100%;
+  	height:100%;
+  	background:#0a2e36;
+  	background-image:linear-gradient(to bottom,#2b5761,#0a2e36);
+  	color:#D5E1E4;
+  	background-repeat:repeat-x;
+}
+
+.container {
+  width:100%;  	
+  height:100%;
+}
+/*All Links in general.*/
+a {
+	color:white;
+}
+a:visited {
+	color:white;
+}
+a:hover {
+	color:#011b21;
+	transition:0.5s;
+}
+/*All images in content body (excludes header)*/
+.content img {
+	border:5px solid #D5E1E4;
+	display:block;
+}
+
+/*Below chunk is for the header - where I keep my links.
+To copy the entire header to be used for other webpages, copy starting here.
+*/
+.header ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	background-color:#0a2e36;
+	overflow:hidden; /*I don't know why, but this makes the bar have a background colour.*/
+}
+.header ul li{
+	color: white;
+	float:left;
+}
+#info {
+	float:right; /*It's an id because I want it to float right and have it take priority. Specificity!*/
+}
+/*Making sure the logo redirects to home as well, but styled uniquely.*/
+#home_short, #home_long {
+	padding:0px;
+}
+#home_short:hover, #home_long:hover {
+	background-color:#0a2e36;
+}
+.logo #home_short img {
+	width:30px;
+	margin:0px 10px 0px 10px;
+}
+/*Long logo will only display on small screens. It sounds backwards, but trust me.*/
+.logo #home_long img {
+	display:none;
+	width:100px;
+	margin:20px 10px 7px 10px;
+}
+/*The rest of the links
+Visited ensures that the colour won't change even after you've been to the site
+it will highlight the current page you're on based on class="active"
+if you hover over the other buttons it will highlight it, except for the active button.*/
+.header ul li a{
+	text-align:center;
+	display:block;
+	padding:10px 15px;
+	text-decoration:none;
+	color:white;
+}
+.header ul li a:visited{
+	color:white;
+}
+.active {
+	background-color:#18424c !important;
+}
+.header ul li a:hover:not(.active){
+	/*Hover over navbar links if it's not the active one*/
+	background-color:#011b21;
+	transition:0.5s;
+}
+
+/*Homework tab - Dropdown menu featuring homework links.
+source: https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp*/
+.homework-content {
+  	display: none;
+  	position: absolute;
+  	background-color: #0a2e36;
+  	min-width: 170px;
+  	/*Dropdown menu has shadow and also appears above everything else*/
+  	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  	z-index:1;
+}
+.homework-content a {
+  	float: none;
+  	padding: 12px 16px;
+  	display: block;
+  	text-align: left !important; /*Overwrite above text-align for list items*/
+}
+.homework:hover .homework-content {
+  display: block;
+}
+.homework:hover .homework-content a{
+  animation-name:appear;
+  animation-duration: 0.2s;
+}
+/*Homework ends here*/
+/*copy ends here for header.*/
+
+/*MAIN CONTENT*/
+.content {
+	width:80%;
+	height:70%;
+	top:5%;
+	position:relative;
+	left:10%;
+	overflow:visible;
+}
+.right small, .text > small{
+		font-size:17px;
+	}
+/*TODO or Note: Maybe change the name to .left for consistency.*/
+/*Left half of page*/
+.text {
+	width:50%;
+	float:left;
+	/*Gave this a minimum width because of the homework button*/
+	/*min-width:600px
+	/*Might not need it anymore as i applied nowrap*/
+	padding-bottom:5vw;
+}
+
+.text h1 {
+	font-size:40px;
+	max-width:700px;
+	position:relative;
+	color:#EDF9FA;
+}
+
+.text p {
+	text-align:justify;
+	max-width: 700px;
+	font-size:20px;
+	line-height:25px;
+	margin:30px 0px 30px 0px;
+	color:#D5E1E4;
+}
+.homepageLinks {
+	list-style-type:none;
+}
+.homepageLinks li {
+	margin-bottom:50px;
+}
+
+
+/*Left half of page ends here*/
+
+/*Right half of the page*/
+.right {
+	/*I added a max-width recently, this might make it look nice, IDK.*/
+	max-width:500px;
+	width:50%;
+	float:right;
+	margin-right:100px;
+	padding-left:50px;
+	margin-top:50px;
+	padding-bottom:50px;
+}
+
+.right img {
+	width:500px;
+}
+
+/*End of right half of page, GENERAL*/
+
+/*For the button that links you straight to homework*/
+.hwbutton small{
+	padding:10px 20px;
+	border:5px solid #011b21;
+	font-size:15px;
+	letter-spacing:3px;
+	border-radius:25px;
+	background-color:#0a2e36;
+	text-align:center;
+	color:#F6DEB9;
+	/*This affects ALL homework buttons - including the one on homework page*/
+	/*Due to the position property of the single hwbuttons, it won't move.
+	But the homeworklist will move.*/
+	animation-name:appear;
+	animation-duration: 1s;
+}
+.hwbutton {
+	white-space: nowrap;
+	text-decoration:none;
+}
+.hwbutton small:hover {
+	background-color:#036d19;
+	/*Make the colour gradually appear*/
+	transition:0.5s;
+}
+.hwbutton small:active {
+	background-color:#03ff19;
+}
+/*Homework button ends here*/
+
+/*Secrets for my image on home page*/
+img.zh, map area{
+    outline: none;
+}
+
+/*I AM SO HAPPY. I FINALLY MADE GRABBY. NOT IN JAVASCRIPT BUT IN CSS???*/
+@keyframes grabby {
+	0% {cursor:grab;}
+	50% {cursor:grabbing;}
+}
+#crotch {
+	cursor:grab; /*between iterations it will go back to normal cursor. this changes it.*/
+  	animation-name:grabby;
+  	animation-duration: 1s;
+  	animation-iteration-count: infinite;
+}
+/*Secret for homepage ends*/
+
+/*Homework page*/
+/*Not to be confused with homework header.*/
+.homeworklist {
+	/*need to figure out how come this changes in size but the homepage button doesn't*/
+	width:450px;
+	white-space: nowrap;
+	list-style-type: none;
+}
+.homeworklist li{
+	margin-bottom:20px;
+}
+.homeworklist li a small {
+	display:block;
+	text-align:left;
+}
+.lich {
+	display:none;
+}
+/*I CANT BELIEVE THE CODE FOR THAT WAS SO SIMPLE???? HOLY SHIT I'M A FUCKING GENIUS*/
+/*I LOVE ANIMATIONS!*/
+@keyframes appear {
+	0% {margin-top:-50px;
+		opacity:0;}
+	25% {opacity:0;}
+	100% {margin-top:initial;
+		opacity:1;
+	}
+}
+/*	END OF HOMEWORK PAGE */
+/*Info page*/
+.infolist {
+	list-style-type:lower-roman;
+}
+.infolist li {
+	padding:10px;
+}
+#hint {
+	opacity:0.8;
+	color:#18424c;
+}
+ 
+/*Misc*/
+@keyframes move {
+	0% {letter-spacing:initial;}
+	50% {letter-spacing:5px;}
+	100% {letter-spacing: :initial;}
+}
+
+.misctext {
+	animation-name:move;
+	animation-duration:3s;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease-in-out;
+}
+
+/*Mobile/Small Width Screens - Width determined by when the divs start to overlap.
+Apparently you're supposed to put media queries at the end of the css so it overrides the rest.
+Which means I don't need to abuse the !important function.
+/*Todo:
+Adjust divs instead of following the template.
+Consider separate stylesheets for different media*/
+@media (max-width:1280px) {
+
+	.text h1 {
+	font-size:10vw;
+	}
+	.text p {
+	font-size:4vw;
+	line-height:normal;
+	}
+	.infolist {
+		font-size:2vw;
+	}
+	.right,.text {
+		float:none;
+	}
+	.right{
+		padding-left:none;
+		margin:none;
+	}
+	/*.text >small excludes the link buttons for homework.*/
+	.right small, .text > small{
+		font-size:1.5vw;
+	}
+	/*Get rid of the square logo, display the long logo.*/
+	.logo #home_short img{
+		display:none;
+	}
+	.logo #home_long img{
+		display:initial;
+		width:300px;
+	}
+	.header ul li {
+		float:none; /*This is to ensure it stops floating when the screen is small*/
+		/* This might be redundant: display:block;*/
+		font-size:4vw;
+	}
+	#info {
+		float:none;
+	}
+	/*Don't display the homework dropdown list. Usually on small viewports it's mobile so hover doesn't make sense.*/
+	.homework:hover .homework-content {
+  		display:none;
+	}
+/*it's damn small on smaller viewports*/
+	.hwbutton small{
+		font-size:1.5vw;
+	}
+}
+
