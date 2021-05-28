@@ -8,7 +8,7 @@ body {
 	width: 50vw;
 	background-color: white;
 	margin: 30px auto auto auto; /*Top right bottom left*/
-	padding: 30px;
+	padding: 20px 30px 20px 30px;
 	text-align: center;
 }
 .content p {
@@ -17,10 +17,15 @@ body {
 }
 
 a {
+	color: #222;
 	text-decoration: none;
 }
 a:visited {
-	color: initial;
+	color: #222;
+}
+a:hover {
+	color: #555;
+	text-decoration: underline;
 }
 
 /*Navbar For Links*/
@@ -36,7 +41,7 @@ a:visited {
 	border-radius: 10px;
 }
 #socials li:hover {
-	background-color: hotpink;
+	background-color: deeppink;
 	transition: 0.5s;
 }
 
