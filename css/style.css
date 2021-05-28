@@ -1,6 +1,41 @@
 body {
-	background-color: #fadedd;
+	background-color: #dedede;
 	margin: 0;
 	padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
+}
+.content {
+	width: 50vw;
+	background-color: white;
+	margin: 30px auto auto auto; /*Top right bottom left*/
+	padding: 30px;
+	text-align: center;
+}
+.content p {
+	margin-bottom: 30px;
+	padding: 0 100px 0 100px;
+}
+
+a {
+	text-decoration: none;
+}
+a:visited {
+	color: initial;
+}
+
+/*Navbar For Links*/
+#socials {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#socials li {
+	display: inline;
+	background-color: pink;
+	padding: 10px;
+	border-radius: 10px;
+}
+#socials li:hover {
+	background-color: hotpink;
+	transition: 0.5s;
 }
