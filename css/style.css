@@ -39,3 +39,12 @@ a:visited {
 	background-color: hotpink;
 	transition: 0.5s;
 }
+
+aside {
+	background-color: white;
+	margin: auto 0px 0px 30px; /*Top right bottom left*/
+	text-align: center;
+	position: absolute;
+	width: 20vw;
+	min-height: 50vh;
+}
