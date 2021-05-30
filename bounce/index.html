@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<meta charset="UTF-8">
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/appstyle.css">
+        <!--  Include the raphael library from the jslibs directory  -->
+        <script type="text/javascript" src="jslibs/raphael.js"></script>
+        <script defer type="text/javascript" src="appscripts/main.js"></script>
+        <title>
+          BOUNCE BABY
+        </title>
+        </script>
+    </head>
+
+  <body>
+    
+    <div class="container">
+      <header class="header">
+        <h1>B<span id="letterO">O</span>UNCE BABY</h1>
+      </header>
+
+      <nav class="sidebar">
+        <h1>NAV</h1>
+        <h2><a href="writeups/index.html">Journal</a></h2>
+        <h3><a href="../portfolio.html">Back</a></h3>
+      </nav>
+
+      <article class="content" id="mySVGCanvas">
+      </article>
+
+      <!-- Ditto the previous note about <aside>. -->
+      <aside class="sidebar">
+        <div id="slidersContainer">
+      <label for="grav">Gravity</label>
+      <br>
+      <input type="range" id="grav" min="0" max="0.4" step="0.01" value="0.2">
+      <br>
+      <label for="drag">Air Resistance</label>
+      <br>
+      <input type="range" id="drag" min="0" max="0.02" step="0.005" value="0.01">
+      <br>
+      <button id="resetbtn">Reset</button>
+      <br>
+      <p>Bounce Baby is the first iteration of my final project, and I started it trying to model 2D physics. There's not much of a goal to it, just a simple toy to play with and maybe relieve stress.</p><p>Click and drag on the middle screen!</p>
+    </div>
+      </aside>
+
+      <footer class="footer">
+        
+        <p>By Choong Zhan Hong for NM2207 AY20/21 Semester 2 Final Project</p>
+      </footer>
+    </div>
+  
+
+  </body>
+</html>
+
