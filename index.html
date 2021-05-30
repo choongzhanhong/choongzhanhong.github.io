@@ -1,47 +1,70 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-	<link rel="stylesheet" href="css/style.css">
-	<!-- <script defer type="text/javascript" src="appscripts/main.js"></script> -->
-	<title>Zhan Hong</title>
- </head>
+    <head>
+        <link rel="icon" type="image/png" href="res/favicon.png">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>Zhan Hong's Page</title>
+    </head>
+    <body>
+        <header><h1 id="topHeader">Zhan Hong's Homepage</h1></header>
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+            <a class="navbar-brand" href="#"><img src="res/zh_sm.png" height="40"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- No Dropdown Navbar -->
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link active">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">About Me</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Other Links</a>
+                    </li>
+                </ul>
+            </div>
 
-<body>
-	<div class="content">
-		<img style="width:20%"src="resources/face.png">
-			<h1>CHOONG ZHAN HONG</h1>
-			<p>Hi there! I'm Zhan Hong, an undergraduate at National University of Singapore, pursuing a major in Communications and New Media and a minor in Interactive Media Development.
-		</p>
-		<p>I like to do strength training, cooking and some simple coding in my free time. I also enjoy movies and music like the next guy. I would love to talk about these interests!</p>
-	</div>
-	<div class="content" id="main">
-		Here are some things that may be of use to you.
-		<br>
-		<h2><a href="https://docs.google.com/spreadsheets/d/1RPLs8ypVFA0et6TXn6qVLqu6sgye9BbLiKdt7GwVUHU/edit?usp=sharing" target="_blank">
-			Academic Plan Template
-		</a></h2>
-		<h2><a  href="https://www.google.com/maps/d/u/0/edit?mid=1HA8vg6qv7aSAwkn8c8n-CKhrmQCtVkej&usp=sharing" target="_blank">
-			Map of Water Coolers in Singapore
-		</a></h2>
-		<h2><a href="https://nusdropouts.blogspot.com/" target="_blank">
-			NUS Blog (Module Reviews)
-		</a></h2>
-	</div>
-	<div class="content">
-		<h3>Current Status:</h3>
-		<p>Year 1 Undergraduate (Matriculated 2020/2021)</p>
-		<h3>I'm Familiar With:</h3>
-		<p>Python | C | HTML | CSS | Javascript | SQL</p>
-
-	</div>
-	<nav class="content">
-		<ul id="socials">
-			<a href="https://www.linkedin.com/in/choongzhanhong" target="_blank"><li>LinkedIn</li></a>
-			<a href="https://www.instagram.com/dazhtu" target="_blank"><li>Instagram</li></a>
-			<a href="https://github.com/choongzhanhong" target="_blank"><li>GitHub</li></a>
-			<a href="https://www.facebook.com/warygut/" target="_blank"><li>Facebook</li></a>
-		</ul>
-	</nav>
-</body>
+        </nav>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+            <h1>Hello!</h1>
+            <p>I am Zhan Hong, an undergraduate at the National University of Singapore. I'm pursuing a degree in Communications and New Media with a minor in Interactive Media Development. This is both my personal and professional page. Please take a look around!</p>
+            <p>In my spare time, I love to lift weights and do some simple programming. Well, I've got tons of other hobbies as well, I just like to pick things up for fun.</p>
+        </div>
+        <div class="col-sm"><img id="mePic" src="res/me_pic.png" width="100%"></div>
+        </div>
+        </div>
+        <!-- Social Links -->
+        <div class="container">
+            
+            <h3>Social Links</h3>
+            <a href="https://www.facebook.com/warygut" target="_blank"><img class="socialIcon" src="res/ico_fb.png" title="Facebook"></a>
+            <a href="https://www.instagram.com/dazhtu/" target="_blank"><img class="socialIcon" src="res/ico_ig.png" title="Instagram"></a>
+            <a href="https://twitter.com/hotmail_dot_com" target="_blank"><img class="socialIcon" src="res/ico_twit.png" title="Twitter"></a>
+            <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank"><img class="socialIcon" src="res/ico_linkedin.png" title="LinkedIn"></a>
+            <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank"><img class="socialIcon" src="res/ico_yt.png" title="YouTube"></a>
+            <a href="https://github.com/choongzhanhong" target="_blank"><img class="socialIcon" src="res/ico_github.png" title="GitHubs"></a>
+            <a href="https://www.tiktok.com/@horadolphin?" target="_blank"><img class="socialIcon" src="res/ico_tiktok.png" title="TikTok"></a>
+        </div>
+        <div class="container">
+            <h3>Contact Me</h3>
+            <p>Email: choongzhanhong@gmail.com<br>
+            Telegram: @horadolphin</p>
+        </div>
+        <!-- Footer here -->
+        <footer>Made with Bootstrap / Zhan Hong 2021</footer>
+    </body>
 </html>
