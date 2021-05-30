@@ -9,7 +9,7 @@ body {
 }
 
 hr {
-	border: 1px solid rgba(255,255,255,0.6);;
+	border: 1px solid rgba(255,255,255,0.6);
 }
 footer {
 	color: rgba(255,255,255,0.6);
@@ -35,4 +35,20 @@ footer {
 
 small {
 	color: #aaa;
+}
+
+.otherLink {
+	background-color: rgba(255,255,255,0.6);
+	color: black;
+	padding: 20px;
+}
+.otherLink:hover {
+	background-color: rgba(255,255,255,0.8);
+}
+
+
+.carousel-item img {
+	margin: auto;
+	display: block;
+	width: 70% !important;
 }
