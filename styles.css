@@ -122,3 +122,17 @@ textarea {
   -webkit-animation-direction: normal, alternate;
   animation-direction: normal, alternate;
 }
+/*end bob*/
+
+
+/*color the accordion*/
+.accordion-button.show {
+  background-color:  #7c858d;
+}
+.accordion-button {
+  background-color:  #6c757d;
+}
+.accordion-item {
+  background-color:  black;
+
+}
