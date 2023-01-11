@@ -9,10 +9,11 @@ body {
 	padding: 10px;
 }
 
+/*Make the card images crop*/
+
 .card-img-top {
     object-fit: cover;
 }
-
 hr {
 	border: 1px solid rgba(255,255,255,0.6);
 }
