@@ -1,137 +1,184 @@
-<!DOCTYPE html>
-
+<!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" type="image/png" href="res/favicon.png">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
-        <link href="styles.css" rel="stylesheet">
-        <title>About Me | Zhan Hong</title>
-    </head>
-    <body>
-        <header><h1 id="topHeader">Zhan Hong's Page</h1></header>
-        <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
-            <a class="navbar-brand" href="index.html"><img src="res/zh_sm.png" height="40"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button>
-            <!-- No Dropdown Navbar -->
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a href="index.html" class="nav-link text-light">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="about.html" class="nav-link active">About Me</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="portfolio.html" class="nav-link text-light">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="others.html" class="nav-link text-light">Other Links</a>
-                    </li>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--Informative Tags-->
+    <meta name="description" content="Zhan Hong's Portfolio | Communications and Computer Science Student">
+    <meta name="author" content="Zhan Hong">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!--if the above doesnt work-->
+    <link href="css/bootstrap.css" rel="stylesheet" media="all">
+    <script src="js/bootstrap.js"></script>
+
+    <!-- My own CSS -->
+    <link href="styles.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="res/Logos/LOGO_favicon.png">
+
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"> 
+
+    <title>About | Zhan Hong</title>
+</head>
+
+
+<body>
+    <!--nav bar-->
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+    <!--nav brand logo-->
+        <a class="navbar-brand" href="index.html">
+            <img src="res/Logos/Logo.svg" alt="My Logo" height="50" class="d-inline-block align-text-top">
+        </a>
+        
+        <!--Mobile collapse-->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!--Navbar contents-->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="about.html">About Me</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="others.html">Other Stuff</a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<!-- actual content -->
+<div class="container py-5">
+  <h1>About Me</h1>
+  <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
+  <hr>
+
+  <!-- Academics -->
+  <div class="container">
+      <h2>Education</h2>
+      <div>
+        <small>2020 – PRESENT | </small><span class="badge bg-secondary">THIRD YEAR</span>
+        <h3>National University of Singapore</h3>
+        <p>
+            <b>Bachelor of Arts (Honours)</b><br>
+            <span class="fw-light">
+                Major in Communications and New Media<br>
+                Minor in Computer Science<br>
+            </span>
+        </p>
+    </div>
+    <div>
+      <small>2012 – 2017</small>
+      <h3>NUS High School of Mathematics and Science</h3>
+      <p>
+        <b>NUS High Diploma (Distinction)</b><br>
+        <span class="fw-light">
+            Honours in Mathematics<br>
+            Majors in Chemistry and Physics<br>
+        </span>
+    </p>
+</div>
+</div><hr>
+<!--Experiences-->
+<div class="container">
+  <h2>Involvements</h2>
+  <div>
+    <small>2020 – PRESENT</small>
+    <h3>NUS Communications and New Media Society</h3>
+
+    <p>
+        <b>Creative Director; Special Projects Director</b><br>
+        Student Leader, involved in creating publicity materials for our <a target="_blank" href="https://www.instagram.com/nus.cnm/">Instagram Page</a>, and planning several projects for the student body, including fun activities for the student body, talks involving external organizations, and orientation camps for future students. I am most proud of the <a href="portfolio.html#boot2camp">Bootstrap Bootcamp</a>, which I spearheaded and planned. 
+    </p>
+</div>
+<div>
+    <small>2022 - PRESENT</small>
+    <h3>FASS Student Ambassador</h3>
+    <p>
+        Representative of the Faculty of Arts and Social Sciences, planning and participating in events that bridge the faculty to the student body and public.
+    </p>
+</div>
+</div><hr>
+<!-- SKILLS-->
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+                <li>SQL</li>
+                <li>C/C++</li>
+                <li>Adobe Suite</li>
+                <ul>
+                    <li>Photoshop</li>
+                    <li>Illustrator</li>
+                    <li>InDesign</li>
+                    <li>Premier Pro</li>
+                    <li>After Effects</li>
                 </ul>
+                <li>Microsoft Office</li>
+                <li>LaTeX</li>
+            </ul>
+        </div>
+        <div class="col-sm">
+            <h2>Other Skills & Interests</h2>
+            <ul>
+                <li>Powerlifting, Fitness. My PRs (I'm trying to improve!):</li>
+                <ul>
+                    <li>Squat: 140kg x2</li>
+                    <li>Deadlift: 165kg x1</li>
+                    <li>Bench Press: 80kg x1</li>
+                    <li>Overhead Press: 50kg x3</li>
+                </ul>
+                <li>Cooking, Baking, and Mixology (Used to be a bartender too)</li>
+                <li>Visual Arts, Graphic Design</li>
+                <li>Film-making and watching</li>
+                <li>Music & Vinyl</li>
+            </ul>
+        </div>
+    </div>
+</div><hr>
+
+<!-- Social Links in Footer -->
+<footer>
+    <div class="container">
+        <h3>Links</h3>
+        <a href="https://www.facebook.com/warygut" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_facebook.png" title="Facebook"></a>
+
+            <!--
+                <a href="https://www.instagram.com/dazhtu/" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_ig.png" title="Instagram"></a> -->
+
+                <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_linkedin.png" title="LinkedIn"></a>
+                <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_yt.png" title="YouTube"></a>
+                <a href="https://github.com/choongzhanhong" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_github.png" title="GitHub"></a>
             </div>
-
-        </nav>
-        <br>
-        <div class="container">
-            <h1>About Me</h1>
-            <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
-            <hr>
-            <!-- Academics -->
             <div class="container">
-            <h2>Education</h2>
-                <div>
-                    <small>2020 – PRESENT</small> <span class="badge badge-success">CURRENT</span>
-                    <h3>National University of Singapore</h3>
-                    <p>
-                        Major in Communications and New Media<br>
-                        Minor in Interactive Media Development<br>
-                        Minor in Film Studies<br>
-                   </p>
-                </div>
-                <div>
-                    <small>2012 – 2017</small>
-                    <h3>NUS High School of Mathematics and Science</h3>
-                    <p>
-                        Diploma (Distinction)<br>
-                        Honours in Mathematics<br>
-                        Majors in Chemistry and Physics<br>
-                    </p>
-                </div>
-            </div><hr>
-            <!--Experiences-->
-            <div class="container">
-            <h2>Involvements</h2>
-                <div>
-                    <small>2020 – PRESENT</small>
-                    <h3>NUS Communications and New Media Society</h3>
-                    
-                    <p>
-                        <b>Creative Director; Special Projects Director</b><br>
-                        Student Leader, involved in creating publicity materials for our <a target="_blank" href="https://www.instagram.com/nus.cnm/">Instagram Page</a>, and planning several projects for the student body, including fun activities for the student body, talks involving external organizations, and orientation camps for future students. I am most proud of the <a href="portfolio.html#boot2camp">Bootstrap Bootcamp</a>, which I spearheaded and planned. 
-                   </p>
-                </div>
-                <div>
-                    <small>2022 - PRESENT</small>
-                    <h3>FASS Student Ambassador</h3>
-                    <p>
-                        Representative of the Faculty of Arts and Social Sciences, planning and participating in events that bridge the faculty to the student body and public.
-                    </p>
-                </div>
-            </div><hr>
-        <!-- SKILLS-->
-        <div class="container">
-            <div class="row">
-                <div class="col-sm">
-                    <h2>Skills</h2>
-                    <ul>
-                        <li>HTML, CSS</li>
-                        <li>JavaScript</li>
-                        <li>Python</li>
-                        <li>SQL</li>
-                        <li>C/C++</li>
-                        <li>Adobe Suite</li>
-                        <ul>
-                            <li>Photoshop</li>
-                            <li>Illustrator</li>
-                            <li>InDesign</li>
-                            <li>Premier Pro</li>
-                            <li>After Effects</li>
-                        </ul>
-                        <li>Microsoft Office</li>
-                        <li>LaTeX</li>
-                    </ul>
-                </div>
-                <div class="col-sm">
-                    <h2>Other Skills & Interests</h2>
-                    <ul>
-                        <li>Powerlifting, Fitness. My PRs (I'm trying to improve!):</li>
-                        <ul>
-                            <li>Squat: 140kg x2</li>
-                            <li>Deadlift: 165kg x1</li>
-                            <li>Bench Press: 80kg x1</li>
-                            <li>Overhead Press: 50kg x3</li>
-                        </ul>
-                        <li>Cooking, Baking, and Mixology (Used to be a bartender too)</li>
-                        <li>Visual Arts, Graphic Design</li>
-                        <li>Film-making and watching</li>
-                        <li>Music & Vinyl</li>
-                    </ul>
-                </div>
+                <h3>Contact Me</h3>
+                <p><b>Email: </b><a href="mailto:choongzhanhong@gmail.com">choongzhanhong@gmail.com</a> / <a href="mailto:zhanhong@u.nus.edu">zhanhong@u.nus.edu</a></p>
+                <br>
             </div>
-        </div><hr>
-
-        <!-- Footer here -->
-        <!--<footer>Made with Bootstrap / Zhan Hong</footer> -->
-
-        <!--end of page script-->
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        </footer>
+        
+        <!-- Javascript, keep at end of page: Bootstrap Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     </body>
-</html>
+    </html>
