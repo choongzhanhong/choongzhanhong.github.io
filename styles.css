@@ -142,3 +142,13 @@ textarea {
   background-color:  black;
 
 }
+
+/* For the icon indicating it's an extern*/
+.icon_external_link {
+    /* offset a bit on top */
+    margin-top: -3px;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: white;
+}
