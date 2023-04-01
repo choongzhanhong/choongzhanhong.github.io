@@ -31,7 +31,8 @@
 </head>
 
 
-<body>
+<body data-bs-spy="scroll" data-bs-target="#scrollspy_navbar" data-bs-offset="0"
+      tabindex="0" style="position: relative">
 <!--nav bar-->
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
@@ -71,23 +72,25 @@
         <div class="col-10">
             <!-- actual content -->
             <div class="container py-5">
-                <h1>About Me</h1>
-                <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
+                <section class="container">
+                    <h1>About Me</h1>
+                    <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
+                </section>
+                
                 <hr>
-
                 <!-- Academics -->
-                <div class="container" id="acads">
+                <section class="container" id="about_education">
                     <h2>Education</h2>
                     <div>
-                        <small>2020 – PRESENT | </small><span class="badge bg-secondary">THIRD YEAR</span>
-                        <h3>National University of Singapore</h3>
-                        <p>
-                            <b>Bachelor of Arts (Honours)</b><br>
-                            <span class="fw-light">
-                    Major in Communications and New Media<br>
-                    Minor in Computer Science<br>
-                </span>
-                        </p>
+                    <small>2020 – PRESENT | </small><span class="badge bg-secondary">THIRD YEAR</span>
+                    <h3>National University of Singapore</h3>
+                    <p>
+                        <b>Bachelor of Arts (Honours)</b><br>
+                        <span class="fw-light">
+                            Major in Communications and New Media<br>
+                            Minor in Computer Science<br>
+                        </span>
+                    </p>
                     </div>
                     <div>
                         <small>2012 – 2017</small>
@@ -95,14 +98,17 @@
                         <p>
                             <b>NUS High Diploma (Distinction)</b><br>
                             <span class="fw-light">
-                Honours in Mathematics<br>
-                Majors in Chemistry and Physics<br>
-            </span>
+                                Honours in Mathematics<br>
+                                Majors in Chemistry and Physics<br>
+                            </span>
                         </p>
                     </div>
-                </div><hr>
-                <!--Experiences-->
-                <div class="container">
+                </section>
+
+                <hr>
+
+                <!-- Involvements and Experiences -->
+                <section class="container" id="about_involvements">
                     <h2>Involvements</h2>
                     <div>
                         <small>2021 – PRESENT</small>
@@ -161,9 +167,11 @@
                             Representative of the Faculty of Arts and Social Sciences, planning and participating in events that bridge the faculty to the student body and public.
                         </p>
                     </div>
-                </div><hr>
+                </section>
+                <hr>
+
                 <!-- SKILLS-->
-                <div class="container">
+                <section class="container" id="about_skills">
                     <div class="row">
                         <div class="col-sm">
                             <h2>Skills</h2>
@@ -202,7 +210,7 @@
                             </ul>
                         </div>
                     </div>
-                </div><hr>
+                </section><hr>
 
                 <!-- Social Links in Footer -->
                 <footer>
@@ -227,12 +235,11 @@
         </div>
 
         <!-- right side list -->
-        <div class="col-2 py-5">
+        <div class="column col-2 py-5 position-fixed end-0 mx-5" id="scrollspy_navbar">
             <div id="list-example" class="list-group">
-                <a class="list-group-item list-group-item-action" href="#acads">Item 1</a>
-                <a class="list-group-item list-group-item-action" href="#list-item-2">Item 2</a>
-                <a class="list-group-item list-group-item-action" href="#list-item-3">Item 3</a>
-                <a class="list-group-item list-group-item-action" href="#list-item-4">Item 4</a>
+                <a class="list-group-item list-group-item-action" href="#about_education">Education</a>
+                <a class="list-group-item list-group-item-action" href="#about_involvements">Involvements</a>
+                <a class="list-group-item list-group-item-action" href="#about_skills">Skills</a>
             </div>
         </div>
     </div>

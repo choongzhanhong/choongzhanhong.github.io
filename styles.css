@@ -152,3 +152,9 @@ textarea {
     height: 1em;
     fill: white;
 }
+
+/* https://stackoverflow.com/questions/49331572/offset-scroll-anchor-in-html-with-bootstrap-4-fixed-navbar */
+section {
+    padding-top: 90px;
+    margin-top: -90px;
+}
