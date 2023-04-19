@@ -34,12 +34,14 @@
 
 <body>
 <!--nav bar-->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
         <!--nav brand logo-->
         <a class="navbar-brand" href="index.html">
-            <img src="res/Logos/Square-White.svg" alt="My Logo" height="50" class="d-inline-block align-text-top">
+            <img src="res/Logos/Square-White.svg" alt="My Logo" height="50" class="d-inline-block
+                 align-text-top">
         </a>
+
         <!--Mobile collapse-->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,10 +52,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link" aria-current="page" href="index.html">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Me</a>
+                    <a class="nav-link active" href="about.html">About Me</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="portfolio.html">Portfolio</a>
@@ -62,35 +64,79 @@
                     <a class="nav-link" href="others.html">Other Stuff</a>
                 </li>
             </ul>
+
         </div>
     </div>
 </nav>
 
-<!-- Social Links in Footer -->
-<footer>
-    <div class="container">
-        <h3>Links</h3>
-        <a href="https://www.facebook.com/warygut" target="_blank">
-            <img class="socialIcon hvr-bob" src="res/ico_facebook.png" title="Facebook">
-        </a>
+<div class="container">
+    <div class="row">
+        <div class="col-10">
+            <!-- actual content -->
+            <div class="container py-5">
+                <section class="container">
+                    <h1>About Me</h1>
+                    <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
+                </section>
 
-        <!--
-        <a href="https://www.instagram.com/dazhtu/" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_ig.png" title="Instagram"></a> -->
+                <hr>
+                <!-- Academics -->
+                <section class="container" id="about_education">
+                    <h2>Education</h2>
+                    <div>
+                        <small>2020 – PRESENT | </small><span class="badge bg-secondary">THIRD YEAR</span>
+                        <h3>National University of Singapore</h3>
+                        <p>
+                            <b>Bachelor of Arts (Honours)</b><br>
+                            <span class="fw-light">
+                            Major in Communications and New Media<br>
+                            Minor in Computer Science<br>
+                        </span>
+                        </p>
+                    </div>
+                    <div>
+                        <small>2012 – 2017</small>
+                        <h3>NUS High School of Mathematics and Science</h3>
+                        <p>
+                            <b>NUS High Diploma (Distinction)</b><br>
+                            <span class="fw-light">
+                                Honours in Mathematics<br>
+                                Majors in Chemistry and Physics<br>
+                            </span>
+                        </p>
+                    </div>
+                </section>
 
-        <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank">
-            <img class="socialIcon hvr-bob" src="res/ico_linkedin.png" title="LinkedIn"></a>
-        <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank">
-            <img class="socialIcon hvr-bob" src="res/ico_yt.png" title="YouTube"></a>
-        <a href="https://github.com/choongzhanhong" target="_blank">
-            <img class="socialIcon hvr-bob" src="res/ico_github.png" title="GitHub"></a>
+                <!-- Social Links in Footer -->
+                <footer>
+                    <div class="container">
+                        <h3>Links</h3>
+                        <a href="https://www.facebook.com/warygut" target="_blank"><img class="socialIcon hvr-bob"
+                                                                                        src="res/ico_facebook.png"
+                                                                                        title="Facebook"></a>
+
+                        <!--
+                            <a href="https://www.instagram.com/dazhtu/" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_ig.png" title="Instagram"></a> -->
+
+                        <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank"><img
+                                class="socialIcon hvr-bob" src="res/ico_linkedin.png" title="LinkedIn"></a>
+                        <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank"><img
+                                class="socialIcon hvr-bob" src="res/ico_yt.png" title="YouTube"></a>
+                        <a href="https://github.com/choongzhanhong" target="_blank"><img class="socialIcon hvr-bob"
+                                                                                         src="res/ico_github.png"
+                                                                                         title="GitHub"></a>
+                    </div>
+                    <div class="container">
+                        <h3>Contact Me</h3>
+                        <p><b>Email: </b><a href="mailto:choongzhanhong@gmail.com">choongzhanhong@gmail.com</a> / <a
+                                href="mailto:zhanhong@u.nus.edu">zhanhong@u.nus.edu</a></p>
+                        <br>
+                    </div>
+                </footer>
+            </div>
+        </div>
     </div>
-    <div class="container">
-        <h3>Contact Me</h3>
-        <p><b>Email: </b><a href="mailto:choongzhanhong@gmail.com">choongzhanhong@gmail.com</a> / <a
-                href="mailto:zhanhong@u.nus.edu">zhanhong@u.nus.edu</a></p>
-        <br>
-    </div>
-</footer>
+</div>
 <!-- Javascript, keep at end of page: Bootstrap Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
