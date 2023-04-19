@@ -169,3 +169,18 @@ section {
     padding-top: 90px;
     margin-top: -90px;
 }
+
+.nav-link, a {
+    color: #aaaaaa;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.nav-link:hover, a:hover {
+    color: #e19e52 !important;
+}
+
+.bi {
+    font-size: 2em !important;
+    margin: 0.2em;
+}

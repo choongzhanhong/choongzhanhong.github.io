@@ -28,6 +28,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href=
+            "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+
     <title>Portfolio | Zhan Hong</title>
 </head>
 
@@ -80,10 +84,97 @@
                         Here are some things I've worked on in the past. Some are done as part of academic
                         assignments, and others as personal projects.
                     </p>
-                    <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
+                    <a class="text-info" href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
                 </section>
                 <hr>
 
+                <!-- Past Works -->
+                <section class="container">
+                    <!--Probably reorganize this section with an accordion.-->
+                    <h2>Projects</h2>
+                    <p>I have undertaken several projects, some as part of my undergraduate studies, others as part of my co-curricular
+                        activities. Please have a look!</p>
+
+
+                    <!--Start list-->
+                    <div>
+                        <h4><a class="text-info" href="https://cs4240-group5.github.io/intuitive/" target="_blank">
+                            2023: intUItive! - VR Project</a></h4>
+
+                        <p>
+                            This was done as part of a final project for a class on Virtual Reality interaction
+                            design. intUItive! explores user interface/user experience design in VR. I developed
+                            parts of the Unity map, scripts, and the overall design of the project.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4><a class="text-info" href="https://ay2223s2-cs2113-w12-4.github.io/tp/" target="_blank">
+                            2023: MovieMate - Software Engineering Project
+                        </a></h4>
+                        <p>
+                            I worked with a team to create a simple Command-Line application in Java as part of a
+                            software engineering module. In the process, I learned Object-Oriented Programming
+                            practices and how to use GitHub to work on software in a team.
+                        </p>
+                    </div>
+
+                    <div id="bootstrap">
+                        <h4>2022: Bootstrap Bootcamp</h4>
+
+                        <p>I spearheaded and planned a one-day introductory workshop on creating a website using HTML, CSS, and
+                            Bootstrap. Participants were fellow schoolmates from NUS. During the event, they made their own website to
+                            store their portfolio and CV (Much like this one!), and networked with each other as well. This workshop was
+                            held as one of the NUS Communications and New Media Society's events, and I had assistance from fellow
+                            members and staff advisor with administrative details. (Photos TBA)</p>
+                    </div>
+
+                    <div id="gamedesign">
+                        <h4><a class="text-info"
+                           href="https://github.com/choongzhanhong/parasitegit"
+                           target="_blank">
+                            2021: Parasite - Game Design Project
+                        </a></h4>
+                        <video width="720" controls>
+                            <source src="res/NM3216vid.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+
+                        <p>The video showcases our game, Parasite, made with Game Maker Studio 2. It was done as a final project for a
+                            module on Game Design. I was the lead programmer and producer, programming the source code, helping in other
+                            aspects like art, while managing the team and ensuring we met our deliverables. Major props to my teammates
+                            for this wonderful game made in seven weeks!</p>
+                    </div>
+
+                    <div>
+                        <h4><a class="text-info" href="bounce/index.html" target="_blank">2021: Bounce</a></h4>
+
+                        <p>This was part of my final project for a module on HTML, CSS, and Javascript. For this project, I created an
+                            interactive ball physics simulator.<br>
+                            Additionally, I used Node.js to implement a dynamic web page where multiple users could play a "ping-pong"
+                            game using similar ball physics. Unfortunately, GitHub can only serve static pages so that is not shown.</p>
+                    </div>
+
+                    <div>
+                        <h4><a class="text-info" href="res/Media.pdf" target="_blank">2021: Media Release</a></h4>
+
+                        <p>As the final assignment of a module on media writing, I had to produce a press release and social media
+                            collaterals for a fictional campaign.<br>
+                            Content was created and put together by me, with images sourced online (For the purpose of this assignment).
+                            Although this is a fictional client, I've included this here as a sample of my media writing and graphic
+                            design work.</p>
+                    </div>
+
+                    <div>
+                        <h4><a class="text-info" href="res/Feature.pdf" target="_blank">2021: Feature Article</a></h4>
+
+                        <p>In the same module on media writing, I also produced a feature article on a fellow schoolmate's volunteering
+                            initiative. Photos and article are original.</p>
+                    </div>
+                </section>
+                <hr>
+
+                <!-- Graphic -->
                 <section class="container">
                     <h2>Graphic Design & Digital Painting</h2>
                     <p>A small selection of images I have edited on Adobe Photoshop for personal or school-related collaterals. Included
@@ -150,100 +241,35 @@
                     </ul>
 
                 </section>
-                <hr>
 
-                <!-- Past Works -->
-                <section class="container">
-                    <!--Probably reorganize this section with an accordion.-->
-                    <h2>Projects</h2>
-                    <p>I have undertaken several projects, some as part of my undergraduate studies, others as part of my co-curricular
-                        activities. Please have a look!</p>
-
-
-                    <!--Start list-->
-                    <div id="boot2camp">
-                        <h4>2022: Bootstrap Bootcamp</h4>
-
-                        <p>I spearheaded and planned a one-day introductory workshop on creating a website using HTML, CSS, and
-                            Bootstrap. Participants were fellow schoolmates from NUS. During the event, they made their own website to
-                            store their portfolio and CV (Much like this one!), and networked with each other as well. This workshop was
-                            held as one of the NUS Communications and New Media Society's events, and I had assistance from fellow
-                            members and staff advisor with administrative details. (Photos TBA)</p>
-                    </div>
-
-                    <div id="gamedesign">
-                        <h4>2021: Game Design Project</h4>
-                        <video width="720" controls>
-                            <source src="res/NM3216vid.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                        </video>
-
-                        <p>The video showcases our game, Parasite, made with Game Maker Studio 2. It was done as a final project for a
-                            module on Game Design. I was the lead programmer and producer, programming the source code, helping in other
-                            aspects like art, while managing the team and ensuring we met our deliverables. Major props to my teammates
-                            for this wonderful game made in seven weeks!</p>
-                    </div>
-
-                    <div>
-                        <h4><a class="text-info" href="bounce/index.html" target="_blank">2021: Bounce</a></h4>
-
-                        <p>This was part of my final project for a module on HTML, CSS, and Javascript. For this project, I created an
-                            interactive ball physics simulator.<br>
-                            Additionally, I used Node.js to implement a dynamic web page where multiple users could play a "ping-pong"
-                            game using similar ball physics. Unfortunately, GitHub can only serve static pages so that is not shown.</p>
-                    </div>
-
-                    <div>
-                        <h4><a class="text-info" href="res/Media.pdf" target="_blank">2021: Media Release</a></h4>
-
-                        <p>As the final assignment of a module on media writing, I had to produce a press release and social media
-                            collaterals for a fictional campaign.<br>
-                            Content was created and put together by me, with images sourced online (For the purpose of this assignment).
-                            Although this is a fictional client, I've included this here as a sample of my media writing and graphic
-                            design work.</p>
-                    </div>
-
-                    <div>
-                        <h4><a class="text-info" href="res/Feature.pdf" target="_blank">2021: Feature Article</a></h4>
-
-                        <p>In the same module on media writing, I also produced a feature article on a fellow schoolmate's volunteering
-                            initiative. Photos and article are original.</p>
-                    </div>
-                </section>
-                <hr>
-
-                <!-- Social Links in Footer -->
-                <footer>
-                    <div class="container">
-                        <h3>Links</h3>
-                        <a href="https://www.facebook.com/warygut" target="_blank">
-                            <img class="socialIcon hvr-bob" src="res/ico_facebook.png" title="Facebook">
-                        </a>
-
-                        <!--
-                        <a href="https://www.instagram.com/dazhtu/" target="_blank"><img class="socialIcon hvr-bob" src="res/ico_ig.png" title="Instagram"></a> -->
-
-                        <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank">
-                            <img class="socialIcon hvr-bob" src="res/ico_linkedin.png" title="LinkedIn"></a>
-                        <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank">
-                            <img class="socialIcon hvr-bob" src="res/ico_yt.png" title="YouTube"></a>
-                        <a href="https://github.com/choongzhanhong" target="_blank">
-                            <img class="socialIcon hvr-bob" src="res/ico_github.png" title="GitHub"></a>
-                    </div>
-                    <div class="container">
-                        <h3>Contact Me</h3>
-                        <p><b>Email: </b><a href="mailto:choongzhanhong@gmail.com">choongzhanhong@gmail.com</a> / <a
-                                href="mailto:zhanhong@u.nus.edu">zhanhong@u.nus.edu</a></p>
-                        <br>
-                    </div>
-                </footer>
             </div>
         </div>
     </div>
 </div>
 
+<!-- footer -->
+<div class="container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <p class="col-md-4 mb-0 text-body-secondary">
+            <a href="mailto:choongzhanhong@gmail.com" target="_blank"><i class="bi bi-envelope-fill"></i></a>
+            <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank"><i class="bi bi-linkedin"></i></a>
+            <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank"><i class="bi bi-youtube"></i></a>
+            <a href="https://www.facebook.com/warygut" target="_blank"><i class="bi bi-facebook"></i></a>
+        </p>
 
-
+        <a href="index.html"
+           class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+            <img src="res/Logos/Square-White.svg" alt="My Logo" height="50" class="d-inline-block
+                 align-text-top">
+        </a>
+        <ul class="nav col-md-4 justify-content-end">
+            <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary">Home</a></li>
+            <li class="nav-item"><a href="about.html" class="nav-link px-2 text-body-secondary">About</a></li>
+            <li class="nav-item"><a href="portfolio.html" class="nav-link px-2 text-body-secondary">Portfolio</a></li>
+            <li class="nav-item"><a href="others.html" class="nav-link px-2 text-body-secondary">Other</a></li>
+        </ul>
+    </footer>
+</div>
 
 <!-- Javascript, keep at end of page: Bootstrap Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
