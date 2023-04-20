@@ -158,8 +158,8 @@ textarea {
 /* for navigation without being blocked by header*/
 span.anchor {
     position:relative;
-    padding-top: 90px;
-    margin-top: -90px;
+    padding-top: 80px;
+    margin-top: -80px;
 }
 
 .nav-link, a {
@@ -176,4 +176,8 @@ span.anchor {
 footer .bi {
     font-size: 2em !important;
     margin: 0.2em;
+}
+
+h1 {
+    font-weight: 600;
 }
