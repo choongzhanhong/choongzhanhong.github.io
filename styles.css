@@ -154,16 +154,6 @@ textarea {
 
 }
 
-/* For the icon indicating it's an extern*/
-.icon_external_link {
-    /* offset a bit on top */
-    margin-top: -3px;
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    fill: white;
-}
-
 /* https://stackoverflow.com/questions/49331572/offset-scroll-anchor-in-html-with-bootstrap-4-fixed-navbar */
 section {
     padding-top: 90px;
@@ -180,7 +170,8 @@ section {
     color: #e19e52 !important;
 }
 
-.bi {
+/*only footer icons*/
+footer .bi {
     font-size: 2em !important;
     margin: 0.2em;
 }
