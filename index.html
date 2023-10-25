@@ -1,123 +1,437 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <!-- Head Updated as of 11.03.2023 -->
+  <!-- JOHN DOE’S PAGE - https://github.com/cadars/john-doe/ -->
 
-    <!-- Required meta tags -->
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
 
-    <!--Informative Tags-->
-    <meta name="description" content="Zhan Hong's Portfolio | Communications and Computer Science Student">
-    <meta name="author" content="Zhan Hong">
+    <title>Zhan Hong's Page</title>
+    <meta name="description" content="Site description">
 
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
-          rel="stylesheet"
-          integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
-          crossorigin="anonymous">
+    <!-- Recommended minimum -->
+    <meta property="og:title" content="Site title">
+    <meta property="og:description" content="Site description">
+    <meta property="og:image" content="img/site-image.jpg">
+    <meta name="twitter:card" content="summary_large_image">
 
-    <!--if the above doesnt work-->
-    <link href="css/bootstrap.css" rel="stylesheet" media="all">
-    <script src="js/bootstrap.js"></script>
+    <!-- You could also inline the stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <!-- Get the font name is written "Like+This" -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM Plex Sans Condensed">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM Plex Mono">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM Plex Serif">
+  </head>
 
-    <!-- My own CSS -->
-    <link href="styles.css" rel="stylesheet">
-    <link rel="icon" type="image/png" href="res/Logos/Logo.svg">
+  <body>
 
-    <!-- Inter Font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <header>
+      <h1>
+        <a href="#home">Zhan Hong</a>
+      </h1>
+      <nav>
+        <a href="#about">About</a>
+          <!-- <a href="#news">News</a>
+            <a href="#photos">Photos</a> -->
+            <a href="#portfolio">Portfolio</a>
+            <a href="#other">Other</a>
+            <a href="#sitemap">Sitemap</a>
+          </nav>
+        </header>
 
-    <title>Home | Zhan Hong</title>
-</head>
+        <main>
 
-<body>
-<!--nav bar-->
-<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
-    <div class="container-fluid">
-        <!--nav brand logo-->
-        <a class="navbar-brand" href="index.html"><img src="res/Logos/Square-White.svg" alt="My Logo" height="50"
-                                                       class="d-inline-block align-text-top"></a>
-        <!--Mobile collapse-->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+          <section id="home"> <!-- HOME -->
 
-        <!--Navbar contents-->
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Me</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="portfolio.html">Portfolio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="others.html">Other Stuff</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
-
-<br> <!-- adds a space between nav and content-->
-
-<div class="container px-4 py-5">
-    <div class="row gx-5">
-        <div class="col-md px-5">
             <h1>Hi, I'm Zhan Hong.</h1>
-            <p>I'm an undergraduate at the National University of Singapore. I'm pursuing a degree in Communications
-                and New Media with a minor in Computer Science. I have a keen interest in design of all sorts. That
-                includes visual arts and graphic design, but also product, game, usability, and user interface
-                design.</p>
 
-            <p>In my free time, I like to play sports and lift weights. I also do stand-up comedy. Please take a look
-                around at my site and projects!</p>
-            <a href="res/CV.pdf" target="_blank">Link to my CV (PDF) here.</a>
+            <p>I'm an undergraduate at the National University of Singapore. I'm pursuing a Bachelor's degree in <b>Communications and New Media</b> with a minor in <b>Computer Science</b>. </p>
+
+            <p>I have a keen interest in design of all sorts. That includes UI/UX and graphic design, but also product, game, and web design.</p>
+
+            <p>In my free time, I like to play sports, instruments, or video games. I also sometimes lift weights and do stand-up comedy. Please take a look around at my site and projects!</p>
+
+            <a target="_blank" href="res/03102023_resume_zhanhong.pdf">My resume.</a>
             <br>
-            <small>This page was last updated on 11 Jan 2023. Site is under construction.</small>
 
-        </div>
-        <div class="col-md py-3">
-            <img id="mePic" src="res/me_pic.png" width="70%">
-        </div>
-    </div>
-</div>
 
-<!-- Social Links in Footer -->
-<footer>
-    <div class="container">
-        <h3>Links</h3>
-        <a href="https://www.facebook.com/warygut" target="_blank"><img class="socialIcon hvr-bob"
-                                                                        src="res/ico_facebook.png" title="Facebook"></a>
+            <br>
+            <a  target="_blank" href="https://www.linkedin.com/in/choongzhanhong">LinkedIn</a>
 
-        <a href="https://www.linkedin.com/in/choongzhanhong" target="_blank">
-            <img class="socialIcon hvr-bob"
-                 src="res/ico_linkedin.png"
-                 title="LinkedIn">
-        </a>
-        <a href="https://www.youtube.com/channel/UCs-jpYp49QFaDF7xiNGO6wA" target="_blank"><img
-                class="socialIcon hvr-bob" src="res/ico_yt.png" title="YouTube"></a>
-        <a href="https://github.com/choongzhanhong" target="_blank"><img class="socialIcon hvr-bob"
-                                                                         src="res/ico_github.png" title="GitHub"></a>
-    </div>
-    <div class="container">
-        <h3>Contact Me</h3>
-        <p><b>Email: </b><a href="mailto:choongzhanhong@gmail.com">choongzhanhong@gmail.com</a> / <a
-                href="mailto:zhanhong@u.nus.edu">zhanhong@u.nus.edu</a></p>
-        <br>
-    </div>
-</footer>
+            <br>
+            <a  target="_blank" href="https://github.com/choongzhanhong">GitHub</a>
 
-<!-- Javascript, keep at end of page: Bootstrap Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
-        crossorigin="anonymous"></script>
-</body>
-</html>
+            <br>
+            Email:
+            <a href="mailto:choongzhanhong@gmail.com">choongzhanhong@gmail.com</a> /
+            <a href="mailto:zhanhong@u.nus.edu">zhanhong@u.nus.edu</a>
+
+            <br>
+            <small>Page last updated 25/10/2023</small>
+          </section>
+
+          <section id="about"> <!-- ABOUT -->
+            <h1>About Me</h1>
+
+            <p>I am rather proficient in design. I think I'm decent at programming too.
+              Check out my <a href="#experience">education and work experience</a>, and my <a href="#skills">skills and interests</a>. I'm also pretty involved in
+              some <a href="#cca">student organisations</a>.
+            </p>
+
+              <figure> 
+                <img loading="lazy" alt="A picture of me." src="res/me_pic.png" width="300">
+                <figcaption>This was me back in 2021. Even after all these years, I think it's still my best photo.</figcaption>
+              </figure>
+          </section>
+
+          <section id="experience">
+            <p class="breadcrumb">
+              <a href="#about">← Back to About Me</a> /
+              <a href="#experience" class="active">Experience</a> /
+              <a href="#skills">Skills</a> /
+              <a href="#cca">CCAs</a>
+            </p>
+
+            <h2>Education</h2>
+            <b>National University of Singapore</b>
+            <small>[2020 – expected 2024]</small>
+            <p>
+              Bachelor of Social Sciences (Honours) in Communications and New Media<br>
+              (Currently Honours, First Class)<br>
+              Minor in Computer Science<br>
+            </p>
+
+            <b>NUS High School of Mathematics and Science</b>
+            <small>[2012 – 2017]</small>
+            <p>
+              NUS High Diploma (Distinction)<br>
+              Honours in Mathematics<br>
+              Majors in Chemistry and Physics
+            </p>
+
+
+            <h2>Work Experience</h2>
+
+            <b>Health Promotion Board</b>
+            <small>[Jul 2022 – Dec 2022]</small>
+            <p>Digital Marketing Intern</p>
+            <p>
+              Managed HPB digital content (websites, campaigns) as well as
+              annual department-wide content audit.
+            </p>
+
+            <b>Workforce Singapore</b>
+            <small>[May 2022 – Jul 2022]</small>
+            <p>Branding and Social Content Intern</p>
+            <p>
+              Involved with campaigns and roadshow events. Created graphic and written digital content as well.
+            </p>
+
+            <h2>Other Work</h2>
+
+            <b>Student Tutor</b>
+            <small>[Jul 2023 – <b>Current</b>]</small>
+            <p>Teaching CS1010 Programming Methodology under NUS School of Computing, which introduces students to programming concepts via C and Vim.</p>
+
+            <b>Bartender</b>
+            <small>[Jun 2020 – Aug 2021]</small>
+            <p>Teaching CS1010 Programming Methodology under NUS School of Computing, which introduces students to programming concepts via C and Vim.</p>
+          </section>
+
+          <section id="cca">
+            <p>
+              <a href="#about">← Back to About Me</a> /
+              <a href="#experience">Experience</a> /
+              <a href="#skills">Skills</a> /
+              <a href="#cca" class="active">CCAs</a>
+            </p>
+
+            <h2>Co-Curricular Activities</h2>
+
+            <b>NUS Comedy Club</b>
+            <small>[2021 – Present]</small>
+            <p>
+              I started out as an executive committee member of the NUS Comedy club, progressing into the
+              vice-president, then the president. During my time in the NUS Comedy Club, I helped to
+              elevate the club's offerings higher; We established connections with figureheads in the
+              local comedy scene, including comedians like Fakkah Fuzz or Dr Jason Leong, as well as
+              organisations supporting comedy like The Lemon Stand Comedy Club.
+              <br>
+              Altogether, we established an inclusive training ground for aspiring comedians in NUS to
+              grow and learn. Our training sessions and events offer our members opportunities to hone
+              their craft in front of a live crowd, with feedback from experts and experienced peers.
+              <br>
+              Check out the club's <a target="_blank"
+              href="https://www.instagram.com/nuscomedyclub/">Instagram
+              Page <i class="bi bi-box-arrow-up-right"></i></a>.
+            </p>
+
+            <b>NUS Students' Union Committee for Information Technology (NUSSU commIT)</b>
+            <small>[2022 – PRESENT]</small>
+            <p>
+              As the director of NUSSU commIT's training cell, I managed the free workshops targeted at
+              NUS students to impart technical skills, such as the Adobe suite, Excel, Python, and HTML
+              (I adapted my earlier Bootstrap Bootcamp materials).
+              <br>
+              My responsibilities included managing my team of 15 trainers, together with one other
+              partner director, we trained them on the required technical skills, teaching skills, and
+              created workshop materials. We also handled administrative matters like booking of
+              training venues and marketing our events.
+              <br>
+              Check out the organisation's <a target="_blank"
+              href="https://www.instagram.com/nussucommit/">Instagram
+              Page <i class="bi bi-box-arrow-up-right"></i></a>.
+            </p>
+
+            <b>NUS Communications and New Media Society</b>
+            <small>[2020 – 2022]</small>
+            <p>
+              <b>Creative Director; Special Projects Director</b><br>
+              Student Leader, involved in creating publicity materials for our <a target="_blank"
+              href="https://www.instagram.com/nus.cnm/">Instagram
+              Page <i class="bi bi-box-arrow-up-right"></i></a>, and planning several projects for the student body, including fun activities for
+              the student body, talks involving external organizations, and orientation camps for future
+              students. I am most proud of the <a href="portfolio.html#bootstrap">Bootstrap Bootcamp</a>,
+              which I spearheaded and planned.
+            </p>
+          </section>
+
+          <section id="skills">
+            <p>
+              <a href="#about">← Back to About Me</a> /
+              <a href="#experience">Experience</a> /
+              <a href="#skills" class="active">Skills</a> /
+              <a href="#cca">CCAs</a>
+            </p>
+
+            <h2>Skills</h2>
+            <ul>
+              <li><b>Programming:</b> Java, Javascript, Python, C/C++</li>
+              <li><b>Other:</b> HTML, CSS, React, SQL</li>
+              <li><b>Design:</b> Adobe Photoshop, InDesign, Illustrator, Figma</li>
+              <li><b>Video:</b> Adobe Premier Pro, After Effects</li>
+              <li><b>Documents:</b> Microsoft Office, LaTeX</li>
+              <li><b>Software:</b> Unity<label for="unity">1</label><input type="checkbox" id="unity"><small>
+                For games as well as VR development.
+              </small>, Game Maker Studio</li>
+            </ul>
+
+            <h2>Interests</h2>
+            <p>
+              I like teaching and learning stuff. I'm the kind of person who enjoys picking up random new hobbies and projects as well (<i>finishing</i> them, is another story).
+            </p>
+
+            <p>
+              I like thinking about design, definitely. 
+            </p>
+
+            <h2>Hobbies</h2>
+            <p>
+              The more fun stuff.
+            </p>
+            <p>
+              I'm into lifting weights, and although I've read through a few books<label for="books">2</label><input type="checkbox" id="books"><small>
+
+                Namely, Super Squats and Jim Wendler's 5/3/1 original/forever/beyond.
+
+              </small> and forums/blogs (<a target="_blank" href="https://mythicalstrength.blogspot.com/">this one's</a> pretty cool),
+              I think I'm at the stage where I'm doing far less dedicated eating and dieting, due to having limited time. Still, it's a lifetime habit I hope to keep up.
+            </p>
+            <p>
+              I also play dodgeball, mainly in NUS. I think it's a neat sport that should get more recognition. Throwing balls (and hitting people) is very cathartic. I host and teach dodgeball sessions in my hostel in NUS.
+            </p>
+
+            <p>
+              I'm also into coffee, the kind where I buy my own beans and brew it myself, yes. I also enjoy playing the guitar, drums, and singing, all at a very amateur level.
+            </p>
+          </section>
+
+          <section id="news"> <!-- NEWS -->
+
+            <article>
+              <h2>Blogging with Joe Bloggs <time datetime="2020-10-10">10.10.2020</time></h2>
+              <p> One <em>could</em> use this setup to write <s>a blog</s> short updates. For images make sure to use the <code>loading="lazy"</code> attribute, so they get loaded only when needed.</p>
+            </article>
+
+            <article>
+              <h2><a href="https://example.com">Why Your Cat Bites You</a> <time datetime="2004-12-12">12.12.2004</time></h2>
+              <p>Honestly you don't want to know.</p>
+            </article>
+          </section>
+
+          <section id="photos"> <!-- PHOTOS -->
+
+            <p>An example of a photo gallery with a lightbox. <a href="#portfolio">Back to portfolio.</a></p>
+
+            <!-- You can use this grid of images in any page -->
+
+            <div class="grid">
+              <a href="#img-01"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
+              <a href="#img-02"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
+              <a href="#img-03"><img loading="lazy" alt="" src="//dummyimage.com/300x400/ddd/bbb"></a>
+              <a href="#img-04"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
+              <a href="#img-05"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
+              <a href="#img-06"><img loading="lazy" alt="" src="//dummyimage.com/300x400/ddd/bbb"></a>
+              <a href="#img-07"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
+              <a href="#img-08"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
+              <a href="#img-09"><img loading="lazy" alt="" src="//dummyimage.com/300x400/ddd/bbb"></a>
+              <a href="#img-10"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
+              <a href="#img-11"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
+              <a href="#img-12"><img loading="lazy" alt="" src="//dummyimage.com/300x400/ddd/bbb"></a>
+              <a href="#img-13"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
+              <a href="#img-14"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
+              <a href="#img-15"><img loading="lazy" alt="" src="//dummyimage.com/300x400/ddd/bbb"></a>
+            </div>
+          </section>
+
+          <section id="portfolio"> <!-- PORTFOLIO -->
+
+            <div class="slides"> <!-- add each figure here -->
+
+              <figure>
+                <h1>2023</h1>
+                <p>
+                  <a href="https://cs4240-group5.github.io/intuitive/" target="_blank">
+                  intUItive! - VR Project</a>
+                </p>
+                <p>
+                  This was done as part of a final project for a class on Virtual Reality interaction design. <b>intUItive!</b> explores user interface/user experience design in VR. I developed parts of the Unity map, scripts, and the overall design of the project.
+                </p>
+
+                <p>
+                  <a href="https://ay2223s2-cs2113-w12-4.github.io/tp/" target="_blank">
+                    MovieMate - Software Engineering Project
+                  </a>
+                </p>
+                <p>
+                  I worked with a team to create a simple Command-Line application in Java as part of a software engineering module. In the process, I learned Object-Oriented Programming practices and how to use GitHub to work on software in a team. 
+                </p>
+              </figure>
+
+              <figure>
+                <h1>2022</h1>
+                <p>
+                  <a href="https://uxfol.io/p/98661551/030f3a8d" target="_blank">
+                    Eaterio - UI/UX Prototyping Project
+                  </a>
+                </p>
+                <p>
+                  This project was done as part of a course on user experience design, and involved an iterative design process. We made a lo-fi prototype which was developed into a hi-fi prototype on Figma. Along the way, we informed and evaluated our design with user studies, interviews, testing, etc.  
+                </p>
+
+                <p>
+                  <a href="https://www.instagram.com/p/CelYfMelbP2/?utm_source=ig_embed&utm_campaign=loading" target="_blank">
+                    HTML and Adobe Workshops
+                  </a>
+                </p>
+                <p>
+                  I spearheaded and planned a one-day introductory workshop on creating a website using HTML, CSS, and Bootstrap. During the event, they made their own website to store their portfolio and CV (much like this one!), and networked with each other as well.
+
+                  I also shared my Adobe experience to contribute to our workshop on Adobe Illustrator. These workshops were done during my time in the NUS Communications and New Media (CNM) Society. The skills taught helped NUS students, including those in the CNM department to be equipped with skills relevant to the new media industry.
+                </p>
+              </figure>
+
+              <figure>
+                <h1>2021</h1>
+
+                <p>
+                  <a href="https://github.com/choongzhanhong/parasitegit" target="_blank">
+                    Parasite - Game Design Project
+                  </a>
+                </p>
+                <p>
+                  <video width="720" controls loading="lazy">
+                            <source src="res/NM3216vid.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                  </video><br>
+                  The video showcases our game, Parasite, made with Game Maker Studio 2. It was done as a final project for a module on Game Design. I was the lead programmer and producer, programming the source code, helping in other aspects like art, while managing the team and ensuring we met our deliverables. Major props to my teammates for this wonderful game made in seven weeks!
+                </p>
+
+                <p>
+                  <a href="https://choongzhanhong.github.io/bounce/index.html" target="_blank">
+                    Bounce
+                  </a>
+                </p>
+                <p>
+                  This was part of my final project for a module on HTML, CSS, and Javascript.
+                  For this project, I created an interactive ball physics simulator.
+                  
+                  Additionally, I used Node.js to implement a dynamic web page where multiple users could play a "ping-pong" game using similar ball physics. Unfortunately, GitHub can only serve static pages so that is not shown.
+                </p>
+              </figure>
+
+
+              <!-- 
+              <figure><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></figure>
+              <figure><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></figure>
+              <figure><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></figure> -->
+
+              <!-- <figure>
+                <img loading="lazy" alt="" src="//dummyimage.com/1000x1000/ddd/bbb">
+                <figcaption>…or image captions</figcaption>
+              </figure>
+              <figure style="background:#fdcb39">
+                <img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb">
+                <figcaption>add a solid background</figcaption>
+              </figure>
+              <figure class="cover">
+                <img loading="lazy" alt="" src="https://64.media.tumblr.com/7904066936b9324571738bbbeeb082e9/tumblr_myopxy8uJI1qz4vi0o1_1280.jpg">
+                <p style="color:#fff">or go full bleed</p>
+              </figure> -->
+            </div>
+          </section>
+
+          <section id="other">
+            <h1>Other</h1>
+            <p>Page under construction.</p>
+          </section>
+
+          <section id="sitemap">
+            <h1>Sitemap</h1>
+            <p>Site is under construction. These are the current pages.</p>
+
+            <ul>
+              <li><a href="#home">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <ul>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#cca">CCAs</a></li>
+              </ul>
+              <li><a href="#portfolio">Portfolio</a></li>
+
+            </ul>
+
+          </section>
+
+        </main>
+
+      <!-- ----------
+      LIGHTBOX IMAGES
+      ----------- -->
+
+      <!-- PHOTOS grid -->
+      
+      <a href="#photos" class="lightbox" id="img-01"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-02"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-03"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-04"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-05"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-06"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-07"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-08"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-09"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-10"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-11"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-12"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-13"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-14"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
+      <a href="#photos" class="lightbox" id="img-15"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>    
+      
+      <!-- Other images -->
+      
+      <!-- <a href="#about" class="lightbox" id="img-about"><img loading="lazy" alt="" src="res/me_pic.png"></a> -->
+      
+    </body>
+    </html>
