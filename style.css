@@ -96,10 +96,6 @@ section h1 {
   margin: 0 0 1em 0;
 }
 
-h2 { /*added this to differentiate h2*/
-  text-decoration: underline;
-}
-
 h2, h3, h4 {
   font-size: 1em;
   font-weight: 600;
@@ -158,6 +154,8 @@ blockquote {
   opacity: .7;
   margin-bottom: .6em;
   position: relative;
+  font-family: var(--font_serif);
+  font-size: 0.9em;
 }
 
 blockquote:before {
