@@ -35,6 +35,8 @@
 body {
     font-size: 16px;
     font-family: var(--font_sans_serif);
+    font-smooth: never;
+    
     line-height: 1.4;
     color: var(--color_text);
     background: var(--color_background);
