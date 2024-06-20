@@ -505,3 +505,7 @@ article time {
     }
         
 }
+
+.note {
+	color: var(--color_accent);
+}
