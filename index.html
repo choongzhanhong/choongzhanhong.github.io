@@ -33,9 +33,8 @@
       </h1>
       <nav>
         <a href="#about">About</a>
-          <!-- <a href="#news">News</a>
-            <a href="#photos">Photos</a> -->
-            <a href="#portfolio">Portfolio</a>
+			<a href="#portfolio">Portfolio</a>
+            <a href="#photos">Photos</a>
             <a href="#other">Other</a>
             <a href="#sitemap">Sitemap</a>
           </nav>
@@ -47,7 +46,8 @@
 
             <h1>Hi, I'm Zhan Hong.</h1>
 
-            <p>I'm an undergraduate at the National University of Singapore. I'm pursuing a Bachelor's degree in <b>Communications and New Media</b> with a minor in <b>Computer Science</b>. </p>
+            <p>I'm an undergraduate at the National University of Singapore. I'm pursuing a Bachelor's degree in <b>Communications and New Media</b> with a minor in <b>Computer Science</b>. 
+			My studies focus primarily on user interface/user experience (UI/UX) research and design.</p>
 
             <p>I enjoy design and programming, especially anything that falls between both categories, like UI/UX and web design.</p>
 
@@ -284,25 +284,25 @@
             </p>
           </section>
 
-          <section id="news"> <!-- NEWS -->
-
-            <article>
-              <h2>Blogging with Joe Bloggs <time datetime="2020-10-10">10.10.2020</time></h2>
-              <p> One <em>could</em> use this setup to write <s>a blog</s> short updates. For images make sure to use the <code>loading="lazy"</code> attribute, so they get loaded only when needed.</p>
-            </article>
-
-            <article>
-              <h2><a href="https://example.com">Why Your Cat Bites You</a> <time datetime="2004-12-12">12.12.2004</time></h2>
-              <p>Honestly you don't want to know.</p>
-            </article>
-          </section>
-
           <section id="photos"> <!-- PHOTOS -->
-
-            <p>An example of a photo gallery with a lightbox. <a href="#portfolio">Back to portfolio.</a></p>
+			<h1>Photo Gallery</h1>
+			<p>
+				Prototypes, Screenshots, and Designs from my various projects.
+			</p>
+			<p>Check out my <a href="#portfolio">portfolio</a> for more information.</p>
+            <hr>
 
             <!-- You can use this grid of images in any page -->
-
+			<h2>The Charlotte Crisis</h2>
+			<p>My honours thesis, final year project done with two others.
+			I programmed the game on GameMaker, and also designed the mechanics and interface.</p>
+			<div class="grid">
+              <a href="#charlotte-01"><img loading="lazy" alt="" src="res/photos/charlotte/menu_thumbnail.png"></a>
+              <a href="#charlotte-02"><img loading="lazy" alt="" src="res/photos/charlotte/world_thumbnail.png"></a>
+              <a href="#charlotte-03"><img loading="lazy" alt="" src="res/photos/charlotte/drama_thumbnail.png"></a>
+              <a href="#charlotte-04"><img loading="lazy" alt="" src="res/photos/charlotte/skillcheck_thumbnail.png"></a>
+            </div>
+			<!-- <h2>Interface Design Projects</h2>
             <div class="grid">
               <a href="#img-01"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
               <a href="#img-02"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
@@ -319,7 +319,7 @@
               <a href="#img-13"><img loading="lazy" alt="" src="//dummyimage.com/300x300/ddd/bbb"></a>
               <a href="#img-14"><img loading="lazy" alt="" src="//dummyimage.com/400x300/ddd/bbb"></a>
               <a href="#img-15"><img loading="lazy" alt="" src="//dummyimage.com/300x400/ddd/bbb"></a>
-            </div>
+            </div> -->
           </section>
 
           <section id="portfolio"> <!-- PORTFOLIO -->
@@ -328,7 +328,7 @@
               <figure>
                 <h1>2024</h1>
                 <p>
-                  <a href="https://charlotte-crisis.github.io/charlotte/" target="_blank">
+                  <a id="portfolio-charlotte" href="https://charlotte-crisis.github.io/charlotte/" target="_blank">
                   The Charlotte Crisis</a>
                   <br>
                   <a href="https://github.com/charlotte-crisis/charlotte" target="_blank">
@@ -534,11 +534,11 @@
       LIGHTBOX IMAGES
       ----------- -->
 
-      <!-- PHOTOS grid -->
-<!--       
-      <a href="#photos" class="lightbox" id="img-01"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
-      <a href="#photos" class="lightbox" id="img-02"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
-      <a href="#photos" class="lightbox" id="img-03"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
+      <!-- PHOTOS grid -->     
+      <a href="#photos" class="lightbox" id="charlotte-01"><img loading="lazy" alt="" src="res/photos/charlotte/menu.png"></a>
+      <a href="#photos" class="lightbox" id="charlotte-02"><img loading="lazy" alt="" src="res/photos/charlotte/world.png"></a>
+      <a href="#photos" class="lightbox" id="charlotte-03"><img loading="lazy" alt="" src="res/photos/charlotte/drama.png"></a>
+	  <a href="#photos" class="lightbox" id="charlotte-04"><img loading="lazy" alt="" src="res/photos/charlotte/skillcheck.png"></a>
       <a href="#photos" class="lightbox" id="img-04"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
       <a href="#photos" class="lightbox" id="img-05"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
       <a href="#photos" class="lightbox" id="img-06"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
@@ -550,7 +550,7 @@
       <a href="#photos" class="lightbox" id="img-12"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
       <a href="#photos" class="lightbox" id="img-13"><img loading="lazy" alt="" src="//dummyimage.com/3000x3000/ddd/bbb"></a>
       <a href="#photos" class="lightbox" id="img-14"><img loading="lazy" alt="" src="//dummyimage.com/4000x3000/ddd/bbb"></a>
-      <a href="#photos" class="lightbox" id="img-15"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>    --> 
+      <a href="#photos" class="lightbox" id="img-15"><img loading="lazy" alt="" src="//dummyimage.com/3000x4000/ddd/bbb"></a>
       
       <!-- Other images -->
       
