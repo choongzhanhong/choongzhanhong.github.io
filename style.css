@@ -338,7 +338,7 @@ article time {
     grid-gap: 5vmin;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 150px = minimum image size */
     grid-auto-flow: dense;
-    padding: 0;
+    padding: 2em 0;
 }
 
 .grid a {
