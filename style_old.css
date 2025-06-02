@@ -1,5 +1,6 @@
 
 * { 
+    margin: 0; padding: 0; box-sizing: border-box;
     
     /* Color scheme */
     
@@ -8,8 +9,9 @@
     --color_accent: #861010;
 
     /* Fonts */
-    --font_serif: serif;
+    --font_serif: IBM Plex Serif, serif;
     --font_sans_serif: Verdana, sans-serif;
+    --font_header: IBM Plex Sans Condensed, sans-serif;
     --font_mono: IBM Plex Mono, monospace;
 
     /* Hide Scrollbar */
@@ -19,18 +21,70 @@
 
 body {
     font-family: var(--font_sans_serif);
-    font-size: 10pt;
     font-smooth: never;
+    line-height: 1.4;
     color: var(--color_text);
     background: var(--color_background);
+    position: relative;
     max-width: 64em;  /* remove this for a full-width layout */
     margin: 0 auto;  /* centers the layout */
-    padding: 1rem;
+}
+
+/* ------- Sections ------- */
+
+section {
+    padding: calc(6em + 5vw) 5vw 8vw 5vw;
+    /* ! Everything below is needed ! */
+    display: none;
+    position: absolute;
+    top: 0;
+    min-height: 100vh;
+    width: 100%;
+    background: var(--color_background);
+}
+
+section:target { /* Show section */
+    display: block;
+}
+
+/* Show a section that contains a target, i.e. the section itself doesn't need to be the target */
+section:has(*:target) { 
+    display: block;
+}
+
+section:target a.active {
+    border-bottom: 1px solid;
+}
+
+section#home { /* Show #home by default */
+    display: block;
+}
+
+/* ------- Header ------- */
+
+header {
+    font-family: var(--font_header);
+    padding: 5vw 5vw 0 5vw;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+header h1 {
+    font-size: 1.5em;
+    flex: 1; /* pushes nav to the right */
+    white-space: nowrap;
+    padding: 0 5vw .5em 0;
+}
+
+nav a:not(:last-of-type) {
+    margin-right: 1.5vw;
 }
 
 /* ------- General ------- */
 
-/* anchor ---------------- */
 a {
     text-decoration: none;
     color: var(--color_accent);
@@ -39,44 +93,6 @@ a {
 a:hover {
     border-bottom: 1px solid;
 }
-
-/* External links */
-
-a[href*="//"]:after { 
-    font-weight: 300;
-    font-size: .85em;
-    content: "[\2197]"; /* top right arrow: ↗ */
-    color: var(--color_text);
-    opacity: 0.7;
-    letter-spacing: -0.15em; /*make it tighter*/
-    font-family: var(--font_mono);
-}
-
-a[href*="//"]:hover:after {
-    color: var(--color_accent);
-    opacity: 1;
-}
-
-/* File links */
-
-a:before { 
-    font-size: .7em;
-    margin-right: .4em;
-}
-
-/* Add more filetypes here if you want */
-
-a[href$=".pdf"]:before { content: "[PDF]"; }
-a[href$=".txt"]:before { content: "[TXT]"; }
-a[href$=".mp3"]:before { content: "[MP3]"; }
-a[href$=".zip"]:before { content: "[ZIP]"; }
-a[href$=".rar"]:before { content: "[RAR]"; }
-a[href$=".jpeg"]:before,
-a[href$=".jpg"]:before,
-a[href$=".gif"]:before,
-a[href$=".png"]:before { content: "[IMG]"; }
-
-/* end anchor ------------- */
 
 section h1 {
     font-size: 1em;
@@ -250,6 +266,42 @@ figure.video iframe, figure.video object, figure.video embed {
 section:target iframe {
     visibility: visible;
 }
+
+/* External links */
+
+a[href*="//"]:after { 
+    font-weight: 300;
+    font-size: .85em;
+    content: "[\2197]"; /* top right arrow: ↗ */
+    color: var(--color_text);
+    opacity: 0.7;
+    letter-spacing: -0.15em; /*make it tighter*/
+    font-family: var(--font_mono);
+}
+
+a[href*="//"]:hover:after {
+    color: var(--color_accent);
+    opacity: 1;
+}
+
+/* File links */
+
+a:before { 
+    font-size: .7em;
+    margin-right: .4em;
+}
+
+/* Add more filetypes here if you want */
+
+a[href$=".pdf"]:before { content: "[PDF]"; }
+a[href$=".txt"]:before { content: "[TXT]"; }
+a[href$=".mp3"]:before { content: "[MP3]"; }
+a[href$=".zip"]:before { content: "[ZIP]"; }
+a[href$=".rar"]:before { content: "[RAR]"; }
+a[href$=".jpeg"]:before,
+a[href$=".jpg"]:before,
+a[href$=".gif"]:before,
+a[href$=".png"]:before { content: "[IMG]"; }
 
 /* ------- News ------- */
 
