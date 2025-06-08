@@ -1,0 +1,10 @@
+# .gitignore
+
+# Dependencies
+/node_modules
+
+# Build output
+/_site
+
+# npm debug log
+npm-debug.log*
