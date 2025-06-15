@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta title="Hell">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Post and How Layouts Work | Zhan Hong&#39;s page</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <header>
+  <h2><a href="/" class="site-title">Zhan Hong&#39;s page</a></h2>
+  <nav>
+    <ul><li><a href="/">Home</a></li>
+<li><a href="/about.html">About</a></li>
+<li><a href="/projects.html">Projects</a></li>
+<li><a href="/misc.html">Miscellaneous</a></li>
+<li><a href="/blog.html">Blog</a></li></ul>
+  </nav>
+  <hr>
+</header>
+  
+  <main>
+    <article>
+  <header>
+    <h1>My First Post and How Layouts Work</h1>
+    <p>
+      <time datetime="2025-06-08">
+        Published on 08 Jun, 2025
+      </time>
+    </p>
+  </header>
+
+  
+  <p>This is the very first post on my new blog! The content you're reading right now lives in a Markdown file.</p>
+<p>Eleventy takes this content and injects it into the `` section of the layout file I specified in the front matter.</p>
+<h2>Front Matter is Key</h2>
+<p>The data at the top of this file, like the <code>title</code> and <code>tags</code>, is used to populate the rest of the template. For example, the list of tags at the bottom of this page is generated from the <code>tags</code> array right here in the front matter:</p>
+
+
+  <footer>
+    
+    
+      <p>
+        Filed under:
+        
+          
+        
+           
+            <a href="/tags/eleventy/" class="post-tag">eleventy</a>
+          
+        
+           
+            <a href="/tags/learning/" class="post-tag">learning</a>
+          
+        
+      </p>
+    
+  </footer>
+
+</article>
+  </main>
+
+  <footer>
+    <hr>
+    <small>by Zhan Hong</small>
+    <img src="/images/beer.gif" width=70>
+</footer>
+
+</body>
+</html>
