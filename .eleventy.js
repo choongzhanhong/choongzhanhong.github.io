@@ -11,8 +11,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginNavigation);
 
   // --- PASSTHROUGH COPY ---
-  // Copy `public/` to `_site/public/`
-  eleventyConfig.addPassthroughCopy("public");
+  // Copy contents of public into their own directories
+  eleventyConfig.addPassthroughCopy({"public/css" : "css"});
+  eleventyConfig.addPassthroughCopy({"public/images" : "images"});
 
   // --- FILTERS ---
   // Date formatting filter using Luxon
