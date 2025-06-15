@@ -1,0 +1,7 @@
+<header>
+  <h2><a href="{{ '/' | url }}" class="site-title">{{ metadata.title }}</a></h2>
+  <nav>
+    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+  </nav>
+  <hr>
+</header>

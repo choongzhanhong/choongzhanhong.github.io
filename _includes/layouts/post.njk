@@ -1,0 +1,31 @@
+---
+layout: "layouts/base.njk"
+---
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+    <p>
+      <time datetime="{{ page.date | readableDate('yyyy-LL-dd') }}">
+        Published on {{ page.date | readableDate('dd LLL, yyyy') }}
+      </time>
+    </p>
+  </header>
+
+  {# The main content of your Markdown file will be injected here #}
+  {{ content | safe }}
+
+  <footer>
+    {# Check if there are any tags before trying to display them #}
+    {% if tags %}
+      <p>
+        Filed under:
+        {% for tag in tags %}
+          {% if tag != "posts" %} {# A little trick to exclude Eleventy's automatic 'posts' tag #}
+            <a href="{{ ('/tags/' + tag + '/') | url }}" class="post-tag">{{ tag }}</a>
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+  </footer>
+
+</article>
