@@ -3,12 +3,43 @@ const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
+const Image = require("@11ty/eleventy-img");
+
+// Usage example:
+// {% image "public/images/mountain.jpg", "A beautiful mountain landscape.", "(min-width: 30em) 50vw, 100vw" %}
+async function imageShortcode(src, alt, sizes) {
+  // The 'metadata' object contains all the generated image data
+  let metadata = await Image(src, {
+    // We'll generate images in these widths
+    widths: [300, 600, 900],
+    // The formats we want to output
+    formats: ["avif", "webp", "jpeg"],
+    // The directory where the optimized images will be saved
+    outputDir: "./_site/img/",
+    // The URL path to be used in the 'src' attribute
+    urlPath: "/img/",
+  });
+
+  // Define the attributes for the <img> element
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // The 'generateHTML' function returns the complete <picture> element
+  return Image.generateHTML(metadata, imageAttributes);
+}
 
 module.exports = function(eleventyConfig) {
   // --- PLUGINS ---
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addWatchTarget("public/images/");
 
   // --- PASSTHROUGH COPY ---
   // Copy contents of public into their own directories
