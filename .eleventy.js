@@ -1,51 +1,28 @@
 // .eleventy.js
+const path = require("path")
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
-
-// Usage example:
-// {% image "public/images/mountain.jpg", "A beautiful mountain landscape.", "(min-width: 30em) 50vw, 100vw" %}
-async function imageShortcode(src, alt, sizes) {
-  // The 'metadata' object contains all the generated image data
-  let metadata = await Image(src, {
-    // We'll generate images in these widths
-    widths: [300, 600, 900],
-    // The formats we want to output
-    formats: ["avif", "webp", "jpeg"],
-    // The directory where the optimized images will be saved
-    outputDir: "./_site/img/",
-    // The URL path to be used in the 'src' attribute
-    urlPath: "/img/",
-  });
-
-  // Define the attributes for the <img> element
-  let imageAttributes = {
-    alt,
-    sizes,
-    loading: "lazy",
-    decoding: "async",
-  };
-
-  // The 'generateHTML' function returns the complete <picture> element
-  return Image.generateHTML(metadata, imageAttributes);
-}
+const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
   // --- PLUGINS ---
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-  
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-  eleventyConfig.addWatchTarget("public/images/");
 
   // --- PASSTHROUGH COPY ---
   // Copy contents of public into their own directories
   eleventyConfig.addPassthroughCopy({"public/css" : "css"});
-  eleventyConfig.addPassthroughCopy({"public/images" : "images"});
+  eleventyConfig.addPassthroughCopy({"public/images" : "images"}); // should be removed soon
   eleventyConfig.addPassthroughCopy({"public/files" : "files"});
+  
+  // for blog post images
+  eleventyConfig.addPassthroughCopy("content/**/*.jpg");
+  eleventyConfig.addPassthroughCopy("content/**/*.png");
+  eleventyConfig.addPassthroughCopy("content/**/*.gif");
 
   // --- FILTERS ---
   // Date formatting filter using Luxon
@@ -84,6 +61,50 @@ module.exports = function(eleventyConfig) {
       }));
   });
 
+  // --- MARKDOWN-IT IMAGE PROCESSING ---
+  // Customize Markdown-it to process images with eleventy-img
+  const md = new markdownIt({
+    html: true,
+  });
+
+  md.renderer.rules.image = function (tokens, idx, options, env, self) {
+    const token = tokens[idx];
+    const src = token.attrGet("src");
+    const alt = token.content;
+
+    // Resolve the image path relative to the post
+    const fullSrcPath = path.join(path.dirname(env.page.inputPath), src);
+    
+    // Run the image through Eleventy Image asynchronously
+    (async () => {
+      await Image(fullSrcPath, {
+        widths: [600, 900, 1200],
+        formats: ["avif", "webp", "jpeg"],
+        outputDir: "./_site/img/",
+        urlPath: "/img/",
+      });
+    })();
+    
+    // Generate the HTML for the <picture> element
+    const metadata = Image.statsSync(fullSrcPath, {
+        widths: [600, 900, 1200],
+        formats: ["avif", "webp", "jpeg"],
+        outputDir: "./_site/img/",
+        urlPath: "/img/",
+      });
+
+    const imageAttributes = {
+      alt,
+      sizes: "(min-width: 30em) 50vw, 100vw",
+      loading: "lazy",
+      decoding: "async",
+    };
+
+    return Image.generateHTML(metadata, imageAttributes);
+  };
+
+  eleventyConfig.setLibrary("md", md);
+  
   // --- BASE CONFIGURATION ---
   return {
     dir: {

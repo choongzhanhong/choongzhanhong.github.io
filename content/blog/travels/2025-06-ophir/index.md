@@ -8,22 +8,42 @@ tags:
 layout: "layouts/post.njk"
 ---
 
-{% image "public/images/travels/2025-06-ophir/peak.jpg",
-"Group photo of 6 of us at the peak of Gunung Ledang.",
- "(min-width: 30em) 50vw, 100vw" %}
+On 21 June 2025, my friends and I went to tackle Gunung Ledang,
+also known as Mount Ophir, in Johor, Malaysia.
+This was a fairly challenging climb, which we all totally underestimated
+on account of its "measly" 1.2km elevation.
 
-From the evening of 20 June to 22 June 2025, my friends and I went to tackle Gunung Ledang, also
+<figure>
 
-## The Trail 
+![hey](./peak.jpg)
+
+<figcaption>At the peak! 6/7 made it.</figcaption>
+</figure>
+
+
+### The Trail 
 We took the Lagenda trail, which appears to be the more conventional, well-maintained route.
 I would recommend this to anyone going up for the first time. The paths were clear, clean,
 and checkpoints were well-spaced.
 
-The
-### hello
+The beginning of the trail was reasonably straightforward. For those doing a 1-day hike,
+you'll skip CP4, where the campsites are, and go straight ahead.
+After around CP5 was when things started picking up in terms of difficulty.
 
-## Climbing Experience
-I would consider myself an intermediate hiker at this point.
+<figure>
+
+![Our group at Checkpoint 2](./cp2.jpg)
+
+<figcaption>Checkpoint 2 roughly 45 minutes in.</figcaption>
+</figure>
+
+#### The cut-off point
+
+There are two ways up to the summit. The normal way, and the easier path. Usually,
+you'd take the normal path and descend via the easier path. However, if you don't
+reach the junction by around 11am, you'll automatically take the easy path up, and then back down.
+
+#### KFC and Ladders
 
 ### Duration
 The estimated time for going up is 5-6 hours, and
@@ -34,8 +54,12 @@ and reached the summit around 1.30pm.
 The latest can stay up there is until 2.30pm. You have to reach the base
 by 7pm, or be subject to overtime fees at RM50 per hour per group (essentially, per guide).
 
-Our last guy only got down at 8.30pm after dark. Thankfully, he had a torchlight and the guide was with him
-and another patient member of our group.
+Our last guy only got down at 8.30pm after dark. Thankfully, he had a torchlight, and he was
+accompanied by a patient member of our group and the guide, whom we tipped handsomely.
+
+### Experience
+I consider myself fit enough, so this hike wasn't terrible, but it certainly was more than I had expected.
+Nonetheless, I found the ropes and ladders more fun than anything.
 
 ---
 ## Itinerary
@@ -53,8 +77,8 @@ but it was closed so we went next door for [Bak Kut Teh](https://maps.app.goo.gl
 In the same stretch of buildings, there's also a place to buy [traditional snacks](https://maps.app.goo.gl/kg3uYbk28mCtB63G8).
 
 We didn't spend much time in town, as we wanted to get back to JB before the Sunday evening highway jam.
+
 ---
-## Food 
 
 ## Costs
 

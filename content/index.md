@@ -5,14 +5,13 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-<h2>Hi, I'm Zhan Hong!</h2>
-<p>
-    Born and raised in Singapore. I like games, gym, guitar, and good books. 
-    I am currently working as a Junior Engineer in SNK Games Singapore.
-</p>
-<p>
-    Feel free to look around, check out my projects, or read my latest blog posts.
-</p>
+## Hi, I'm Zhan Hong!
+
+Born and raised in Singapore. I like games, gym, guitar, and good books. 
+I am currently working as a Junior Engineer in SNK Games Singapore.
+
+Feel free to look around, check out my projects, or read my latest blog posts.
+
 <figure>
     <img alt="A picture of me." src="/images/me_pic.png" width="250">
     <figcaption>Image circa 2021. Still the best I have of me.</figcaption>
@@ -22,12 +21,12 @@ eleventyNavigation:
     <figcaption>My cat, Joey.</figcaption>
 </figure>
 
-<h2>Contact</h2>
+## Contact
 <a target="_blank" href="/files/20240706_resume_zhanhong.pdf">My resume</a>
-<br>
+
 <a target="_blank" href="https://github.com/choongzhanhong">GitHub</a>
-<br>
+
 <a target="_blank" href="https://www.linkedin.com/in/choongzhanhong/">LinkedIn</a>
-<br>
+
 Email:
 choongzhanhong[at]gmail[dot]com
