@@ -60,3 +60,7 @@ Used to do a lot of tutoring including a stint in the NUS school of computing.
 Also some free workshops. Love teaching.
 
 I'm food handling certified. Feel free to invite me as a DJ/Bartender/MC for your next party!!
+
+---
+
+This website was made using [Eleventy](https://www.11ty.dev/).

@@ -20,3 +20,5 @@ permalink: "{{ page.fileSlug }}.html"
     <li><a href="https://www.librarything.com/profile/choongzh" target="_blank">LibraryThing</a>
     My personal collection of books!</li>
 </ul>
+
+### [Cool links](/misc/links.html)

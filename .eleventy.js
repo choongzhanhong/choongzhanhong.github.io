@@ -56,14 +56,14 @@ module.exports = function(eleventyConfig) {
   // --- COLLECTIONS ---
   // Create a collection of blog posts
   eleventyConfig.addCollection("posts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("content/blog/*.md").sort((a, b) => {
+    return collectionApi.getFilteredByGlob("content/blog/**.md").sort((a, b) => {
       return b.date - a.date; // sort by date, newest first
     });
   });
 
   // Create a collection of posts grouped by year
   eleventyConfig.addCollection("postsByYear", (collectionApi) => {
-    const posts = collectionApi.getFilteredByGlob("content/blog/*.md");
+    const posts = collectionApi.getFilteredByGlob("content/blog/**/*.md");
     const years = {};
 
     for (const post of posts) {

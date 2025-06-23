@@ -1,0 +1,25 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - posts
+    - postsByYear
+  addAllPagesToCollections: true
+layout: "layouts/base.njk"
+permalink: "/tags/{{ tag }}.html"
+---
+<h1>Tagged “{{ tag }}”</h1>
+
+<ol>
+  {# Loop through all posts in the collection that matches the current 'tag' name #}
+  {% for post in collections[tag] | reverse %}
+    <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  {% endfor %}
+</ol>
+
+<hr>
+<a href="/blog.html"><== Back to Blog</a>
