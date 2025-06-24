@@ -16,16 +16,16 @@ Soon&#8482; I shall bring my blog from substack/blogger here.
 {# Loop through the array of years from our collection #}
 {% for yearData in collections.postsByYear %}
   <h2 id="y{{ yearData.year }}">{{ yearData.year }}</h2>
-  <ul>
+  <ul class="blogList">
     {# Loop through the posts for the current year #}
     {% for post in yearData.posts %}
       <li>
+        <time datetime="{{ post.date | readableDate('yyyy-LL-dd') }}">
+          [{{ post.date | readableDate('dd LLL') }}]
+        </time>
         <a href="{{ post.url }}">
           {{ post.data.title }}
         </a>
-        <time datetime="{{ post.date | readableDate('yyyy-LL-dd') }}">
-          {{ post.date | readableDate('dd LLL') }}
-        </time>
       </li>
     {% endfor %}
   </ul>

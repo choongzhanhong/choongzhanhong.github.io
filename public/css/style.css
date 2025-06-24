@@ -438,3 +438,11 @@ footer {
 .note {
 	color: var(--color_accent);
 }
+
+.blogList {
+    list-style-type: none;
+}
+
+.blogList time {
+    font-family: var(--font_mono);
+}
