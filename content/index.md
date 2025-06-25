@@ -13,11 +13,16 @@ I am currently working as a Junior Engineer in SNK Games Singapore.
 Feel free to look around, check out my projects, or read my latest blog posts.
 
 <figure>
-    <img alt="A picture of me." src="/images/me_pic.png" width="250">
+
+    ![Pic of me](./images/me_pic.png)
+    
     <figcaption>Image circa 2021. Still the best I have of me.</figcaption>
 </figure>
+
 <figure> 
-    <img alt="My cat." src="/images/joey.jpg" width="250">
+
+    ![My cat](./images/joey.jpg)
+    
     <figcaption>My cat, Joey.</figcaption>
 </figure>
 
