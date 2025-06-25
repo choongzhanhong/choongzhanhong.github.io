@@ -29,6 +29,30 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
     return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLL yyyy");
   });
+  
+  // Formats date range given two inputs.
+  eleventyConfig.addShortcode("dateRange", (startDate, endDate) => {
+    const start = DateTime.fromJSDate(startDate);
+    const end = DateTime.fromJSDate(endDate);
+    
+    // Case 1: Same day (e.g., 25 June, 20215)
+    if (start.hasSame(end, 'day')) {
+      return start.toFormat("dd LLL yyyy");
+    }
+
+    // Case 2: Same month and year (e.g., June 23-25, 2025)
+    if (start.hasSame(end, 'month')) {
+      return `${start.toFormat("dd")} – ${end.toFormat('dd LLL yyyy')}`;
+    }
+
+    // Case 3: Same year, different month (e.g., June 25 - July 5, 2025)
+    if (start.hasSame(end, 'year')) {
+      return `${start.toFormat('dd LLL')} – ${end.toFormat('dd LLL yyyy')}`;
+    }
+
+    // Case 4: Different years (e.g., Dec 30, 2024 - Jan 5, 2025)
+    return `${start.toFormat('dd LLL yyyy')} – ${end.toFormat('dd LLL yyyy')}`;
+  });
 
   // --- COLLECTIONS ---
   // Create a collection of blog posts
@@ -59,6 +83,29 @@ module.exports = function(eleventyConfig) {
         year: year,
         posts: years[year].sort((a, b) => b.date - a.date), // sort posts in each year
       }));
+  });
+  
+  // tags
+    eleventyConfig.addCollection("tagList", function(collectionApi) {
+    const tagSet = new Set();
+    // Loop through every post in the 'posts' collection
+    collectionApi.getFilteredByTag("posts").forEach(item => {
+      if ("tags" in item.data) {
+        // Get the tags for the current post
+        let tags = item.data.tags;
+        // Ensure tags are in an array
+        if (typeof tags === "string") {
+          tags = [tags];
+        }
+        // Add each tag to our set
+        for (const tag of tags) {
+          tagSet.add(tag);
+        }
+      }
+    });
+
+    // Return a sorted array of unique tags
+    return [...tagSet].sort();
   });
 
   // --- MARKDOWN-IT IMAGE PROCESSING ---

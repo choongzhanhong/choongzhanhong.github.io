@@ -175,27 +175,10 @@ pre, textarea { /* for code samples */
 
 label {
     cursor: pointer;
-    vertical-align: super;
-    line-height: 1;
-    font-size: .75em;
-    padding-left: .1em;
 }
 
 label:hover {
     color: var(--color_accent);
-}
-
-label:before {content:"[";}
-label:after {content:"]";}
-
-label + input,
-label + input + small {
-    display: none;
-}
-
-input:checked + small {
-    display: block;
-    padding: .8em 0 1em 2.5vw;;
 }
 
 /* Figures */
