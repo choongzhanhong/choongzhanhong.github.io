@@ -32,6 +32,6 @@ Soon&#8482; I shall bring my blog from substack/blogger here.
 <hr>
 <h2>Browse by Tag</h2>
 <div class="tag-list">
-  {% for tag in collections.tagList %}
-    <a href="{{ ('/tags/' + tag + '/') | url }}" class="tag-badge">#{{ tag }}</a>{% endfor %}
+  {% for tag in collections.tagList %}{% if tag != "posts" %}
+    <a href="{{ ('/tags/' + tag + '/') | url }}" class="tag-badge">#{{ tag }}</a>{% endif %}{% endfor %}
 </div>
