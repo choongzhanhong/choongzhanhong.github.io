@@ -6,6 +6,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
 const markdownIt = require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
 
 module.exports = function(eleventyConfig) {
   // --- PLUGINS ---
@@ -112,7 +113,7 @@ module.exports = function(eleventyConfig) {
   // Customize Markdown-it to process images with eleventy-img
   const md = new markdownIt({
     html: true,
-  });
+  }).use(markdownItFootnote);
 
   md.renderer.rules.image = function (tokens, idx, options, env, self) {
     const token = tokens[idx];
