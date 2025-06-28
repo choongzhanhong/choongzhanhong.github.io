@@ -22,8 +22,9 @@ Soon&#8482; I shall bring my blog from substack/blogger here.
           [{{ post.date | readableDate('dd LLL') }}]
         </time>
         <a href="{{ post.url }}">
-          {{ post.data.title }}
-        </a>
+          {{ post.data.title }}</a>
+        {% if "travel" in post.data.tags %}<a href="/tags/travel.html" class="tag-badge">#travel</a>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
@@ -33,5 +34,5 @@ Soon&#8482; I shall bring my blog from substack/blogger here.
 <h2>Browse by Tag</h2>
 <div class="tag-list">
   {% for tag in collections.tagList %}{% if tag != "posts" %}
-    <a href="{{ ('/tags/' + tag + '/') | url }}" class="tag-badge">#{{ tag }}</a>{% endif %}{% endfor %}
+    <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>{% endif %}{% endfor %}
 </div>

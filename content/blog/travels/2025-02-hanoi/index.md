@@ -58,7 +58,7 @@ Since we arrived during the lunar new year, or Tết, many shops were closed on 
  
   On to the main event! I climbed Fansipan in a day, which means I started early in the morning (around 7?) and reached the summit at noon. Despite its relatively low elevation of ~3k meters, it's extremely steep. Each step took the wind out of me. For my Hmong guide, it was a regular weekday. I thought it would be easy, but I got Hmogged by him.
 
-> "We do this not because it is easy, but because we thought it would be easy." 
+> We do this not because it is easy, but because we thought it would be easy.
 
 It was only later when I told my friends about the trip that I realised how much of a feat it was to climb it in one day, let alone by noon. Most climbs up Fansipan take 2D1N. There are two rest stops along the trail, where you have lunch on the first and sleep in the second, resuming the climb the next day. For me, I skipped the first rest stop and had lunch at the second. This took about 3-4 hours, and the remaining climb another 2-3 hours.
 

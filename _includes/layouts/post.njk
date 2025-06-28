@@ -14,11 +14,11 @@ layout: "layouts/base.njk"
     </p>
     
     {% if tags %}
-    <p>
+    <p class="tag-list">
         Tags:
         {% for tag in tags %}
           {% if tag != "posts" %} {# A little trick to exclude Eleventy's automatic 'posts' tag #}
-            <a href="{{ ('/tags/' + tag + '.html') | url }}" class="post-tag">#{{ tag }}</a>
+            <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>
           {% endif %}
         {% endfor %}
       </p>
@@ -28,5 +28,7 @@ layout: "layouts/base.njk"
   {# The main content of your Markdown file will be injected here #}
   {{ content | safe }}
 </article>
-<hr>
+
+<p>
 <a href="/blog.html"><== Back to Blog</a>
+</p>

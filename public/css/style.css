@@ -6,7 +6,7 @@
     --color_accent: #861010;
 
     /* Fonts */
-    --font_serif: serif;
+    --font_serif: Georgia, serif;
     --font_sans_serif: Verdana, sans-serif;
     --font_mono: IBM Plex Mono, monospace;
 
@@ -119,23 +119,26 @@ abbr[title]:hover {
 }
 
 blockquote {
-    padding-left: 2ch;
-    opacity: .7;
-    margin-bottom: .6em;
-    position: relative;
     font-family: var(--font_serif);
-    font-size: 0.9em;
+    background: #f9f9f9;
+    border-left: 10px solid var(--color_accent);
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+    font-size: 18px;
 }
 
 blockquote:before {
-    content: "";
-    position:absolute;
-    left: 0;
-    top: .3em;
-    bottom: .3em;
-    background: currentColor;
-    width: 1px;
-    opacity: .2;
+    color: var(--color_accent);
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
 }
 
 img, svg, video, audio {
@@ -428,4 +431,19 @@ footer {
 
 .blogList time {
     font-family: var(--font_mono);
+}
+
+.tag-badge {
+    font-family: var(--font_mono);
+    background: var(--color_accent);
+    padding: 0.2ch 1ch;
+    color: var(--color_background);
+}
+
+.tag-badge:hover {
+    opacity: 0.6;
+}
+
+.tag-list {
+    line-height: 2;
 }
