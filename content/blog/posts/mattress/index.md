@@ -1,5 +1,5 @@
 ---
-title: "Journey for a proper mattress"
+title: "DIY Mattress"
 date: 2025-07-01
 tags:
   - "miscellaneous"
