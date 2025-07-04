@@ -1,5 +1,5 @@
 ---
-title: "Seafaring to Anambas Archipelago"
+title: "Bangkok"
 date: 2023-05-30
 start_date: 2023-04-30
 end_date: 2023-05-02

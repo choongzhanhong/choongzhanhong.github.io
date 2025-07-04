@@ -1,5 +1,5 @@
 ---
-title: "Climbing Gunung Ledang (Mount Ophir)"
+title: "🇲🇾 Climbing Gunung Ledang (Mount Ophir)"
 date: "2025-06-21"
 tags:
   - "travel"
@@ -19,6 +19,8 @@ on account of its "measly" 1.2km elevation.
 
 <figcaption>At the peak! 6/7 made it.</figcaption>
 </figure>
+
+## Hiking the Mountain
 
 The national park is a well-organised place. The guides all know each other and have radio comms.
 Your own guide may not necessarily follow your group closely, but you'll find other guides
@@ -175,9 +177,7 @@ I should have packed less. I should have had a better way to stow away my sticks
 at the ladders/ropes. My gloves were a godsend because on the way down, I was grabbing a lot of branches,
 mud, and rocks.
 
----
-
-## Costs
+### Costs
 
 Prices listed in the currency paid. 
 Prices per pax were divided over 7 people.
@@ -189,7 +189,7 @@ Prices per pax were divided over 7 people.
 - Food: Depends, but we spent roughly RM100/pax altogether
 - Some small fees for parking/tolls where applicable.
 
-### Total
+#### Total
 At roughly 3.32 MYR to 1 SGD or 4.28 MYR to 1 USD,
 per-pax costs were about 150 SGD or 116 USD as of current exchange rates.
 
