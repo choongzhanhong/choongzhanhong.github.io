@@ -9,10 +9,6 @@
     --font_serif: Georgia, serif;
     --font_sans_serif: Verdana, sans-serif;
     --font_mono: IBM Plex Mono, monospace;
-
-    /* Hide Scrollbar */
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
 }
 
 body {
