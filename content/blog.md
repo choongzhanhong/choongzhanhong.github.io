@@ -23,8 +23,6 @@ Soon&#8482; I shall bring my blog from substack/blogger here.
         </time>
         <a href="{{ post.url }}">
           {{ post.data.title }}</a>
-        {% if "travel" in post.data.tags %}<a href="/tags/travel.html" class="tag-badge">#travel</a>
-        {% endif %}
       </li>
     {% endfor %}
   </ul>
