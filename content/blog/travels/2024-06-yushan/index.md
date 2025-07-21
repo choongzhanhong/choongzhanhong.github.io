@@ -10,11 +10,37 @@ tags:
 layout: "layouts/post.njk"
 ---
 
-## Taiwan!
+In June 2024, I went to Taiwan with two friends with the main objective of climbing Yushan,
+or Jade Mountain, the highest peak in Taiwan at just a bit under 4000 meters of elevation.
 
-10 – 18 June 2024.
+![Three of us at the summit of Jade Mountain.](./yushan-summit.jpg)
 
-### At the hut
+The climb was not gentle on us. The wetness and cold made us
+appreciate the ground-level temperature after the hike.
+
+The rest of the trip was spent lollygagging around most of Taiwan,
+and while I didn't fully circumnavigate the entire island (missed out the east coast),
+I can say that I'd seen enough of what Taiwan had to offer.
+
+## Summiting Jade Mountain
+
+![Three of us at the start of the mountain trail](./yushan-base.jpg)
+![View from near the base of Jade mountain](./yushan-base2.jpg)
+![](./yushan-midhike.jpg)
+
+
+
+I learned one thing this trip
+
+### At the cabin
+
+![](./yushan-cabin.jpg)
+![](./yushan-cabinbed.jpg)
+![](./yushan-cabinfood.jpg)
+![](./yushan-cabinlobby.jpg)
+
+
+![](./yushan-day2morning.jpg)
 
 The mountain shack is a place to rest before heading out
 again for the summit.
@@ -29,7 +55,10 @@ braised meat rice, which warmed us up.
 
 ### The summit
 
-
+<figure>
+<img src="./yushan-nearpeak.gif">
+<figcaption>Near the peak. Views obscured by clouds, but still breathtaking.</figcaption>
+</figure>
 
 ## Taipei
 
