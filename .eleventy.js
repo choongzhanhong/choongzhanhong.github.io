@@ -24,6 +24,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("content/**/*.jpg");
   eleventyConfig.addPassthroughCopy("content/**/*.png");
   eleventyConfig.addPassthroughCopy("content/**/*.gif");
+  // vids too
+  eleventyConfig.addPassthroughCopy("content/**/*.webm");
+  eleventyConfig.addPassthroughCopy("content/**/*.mp4");
 
   // --- FILTERS ---
   // Date formatting filter using Luxon
