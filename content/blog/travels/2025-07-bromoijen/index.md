@@ -1,5 +1,5 @@
 ---
-title: "🇮🇩 Climbing Bromo and Ijen in Surabaya"
+title: "🇮🇩 Climbing Ijen and Bromo in Surabaya"
 date: 2025-07-18
 start_date: 2025-07-18
 end_date: 2025-07-20
