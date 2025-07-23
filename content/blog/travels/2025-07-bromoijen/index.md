@@ -29,14 +29,13 @@ All 19 of us became fast friends during the trip, which only spanned three days!
 
 ## Ijen Caldera
 
+We first went up Ijen to view the sulfur and blue flames.
+
 ![Group photo from Ijen](./sotravel-1.jpg)
 
 The trail had us going up to the rim of Ijen caldera, followed by a descent into
 the crater where we could observe blue flames (sulfur gas ignition) within
 the active volcano.
-
-
-
 
 Oh, and to see the blue fires, we had to be there before sunrise, while it's
 still dark. So, we began the hike around 2am. Check out what's in store for you
@@ -49,7 +48,7 @@ once you reach the bottom!
 
 ### Trail
 
-We left the hotel at **11pm** and drove about 2 hours to 
+We left the hotel at Bondowoso at **11pm** and drove about 2 hours to 
 [Paltuding](https://maps.app.goo.gl/CitaF1pMmTgx4DxS7), where there were campsites,
 rest areas with warm food and toilets, where you can rent gas masks, jackets, and headlamps.
 
@@ -82,6 +81,10 @@ On the way up, the encroaching morning sun painted light across the landscape an
 able to see what was previously hidden in the dark: the gigantic acidic lake in the caldera,
 and the neighbouring mountain ranges. 
 
+![](./ijen-friends.jpg)
+
+Oh yeah, we also ran into some school friends in a different group!
+
 <figure>
 
 ![Way back up the rim](./ijen-wayup1.jpg)
@@ -90,18 +93,72 @@ and the neighbouring mountain ranges.
 <figcaption>The way back up to the rim, with "taxis" lining the path offering to send you down.</figcaption>
 </figure>
 
+
+
 I would say it was breathtaking, if not for the smoke and sulfur.
 
 ![Neighbouring mountain](./ijen-wayup3.jpg)
 ![View of the lake and some smoke out of it](./ijen-lake.jpg)
 
+---
 
+After Ijen, we got back to the hotel, had a wash-up, and checked out of the hotel 
+to head for lunch and then to Probolinggo.
+
+![Indonesian food spread](./food.jpg)
 
 ---
 
 ## Bromo (Tengger Semeru National Park)
 
+On the third day (at this point, with our nocturnal itinerary, night and day became a blur...),
+we went up to Bromo, or more accurately [Bromo Tengger Semeru National Park](https://g.co/kgs/drzV9rt)
+which encompasses the entire volcano/mountain complex.
+
 ![Group photo atop Mount Kingkong overlooking Bromo](./sotravel-2.jpg)
+
+### Mount Kingkong
+
+Our first stop was Mount Kingkong, which overlooks the entire Bromo cluster.
+
+We left the hotel at Probolinggo at 12 midnight, arriving at the 
+[national park](https://maps.app.goo.gl/PKfCSRzNGkyXTpFr5) around 1-2am.
+
+There's actually a bunch of homestays at the base, but we didn't stick around.
+We switched to jeeps, and had a bendy and bumpy ride up Kingkong.
+
+We chilled (literally.) around [Bromo Cafe](https://maps.app.goo.gl/9TFNDyj68E6KyejdA),
+one of the many cafes that serve the tourists. Hot drinks, noodles, and souvenirs 
+sold here.
+
+We were there until sunrise, stargazing. At the crack of dawn, everyone gathered
+outside to start taking photos as colour started filling into the distance.
+
+<figure>
+
+![Stars in the night sky](./bromo-stars.jpg)
+
+<figcaption>Stars were out in full force. I saw Orion and Aquarius, and many others
+I couldn't identify.</figcaption>
+</figure>
+
+We were really lucky to get clear weather. As nice as it looks in my photos,
+you really had to have been there to take it all in with your own eyes.
+
+<figure>
+
+![](./bromo-view1.jpg)
+![](./bromo-semeru.jpg)
+
+<figcaption>The view from Kingkong. We witnessed an ash eruption of Semeru, the 
+highest point in Java.</figcaption>
+</figure>
+
+I want you to pay attention to the last image, because that's where we went after having
+taken in the sunrise view. Bromo is the little smoking volcano at the bottom left.
+You may even see the temple and steps to take up to the rim.
+
+### Sea of Sand
 
 ---
 
