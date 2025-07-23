@@ -41,7 +41,7 @@ Oh, and to see the blue fires, we had to be there before sunrise, while it's
 still dark. So, we began the hike around 2am. Check out what's in store for you
 once you reach the bottom!
 
-<video autoplay muted controls>
+<video muted controls>
   <source src="./ijen-flames.webm" type="video/webm">
     Your browser does not support the video tag.
 </video> 
@@ -76,7 +76,19 @@ and there are miners/hikers going up as well.
 <figcaption>The crowd near the start of the descent, with a miner carrying sulfur going up.</figcaption>
 </figure>
 
+Once at the base, you get to see the blue flames. Expect to have to weave through crowds
+to get a chance to pose up close...
+
+A bunch of vendors also sell sculptures made out of sulfur. It's cheap and supports the economy,
+I probably should have gotten one.
+
+![Group photo](./ijen-base1.jpg)
+![Group photo](./ijen-base2.jpg)
+
+My girlfriend made it to the base faster than I did. She's a natural!
+
 #### Back up
+
 On the way up, the encroaching morning sun painted light across the landscape and we were 
 able to see what was previously hidden in the dark: the gigantic acidic lake in the caldera,
 and the neighbouring mountain ranges. 
@@ -97,8 +109,6 @@ I would say it was breathtaking, if not for the smoke and sulfur.
 
 ![View of the lake and some smoke out of it](./ijen-lake.jpg)
 ![Neighbouring mountain](./ijen-wayup3.jpg)
-
----
 
 After Ijen, we got back to the hotel, had a wash-up, and checked out of the hotel 
 to head for lunch and then to Probolinggo.
@@ -176,18 +186,27 @@ climb up to the rim of Bromo crater.
 Beyond the jeeps' parking spots, there's a vast expanse of sand and some vendors peddling
 horse rides to get you across to Bromo crater.
 
-We decided it'd be fun to run and try to *Uma Musume* our way past the horses 
+![Horse at the sea of sand](./bromo-horse.jpg)
+
+We decided it'd be fun to run and try to outrun our friends on horses
 (that didn't last long).
 
-<video autoplay muted controls>
+<video muted controls>
   <source src="./bromo-horserun.webm" type="video/webm">
     Your browser does not support the video tag.
 </video> 
 
+To get up to the rim, there's a long flight of stairs. If you're brave enough, you can bypass
+the stairs (which can be slow with tourists clogging it up) and just climb your way up.
+I only descended that way after realising it was allowed.
+
+![The stairs up to the rim](./bromo-stairs.jpg)
+![Us at the crater](./bromo-crater.jpg)
+
 We didn't spend too much time here, on account of having to head back down to the hotel 
 to check out. It's not a very long walk, much less so if you ride the horses.
 
-<video autoplay muted controls>
+<video muted controls>
   <source src="./bromo-jeep.webm" type="video/webm">
     Your browser does not support the video tag.
 </video> 
