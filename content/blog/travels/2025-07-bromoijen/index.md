@@ -35,32 +35,67 @@ The trail had us going up to the rim of Ijen caldera, followed by a descent into
 the crater where we could observe blue flames (sulfur gas ignition) within
 the active volcano.
 
-It was a decent hike; consisting roughly 2 hours of continuously steep ascent.
-Nothing technical, but just required you to keep moving.
+
+
 
 Oh, and to see the blue fires, we had to be there before sunrise, while it's
-still dark. So, we began the hike around 2am.
+still dark. So, we began the hike around 2am. Check out what's in store for you
+once you reach the bottom!
 
 <video autoplay muted controls>
   <source src="./ijen-flames.webm" type="video/webm">
     Your browser does not support the video tag.
 </video> 
 
-
-### Getting There
+### Trail
 
 We left the hotel at **11pm** and drove about 2 hours to 
 [Paltuding](https://maps.app.goo.gl/CitaF1pMmTgx4DxS7), where there were campsites,
-rest areas with warm food and toilets, where you can rent gas masks and a headlamp.
+rest areas with warm food and toilets, where you can rent gas masks, jackets, and headlamps.
 
-### Trail
-
-The trail begins at Paltuding, and is about 2 hours up
-to the rim. It was a rather steep slope that continued for the majority
-of the trail. Quite like an incline walk on the treadmill.
+We took a short break to fuel up with some warm drinks and instant noodles.
 
 The weather at this point is quite cold, as Paltuding is about 1.8km above
 sea level, and you trek about 500m (elevation gain) to the crater rim.
+
+![Cabin at Paltuding](./ijen-cabin.jpg)
+
+It was a decent hike to the rim; consisting roughly 2 hours of continuously steep ascent.
+Nothing technical, but just required you to keep moving. Quite like an incline walk on the treadmill.
+
+#### Going Down 
+Once at the rim, you start your descent into the crater. This one takes about 45 minutes
+and is even steeper. You have to negotiate the rocks, narrow path, slopes, and crowd to get down. 
+
+Usually, the crowd bottlenecks around here because inexperienced hikers descent slowly,
+and there are miners/hikers going up as well.
+
+<figure>
+
+![Crowd at Ijen with a miner in the middle](./ijen-crowd.jpg)
+
+<figcaption>The crowd near the start of the descent, with a miner carrying sulfur going up.</figcaption>
+</figure>
+
+#### Back up
+On the way up, the encroaching morning sun painted light across the landscape and we were 
+able to see what was previously hidden in the dark: the gigantic acidic lake in the caldera,
+and the neighbouring mountain ranges. 
+
+<figure>
+
+![Way back up the rim](./ijen-wayup1.jpg)
+![View of the lake and some smoke out of it. Some trolleys line the road](./ijen-wayup2.jpg)
+
+<figcaption>The way back up to the rim, with "taxis" lining the path offering to send you down.</figcaption>
+</figure>
+
+I would say it was breathtaking, if not for the smoke and sulfur.
+
+![Neighbouring mountain](./ijen-wayup3.jpg)
+![View of the lake and some smoke out of it](./ijen-lake.jpg)
+
+
 
 ---
 
