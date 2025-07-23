@@ -93,12 +93,10 @@ Oh yeah, we also ran into some school friends in a different group!
 <figcaption>The way back up to the rim, with "taxis" lining the path offering to send you down.</figcaption>
 </figure>
 
-
-
 I would say it was breathtaking, if not for the smoke and sulfur.
 
-![Neighbouring mountain](./ijen-wayup3.jpg)
 ![View of the lake and some smoke out of it](./ijen-lake.jpg)
+![Neighbouring mountain](./ijen-wayup3.jpg)
 
 ---
 
@@ -131,15 +129,26 @@ We chilled (literally.) around [Bromo Cafe](https://maps.app.goo.gl/9TFNDyj68E6K
 one of the many cafes that serve the tourists. Hot drinks, noodles, and souvenirs 
 sold here.
 
+<figure>
+
+![Having some food at the cabin](./bromo-cabin.jpg)
+![Having some food at the cabin](./bromo-cabin2.jpg)
+
+
+<figcaption>Nothing beats hot food and cool weather.</figcaption>
+</figure>
+
 We were there until sunrise, stargazing. At the crack of dawn, everyone gathered
 outside to start taking photos as colour started filling into the distance.
 
 <figure>
 
 ![Stars in the night sky](./bromo-stars.jpg)
+![Us with a bottle of Bintang beer](./bromo-beer.jpg)
 
 <figcaption>Stars were out in full force. I saw Orion and Aquarius, and many others
-I couldn't identify.</figcaption>
+I couldn't identify.
+Check out that <a href="https://en.wikipedia.org/wiki/Bintang_Beer">red star</a>, too!</figcaption>
 </figure>
 
 We were really lucky to get clear weather. As nice as it looks in my photos,
@@ -147,8 +156,9 @@ you really had to have been there to take it all in with your own eyes.
 
 <figure>
 
-![](./bromo-view1.jpg)
-![](./bromo-semeru.jpg)
+![View of Bromo](./bromo-view1.jpg)
+![View of Bromo](./bromo-view2.jpg)
+![View of Bromo](./bromo-semeru.jpg)
 
 <figcaption>The view from Kingkong. We witnessed an ash eruption of Semeru, the 
 highest point in Java.</figcaption>
@@ -159,6 +169,30 @@ taken in the sunrise view. Bromo is the little smoking volcano at the bottom lef
 You may even see the temple and steps to take up to the rim.
 
 ### Sea of Sand
+
+After Mt. Kingkong, we headed down by jeep to the Sea of Sand, to walk across and
+climb up to the rim of Bromo crater.
+
+Beyond the jeeps' parking spots, there's a vast expanse of sand and some vendors peddling
+horse rides to get you across to Bromo crater.
+
+We decided it'd be fun to run and try to *Uma Musume* our way past the horses 
+(that didn't last long).
+
+<video autoplay muted controls>
+  <source src="./bromo-horserun.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
+We didn't spend too much time here, on account of having to head back down to the hotel 
+to check out. It's not a very long walk, much less so if you ride the horses.
+
+<video autoplay muted controls>
+  <source src="./bromo-jeep.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
+The rest of the day was spent lollygagging until our flight home in the evening.
 
 ---
 
