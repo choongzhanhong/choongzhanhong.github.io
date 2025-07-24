@@ -217,6 +217,9 @@ The rest of the day was spent lollygagging until our flight home in the evening.
 
 ## Itinerary
 
+We followed the itinerary laid out by Sotravel and the guide. It's fairly typical
+and consists of 3 days without sleep to catch early-morning phenomena. 
+
 ### Nosleep
 
 We had absolutely zero nights of proper sleep. Most days began early
@@ -231,7 +234,8 @@ Naturally, the weather will be cold (10-20°C) in both areas.
 Bring shoes appropriate for trekking as you don't want to risk slipping
 on Ijen on either descent (into crater, or back to base).
 
-Bromo is easier, but there's lots of ash/sand on the ground.
+Bromo is easier, but there's lots of ash/sand being blown around if you go to the 
+Sea of Sand, so get something to cover the face.
 
 ### Costs
 
