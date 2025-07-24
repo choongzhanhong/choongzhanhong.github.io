@@ -225,6 +225,13 @@ and consists of 3 days without sleep to catch early-morning phenomena.
 We had absolutely zero nights of proper sleep. Most days began early
 in the wee morning in order to outrun dawn.
 
+It was tough sleeping in the vans, with all the bumpiness and lack of seatbelts.
+(Is that... legal?)
+
+Nonetheless, we were kept awake by good company and great conversation.
+
+![](./bromo-beer2.jpg)
+
 ### Packing Notes
 
 We were lucky not to have encountered any rain, but everyone who's gone
@@ -254,5 +261,21 @@ It may be cheaper if you settle the itinerary yourself,
 probably saving up to $100.
 I also feel like I could've gotten a better deal with the flights.
 Nonetheless, it was well worth it for all the people I got to meet.
+
+![Us having dinner](./dinner.jpg)
+![Us gathered around a jeep](./bromo-jeep.jpg)
+
+### Closing Notes
+
+We saw a lot of weird (in a good way!) stuff outside our van as we drove along.
+Some people busking (?) for money dressed up in clown outfits or painting themselves entirely
+in silver paint.
+
+<figure>
+
+![Clown outside our van](./clown.jpg)
+
+<figcaption>This scared the shit out of me</figcaption>
+</figure>
 
 Some photos courtesy of friends.
