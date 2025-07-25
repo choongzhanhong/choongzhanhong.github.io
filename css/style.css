@@ -141,7 +141,10 @@ img, svg, video, audio {
     display: block;
     max-width: 100%;
     height: auto;
-    fill: currentColor;
+	
+	/* Fallback for when image doesn't load */
+    background: #fff;
+	text-align: center;
 }
     
 code, textarea {
@@ -450,4 +453,6 @@ aside.back-to-top {
     float: right;
     bottom: 50px;
     z-index: 1000;
+	background: var(--color_background);
+	padding: 5px 10px;
 }
