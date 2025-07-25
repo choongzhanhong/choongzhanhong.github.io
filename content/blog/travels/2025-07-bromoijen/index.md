@@ -85,7 +85,8 @@ I probably should have gotten one.
 ![Group photo](./ijen-base1.jpg)
 ![Group photo](./ijen-base2.jpg)
 
-My girlfriend made it to the base faster than I did. She's a natural!
+My girlfriend made it to the base faster than I did. She's a natural!\
+<small>*She notes that I carried her bag for her the entire time.*</small>
 
 #### Back up
 
@@ -270,6 +271,11 @@ Nonetheless, it was well worth it for all the people I got to meet.
 We saw a lot of weird (in a good way!) stuff outside our van as we drove along.
 Some people busking (?) for money dressed up in clown outfits or painting themselves entirely
 in silver paint.
+
+There was a pair of motorcycle riders with the pillion playing a guitar behind.
+We also saw a tour (?) train on the road? It looked a little cartoonish.
+
+We also bore witness to cats mating and a cow taking a shit in real-time. Oh, nature!
 
 <figure>
 

@@ -141,7 +141,10 @@ img, svg, video, audio {
     display: block;
     max-width: 100%;
     height: auto;
-    fill: currentColor;
+	
+	/* Fallback for when image doesn't load */
+    background: #fff;
+	text-align: center;
 }
     
 code, textarea {
