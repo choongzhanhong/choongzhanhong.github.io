@@ -28,8 +28,6 @@ I can say that I'd seen enough of what Taiwan had to offer.
 ![View from near the base of Jade mountain](./yushan-base2.jpg)
 ![](./yushan-midhike.jpg)
 
-
-
 I learned one thing this trip
 
 ### At the cabin
@@ -56,7 +54,7 @@ braised meat rice, which warmed us up.
 ### The summit
 
 <figure>
-<img src="./yushan-nearpeak.gif">
+tba video
 <figcaption>Near the peak. Views obscured by clouds, but still breathtaking.</figcaption>
 </figure>
 
