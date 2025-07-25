@@ -453,4 +453,6 @@ aside.back-to-top {
     float: right;
     bottom: 50px;
     z-index: 1000;
+	background: #ddd;
+	padding: 5px 10px;
 }
