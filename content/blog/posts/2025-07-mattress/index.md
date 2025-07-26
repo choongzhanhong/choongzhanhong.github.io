@@ -1,6 +1,6 @@
 ---
-title: "DIY Mattress"
-date: 2025-07-01
+title: "DIY Mattress Making"
+date: 2025-07-31
 tags:
   - "miscellaneous"
 layout: "layouts/post.njk"
@@ -10,18 +10,23 @@ I moved house in 2025, and decided it'd be a good time to throw away my old, pis
 I thought this would be the perfect time to do a little research on what makes a good mattress,
 and meaningfully replace my old mattress.
 
-Just previously, I had been thinking of sleeping on a Futon-type thing to save a bit of floor space too.
+Just previously, I had been thinking of sleeping on a futon-type thing to save a bit of floor space too.
 While it's still tempting, I don't think I'd actually get used to folding it up daily.
 
 I came across a YouTube video on my Twitter feed which I watched in full one weekend afternoon.
-He gave quite some compelling arguments. 
+He gave some compelling arguments. 
 
-TL;DR, latex is the way, or memory foam if you have to. Absolutely avoid coils.
+TL;DR, Get a latex mattress, or memory foam if you have to. Absolutely avoid coils.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLVmNjaxBLA?si=EK8qZJi9DJtKkDY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-So, I set off in search of latex mattresses available in Singapore, 
-specifically seeing if I could find any of the Talalay kind.
+Another TL;DR:
+There are two main types of latex mattresses based on the chemical process used to make them.
+The typical one is Dunlop, with Talalay latex being a more complicated and thus expensive process.
+
+The [Talalay process](https://en.wikipedia.org/wiki/Talalay_process) confers some 
+properties to the latex that may be preferred: most say softer, more breathable.
+A lot of mattress store websites have an article on the difference[^talalay].
 
 ## Findings
 
@@ -34,8 +39,8 @@ laptop to find that they were given a document with info on Dunlop vs Talalay,
 which she had never needed to read before.
 
 Even though Singapore is situated amongst sprawling rubber plantations in Southeast Asia,
-few companies in the area, even some Thai and Malaysian ones, supply
-Talalay latex.
+I could not find companies in the area that supplied Talalay latex, not even in Thailand
+or Malaysia.
 
 Understandably, the process itself is more expensive, and I don't suppose
 there's much demand in the area.
@@ -44,8 +49,8 @@ The US stores don't ship to Singapore. If you really wanted to, you could ship t
 through a forwarding service. Likewise with the Vitalalay factories in Europe.
 This would probably be the option that guarantees the most reliable results.
 
-*\*There were some places selling Talalay Latex toppers, or their mattresses
-included a thin layer of Talalay Latex. See below.*
+\* There were some places selling Talalay Latex toppers, or their mattresses
+included a thin layer of Talalay Latex. See below.
 
 ### Decent local brands if you're okay with Dunlop
 
@@ -80,18 +85,17 @@ on the top layers, otherwise they're filled with foam and some coils.
 They also claim to use a layer of Talalay, although from what I see it's really thin.
 I know, because they present their cross-sections in the stores, which is absolutely what
 every mattress brand should do for full transparency.
-This brand gets my vote because I lay on their mattresses in-store and they were
+This brand gets my vote because I laid on their mattresses in-store and they were
 extremely soft and comfortable.
 
 ### The Conclusion
 
-I was hell-bent on getting a Talalay mattress, if not just to compare
+I was hell-bent on getting a Talalay mattress, if only just to compare
 it to Dunlop and see what the fuss is about. In the name of science!
 
 In the end, I looked to Taobao, which is probably the best place to look.
 I didn't want to concede just yet, and thought maybe I could
 actually DIY something inexpensive.
-
 
 Another poster on the Mattress Underground shared the same difficulty
 finding Talalay latex mattresses in Singapore, and even the ones
@@ -106,3 +110,45 @@ The subsequent sections deal with my experience after receiving the mattress.
 ---
 
 ## Assembling the mattress
+
+### Ordering the parts
+
+I bought a total of three mattress layers off Taobao, all in queen size (150 by 200cm).
+
+The Talalay layer, intended for the topmost layer[^layers] of the mattress,
+was 10cm thick and cost about ￥6800.
+Supposedly, this was imported from Vitalalay.
+
+The other two layers, I bought Dunlop layers at different "deflection"[^ild].
+Each was 7.5cm thick, and I got 85D and 95D at ￥1330 and ￥1700 respectively.
+
+Total costs chalked up to about ￥8200, or S$1465, or US$1146, the majority of which
+was the price of the Talalay layer. Oh, and this price was not inclusive of 
+shipping fees and import taxes, which were another few hundred.
+
+The mattresses in their entirety arrived about a month after I had initially ordered.
+
+I also got a mattress cover/protector and some bedsheets. There are some considerations here as well.
+Without going into too much research, I got an unquilted cover[^quilt] that claimed to be waterproof
+(in case my cat pees on my bed again), and I'm opting for [Tencel](https://nymag.com/strategist/article/tencel-fabric-explainer.html)
+ bedsheets at the recommendation of a friend.
+
+### Assembly
+
+With the mattresses shipped, it was time to start assembling the layers.
+
+
+[^talalay]: Dunlopillo has a [blog post](https://dunlopillo.com.sg/blog/what-is-latex-mattress) on latex mattresses.
+
+[^layers]: The layers of a mattress include the comfort layer, which is the topmost, softest one,
+and the support layer, which is firmer at the base. In-between, you may find a transition layer.
+In general, the mattress goes from soft to firm as you go down. [Some more information](https://sleepopolis.com/guides/mattress-layers-guide/)
+
+[^ild]: When discussing mattress firmness, a measurement called 
+[Indentation Load Deflection](https://sleeponlatex.com/blog/what-is-ild)
+or ILD is used. On the Taobao stores
+
+[^quilt]: I haven't done much research on the differences, but from 
+[what I gather](https://old.reddit.com/r/Mattress/comments/16m3trw/diy_mattress_quilted_versus_unquilted_cover/),
+the differences include softness and temperature circulation. Quilted covers may be firmer,
+less stretchy, but offer better breathability.
