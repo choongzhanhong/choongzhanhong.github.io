@@ -195,6 +195,14 @@ per-pax costs were about 150 SGD or 116 USD as of current exchange rates.
 
 This was a worthwhile trip. Let me know if you want any recommendations.
 
+**Update:** a month later, we got informed by the rental company that we were caught speeding
+down the expressway, doing 124km/h on a 110 road. 
+
+I'd say it's totally normal in Malaysia to speed,
+everyone's actually decent at driving... we just happened to get caught.
+
+Anyway, that tacks on another RM300 or ~S$90 to the total costs.
+
 ![View from the summit](./view.jpg)
 ![View from the summit](./view2.jpg)
 
