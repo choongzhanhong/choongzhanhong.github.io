@@ -137,6 +137,20 @@ Without going into too much research, I got an unquilted cover[^quilt] that clai
 
 With the mattresses shipped, it was time to start assembling the layers.
 
+Since I had previously been sleeping on a single bed, I also bought a simple bedframe
+to match the queen sized mattress. 
+
+Overall, it didn't take very long, but the mattresses were heavy, or rather unwieldy.
+I think I also received extra pillows from the store, which is nice.
+
+<video muted controls>
+  <source src="./buildbed.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
+### Review
+
+
 
 [^talalay]: Dunlopillo has a [blog post](https://dunlopillo.com.sg/blog/what-is-latex-mattress) on latex mattresses.
 
@@ -152,3 +166,6 @@ or ILD is used. On the Taobao stores
 [what I gather](https://old.reddit.com/r/Mattress/comments/16m3trw/diy_mattress_quilted_versus_unquilted_cover/),
 the differences include softness and temperature circulation. Quilted covers may be firmer,
 less stretchy, but offer better breathability.
+
+
+
