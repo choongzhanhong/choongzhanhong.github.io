@@ -60,27 +60,27 @@ A few brands I shortlisted in my find were decent, but mostly have Dunlop latex.
 If you don't really find the difference between Talalay and Dunlop to be that big
 of a deal, you could just buy one of these here.
 
-- Heveya, while expensive, is B Corp certified and is fully transparent
+- [Heveya](https://www.heveya.sg/), while expensive, is B Corp certified and is fully transparent
 about their mattress makeup, which is 100% Dunlop latex, no frills.
 I liked their presentation, and they get my vote for their commitment to sustainability,
 transparency.
 
-- Sofzsleep is the budget option which also offers 100% Dunlop latex mattresses.
+- [Sofzsleep](https://sofzsleep.net/) is the budget option which also offers 100% Dunlop latex mattresses.
 They offer many different mattresses, but I can't really tell the difference between
 any of them. Maybe it's the thickness? Nonetheless, you can check them out in-store at 
 the Mattress Boutique to find out more. Value for money option.
 
-- Getha's mattresses are Dunlop based on their website's info, but they also sell
+- [Getha's](https://getha.com.sg) mattresses are Dunlop based on their website's info, but they also sell
 Talalay pillows, and some of their mattresses reportedly have a layer of Talalay
 in-between. Mid-ranged prices here.
 
-- Dunlopillo, which is probably an industry leader, has this "Talasilver wave"
+- [Dunlopillo](https://dunlopillo.com.sg/), which is probably an industry leader, has this "Talasilver wave"
 mattress layer which I assume is based on Talalay. These make up the comfort layer
 of some of their products, and the remaining layers are foam or I assume Dunlop latex.
 They also sell Talalay latex toppers, in case you only need the topmost/comfort
 layer to be Talalay, this is a reliable option too, being an established name.
 
-- Woosa gets a special shoutout in this section. Their mattresses do have latex
+- [Woosa](https://woosasleep.co) gets a special shoutout in this section. Their mattresses do have latex
 on the top layers, otherwise they're filled with foam and some coils. 
 They also claim to use a layer of Talalay, although from what I see it's really thin.
 I know, because they present their cross-sections in the stores, which is absolutely what
@@ -90,8 +90,8 @@ extremely soft and comfortable.
 
 ### The Conclusion
 
-I was hell-bent on getting a Talalay mattress, if only just to compare
-it to Dunlop and see what the fuss is about. In the name of science!
+I was hell-bent on getting a Talalay mattress, 
+if only just to see what the fuss is about. In the name of science!
 
 In the end, I looked to Taobao, which is probably the best place to look.
 I didn't want to concede just yet, and thought maybe I could
@@ -143,10 +143,14 @@ to match the queen sized mattress.
 Overall, it didn't take very long, but the mattresses were heavy, or rather unwieldy.
 I think I also received extra pillows from the store, which is nice.
 
+<figure>
 <video muted controls>
   <source src="./buildbed.webm" type="video/webm">
     Your browser does not support the video tag.
-</video> 
+</video>
+
+<figcaption>Assembled it with the help of my dad.</figcaption>
+</figure> 
 
 ### Review
 
@@ -160,7 +164,8 @@ In general, the mattress goes from soft to firm as you go down. [Some more infor
 
 [^ild]: When discussing mattress firmness, a measurement called 
 [Indentation Load Deflection](https://sleeponlatex.com/blog/what-is-ild)
-or ILD is used. On the Taobao stores
+or ILD is used. Each store's deflection can only really by compared against itself,
+so I'm guessing 85D is less firm than 95D.
 
 [^quilt]: I haven't done much research on the differences, but from 
 [what I gather](https://old.reddit.com/r/Mattress/comments/16m3trw/diy_mattress_quilted_versus_unquilted_cover/),
