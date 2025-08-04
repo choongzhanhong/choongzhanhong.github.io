@@ -161,7 +161,6 @@ I was eager to start sleeping on this bed already.
 These past few months, I had been sleeping on a hard mattress on the floor as a
 temporary arrangement, so I had something to compare against.
 
-
 My first night, I was pleased with the amount of space I had. I don't know how 
 I slept on a single bed before, I must've always had a limb or two jutting out at any given time.
 
@@ -177,10 +176,12 @@ The latex mattress fit the curves of my body well. As a side-sleeper, I require 
 as the body tends can bend laterally, in more extreme ways than sleeping on the back.
 Check out [this article](https://spinehealth.org/article/sleeping-and-the-spine/) on recommended support.
 
+On that note, pillow size also matters in supporting your head in the various positions.
+
 Not to brag, but harder mattresses were unable to support my musculature, especially
 my thighs, which are larger and harder than average. They were always a source of discomfort
-whenever I decided to sleep in an unorthodox position (on the stomach), in which I lay on the front of my legs
-instead of the back.
+whenever I decided to sleep in an unorthodox position (on the stomach), in which I lay with my 
+thighs facing down instead of facing up.
 
 ![A bed](./final.jpg)
 
