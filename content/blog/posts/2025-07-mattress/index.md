@@ -1,6 +1,6 @@
 ---
 title: "DIY Mattress Making"
-date: 2025-07-31
+date: 2025-08-04
 tags:
   - "miscellaneous"
 layout: "layouts/post.njk"
@@ -109,7 +109,7 @@ The subsequent sections deal with my experience after receiving the mattress.
 
 ---
 
-## Assembling the mattress
+## Doing it Myself
 
 ### Ordering the parts
 
@@ -126,19 +126,17 @@ Total costs chalked up to about ￥8200, or S$1465, or US$1146, the majority of 
 was the price of the Talalay layer. Oh, and this price was not inclusive of 
 shipping fees and import taxes, which were another few hundred.
 
-The mattresses in their entirety arrived about a month after I had initially ordered.
-
 I also got a mattress cover/protector and some bedsheets. There are some considerations here as well.
 Without going into too much research, I got an unquilted cover[^quilt] that claimed to be waterproof
-(in case my cat pees on my bed again), and I'm opting for [Tencel](https://nymag.com/strategist/article/tencel-fabric-explainer.html)
- bedsheets at the recommendation of a friend.
+(in case my cat pees on my bed again), and I got HOOGA Cara cotton sateen bedsheets[^sheets].
 
 ### Assembly
 
+The mattresses in their entirety arrived about a month after I had initially ordered.
 With the mattresses shipped, it was time to start assembling the layers.
 
-Since I had previously been sleeping on a single bed, I also bought a simple bedframe
-to match the queen sized mattress. 
+For the bedframe, I got a queen-sized replica of the [KROMVIK](https://ikeamuseum.com/en/explore/product-stories/kromvik-bed-1982/),
+which fit the mattress height just nicely. Taobao truly is amazing.
 
 Overall, it didn't take very long, but the mattresses were heavy, or rather unwieldy.
 I think I also received extra pillows from the store, which is nice.
@@ -154,7 +152,41 @@ I think I also received extra pillows from the store, which is nice.
 
 ### Review
 
+Here's how it looked like in the end, before I wrapped it up with the covers.
+All the mattress layers arrived with their own covers.
 
+![Bed](./built1.jpg)
+
+I was eager to start sleeping on this bed already.
+These past few months, I had been sleeping on a hard mattress on the floor as a
+temporary arrangement, so I had something to compare against.
+
+
+My first night, I was pleased with the amount of space I had. I don't know how 
+I slept on a single bed before, I must've always had a limb or two jutting out at any given time.
+
+First, I noticed that it's soft, but not bouncy. If I jumped on it, I wouldn't fly,
+I'd just sink into it.
+
+It was a pain to align the layers flush due to their heftiness.
+I decided it was not worth the effort and zipped it all up in a cover, with much effort.
+
+![Three layers of latex](./built2.jpg)
+
+The latex mattress fit the curves of my body well. As a side-sleeper, I require more support
+as the body tends can bend laterally, in more extreme ways than sleeping on the back.
+Check out [this article](https://spinehealth.org/article/sleeping-and-the-spine/) on recommended support.
+
+Not to brag, but harder mattresses were unable to support my musculature, especially
+my thighs, which are larger and harder than average. They were always a source of discomfort
+whenever I decided to sleep in an unorthodox position (on the stomach), in which I lay on the front of my legs
+instead of the back.
+
+![A bed](./final.jpg)
+
+Overall, you can never really tell whether a mattress is good or not, as it's something
+you really only know after years of sleeping on it. Still, it's a step above what I've been sleeping on,
+and I think I got more than my money's worth, so I'm pleased!
 
 [^talalay]: Dunlopillo has a [blog post](https://dunlopillo.com.sg/blog/what-is-latex-mattress) on latex mattresses.
 
@@ -172,5 +204,6 @@ so I'm guessing 85D is less firm than 95D.
 the differences include softness and temperature circulation. Quilted covers may be firmer,
 less stretchy, but offer better breathability.
 
-
-
+[^sheets]: A friend recommended Tencel/Lyocell sheets, and I was considering linen or bamboo, but I decided
+cotton was the simplest way to go. Many recommend Egyptian cotton or cotton sateen.
+Of course, I don't go for synthetic fibres.
