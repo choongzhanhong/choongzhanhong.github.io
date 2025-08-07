@@ -53,15 +53,55 @@ A spell of rain in the middle of our hike with no good shelter taught us this va
 My jacket was soaked, although it put up some resistance. My passport, which I had failed to keep safely,
 had to be replaced after this trip.
 
+There were several stops along the way up where you could rest and seek shelter.
+Eventually, we stopped somewhere to devour the food we had bought that morning.
+
+<figure>
+
+![Our food](./yushan-snack.jpg)
+
+<figcaption>It is said that Aung can walk a million miles on the energy bestowed
+by a single sandwich.</figcaption>
+</figure>
+
+Eventually, the mountain lodge slowly made itself apparent. Due to our slow pace
+and late starting time, we were the last to reach the lodge for the day.
+
 ### At the lodge
+
+![](./yushan-lodge.jpg)
 
 Our stop for the first day was at Paiyun Lodge, some 3400m of elevation above sea level.
 
-![](./yushan-cabin.jpg)
-![](./yushan-cabinbed.jpg)
-![](./yushan-cabinfood.jpg)
-![](./yushan-cabinlobby.jpg)
+This was our rest stop before we all departed for the summit around 2-3am the next day.
+I was so happy to finally have something warm in my hands: generous servings of Taiwan's braised pork rice.
 
+<figure>
+
+![](./yushan-lodgelobby.jpg)
+![](./yushan-lodgefood.jpg)
+
+<figcaption>The lobby, and generous servings of food to help yourself to.</figcaption>
+</figure>
+
+There were drying areas at the lobby, but they were pretty much all occupied. 
+We went to the cabins to rest and dry up.
+
+#### The cabin situation
+
+Since we were soaked, we changed and spread all the clothes out to hang.
+Even my sleeping bag was wet, but I found enough dry spots to lie on, hoping it'd 
+dry up if I were to spread it out on the bed mat.
+
+The genius that I am, I strung up some rope for us to dry our clothes and maximise
+surface area. I'd say we were successful enough; we were dry enough to finish the climb,
+and then the way down.
+
+There were some electrical sockets for us to charge our devices.
+
+![](./yushan-lodgebed.jpg)
+
+### Day 2
 ![](./yushan-day2morning.jpg)
 
 The mountain shack is a place to rest before heading out
