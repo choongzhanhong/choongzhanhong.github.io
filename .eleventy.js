@@ -129,19 +129,33 @@ module.exports = function(eleventyConfig) {
     // Run the image through Eleventy Image asynchronously
     (async () => {
       await Image(fullSrcPath, {
-        widths: [600, 900, 1200],
-        formats: ["avif", "webp", "jpeg"],
+        widths: ["auto"],
+        formats: ["webp", "jpeg"],
         outputDir: "./_site/img/",
         urlPath: "/img/",
+		filenameFormat: function(id, src, width, format, options) {
+			// Replace underscores in hash.
+			// If name starts with underscore, github will 404.
+			const name = id.replace(/_/g, "");
+			
+			return `${name}-${width}.${format}`;
+		}
       });
     })();
     
     // Generate the HTML for the <picture> element
     const metadata = Image.statsSync(fullSrcPath, {
-        widths: [600, 900, 1200],
-        formats: ["avif", "webp", "jpeg"],
+        widths: ["auto"],
+        formats: ["webp", "jpeg"],
         outputDir: "./_site/img/",
         urlPath: "/img/",
+		filenameFormat: function(id, src, width, format, options) {
+			// Replace underscores in hash.
+			// If name starts with underscore, github will 404.
+			const name = id.replace(/_/g, "");
+			
+			return `${name}-${width}.${format}`;
+		}
       });
 
     const imageAttributes = {
