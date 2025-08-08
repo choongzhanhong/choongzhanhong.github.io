@@ -160,6 +160,25 @@ and the fatigue from a long hike up and down did not help.
 
 ---
 
+After the arduous climb, we were free to enjoy the rest of Taiwan like normal tourists.
+
+## Tainan
+
+After Chiayi, our next stop was Tainan.
+
+At night, JQ wanted to bring us to a cool spot, and that spot turned out 
+to be a gay bar. Or rather, it was taken over by one.
+
+We didn't enter.
+
+![Entrance of a gay bar](./tainan-gaybar.jpg)
+
+We ended up down Hai'an road, where the nightlife was concentrated in Tainan.
+We had our fair share of beer, including Taiwan beer.
+
+This was also a nice place to visit in the day; I looked around the quaint stores
+the next morning before we departed north for Taipei.
+
 ## Taipei
 
 I'm not gonna lie, it was quite boring to me.
