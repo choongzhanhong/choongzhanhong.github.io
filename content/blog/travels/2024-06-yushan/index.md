@@ -64,7 +64,7 @@ Eventually, we stopped somewhere to devour the food we had bought that morning.
 by a single sandwich.</figcaption>
 </figure>
 
-Eventually, the mountain lodge slowly made itself apparent. Due to our slow pace
+Eventually, the mountain lodge slowly made itself visible. Due to our slow pace
 and late starting time, we were the last to reach the lodge for the day.
 
 ### At the lodge
@@ -73,7 +73,11 @@ and late starting time, we were the last to reach the lodge for the day.
 
 Our stop for the first day was at Paiyun Lodge, some 3400m of elevation above sea level.
 
-This was our rest stop before we all departed for the summit around 2-3am the next day.
+By the time we got there, we were soaked.
+There are places to hang our equipment to dry, though
+the humidity and temperature made it difficult to
+get fully dry. We still managed to an acceptable level, though!
+
 I was so happy to finally have something warm in my hands: generous servings of Taiwan's braised pork rice.
 
 <figure>
@@ -87,7 +91,7 @@ I was so happy to finally have something warm in my hands: generous servings of 
 There were drying areas at the lobby, but they were pretty much all occupied. 
 We went to the cabins to rest and dry up.
 
-#### The cabin situation
+#### The cabins
 
 Since we were soaked, we changed and spread all the clothes out to hang.
 Even my sleeping bag was wet, but I found enough dry spots to lie on, hoping it'd 
@@ -97,25 +101,27 @@ The genius that I am, I strung up some rope for us to dry our clothes and maximi
 surface area. I'd say we were successful enough; we were dry enough to finish the climb,
 and then the way down.
 
-There were some electrical sockets for us to charge our devices.
-
 ![](./yushan-lodgebed.jpg)
 
-### Day 2
+There were some electrical sockets for us to charge our devices.
+
+The night got dark, and we didn't have much else to do but rest for an early departure
+the next day.
+
+### Day 2 - Summit and then down
+
+In the early morning of day 2, around 2-3am, the lodge comes alive again as
+everyone gets ready to hike the remainder of the trail to the summit.
+
+If you keep a good pace, you can reach the summit by sunrise and hopefully
+enjoy the view.
+
+Anyway, we didn't. The steepness picked up and we only got to the summit after
+the sun had fully risen.
+
 ![](./yushan-day2morning.jpg)
 
-The mountain shack is a place to rest before heading out
-again for the summit.
-
-By the time we got there, we were soaked.
-There are places to hang our equipment to dry, though
-the humidity and temperature made it difficult to
-get fully dry. We still managed to an acceptable level, though!
-
-You could help yourself to heaping portions of soup and 
-braised meat rice, which warmed us up.
-
-### The summit
+#### The summit
 
 <figure>
 tba video
@@ -158,9 +164,9 @@ In fact, you should probably rent a car, because it's very likely you might miss
 Thankfully, we managed to call a driver. It's a long way down to the nearest town,
 and the fatigue from a long hike up and down did not help.
 
----
-
 After the arduous climb, we were free to enjoy the rest of Taiwan like normal tourists.
+
+---
 
 ## Tainan
 
