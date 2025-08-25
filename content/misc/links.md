@@ -15,7 +15,6 @@ because I had missed the opportunity to learn them in my undergrad.
 - [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 Where I first started coding!
 
-
 ### Archives
 Various websites dedicated to archiving specific information.
 - [Chinese Text Project](https://ctext.org/)
