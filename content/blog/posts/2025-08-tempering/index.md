@@ -1,5 +1,5 @@
 ---
-title: "Tempering, or Enjoying Nature's Balance"
+title: "Temperance, or Enjoying Nature's Balance"
 date: 2025-09-08
 tags:
   - "miscellaneous"
@@ -27,6 +27,8 @@ This post is me, an old man (26 as of this post), screaming at clouds
 because I feel we've upset the balance of nature and lost our ways.
 
 ## The Sun
+
+![](./sun.jpg)
 
 Here in Singapore, we have eternally sunny and humid weather, with the occasional
 tropical monsoon. It gets hot, people get sweaty.
@@ -84,28 +86,28 @@ have lost the natural acclimatising effects of staying in a tropical climate.
 
 We're like fish out of water in our own country. How's that?
 
-### Do we use too much AC?
-
-I recently went to read a bit of Cherian George's [Air Conditioned Nation](https://www.airconditionednation.com/).
-A lot of the things I could be saying here are better said by him, so I don't claim
-to be making any profound statements, mostly focusing on the physical aspects of temperature.
-
 ### Definitions
 
 If you continue reading, I'd like to make a note on the title of this article.
 Tempering isn't really the closest word to some of what I describe, but it stuck.
 
-What I really mean is acclimatising, but in choosing the word "Tempering", I'm
-making a nod at many concepts.
-
-Firstly, there is an etymological relationship to temperature, specifically heat.
+There is, I guess, an etymological relationship to temperature, specifically heat.
 Materials are typically tempered with heat to increase their strength.
 I'd like to apply this concept to the heat of Singapore and what it does for our
-collective approach to temperature.
+collective approach to surviving in nature.
 
-Secondly, I enjoy the mysticism of tarot cards, and would like to allude to
-the 14th card of the major arcana, Temperance, which is a virtue that 
-simply means moderation or restraint. Again, very relevant concepts in this writing.
+What I really mean is acclimatising, but in choosing the word "Tempering", I'm
+making a nod at concepts of virtue.
+
+Anyway, I don't think I'm any more virtuous than you just because I don't over-use
+the air-con, or try to reduce my carbon footprint, but I do think my habits have made
+me a little more resistant to the heat in Singapore.
+
+### Do we use too much AC?
+
+I recently went to read a bit of Cherian George's [Air Conditioned Nation](https://www.airconditionednation.com/).
+A lot of the things I could be saying here are better said by him, so I don't claim
+to be making any profound statements, mostly focusing on the physical aspects of temperature.
 
 ### CROSS VENTILATION
 
@@ -119,12 +121,16 @@ and I'll to that in the next section.
 
 ## The Moon
 
-Excuse me for the tarot reference again.
+![](./moon.jpg)
 
-A few times I've sailed around Indonesian waters. Out in the sea, darkness permeates
+A few times I've sailed around Indonesian waters, around the Singapore strait.
+Out in the sea, darkness permeates
 everything at night. It's scary just how little you can see.
 
-Singapore, however, is quite visible from afar. It's how we know we're on the right track,
+Singapore, however, is quite visible from afar. A brownish cloud of light lingers
+above the island-nation from nautical miles away.
+
+It's how we know we're on the right track,
 which is increasingly difficult because (forget that GPS exists for a second)
 lights everywhere have blotted out most of the celestial figures sailors
 use to fix their position.
@@ -133,9 +139,34 @@ I don't enjoy Singapore, or anywhere's obsession with lighting.
 Many new places now are bloody bright with LEDs, especially the newly-renovated
 coffeeshops I frequent.
 
+I think it takes a certain restraint to use minimal lighting, and to use it well,
+to create a comfortable atmosphere. A lot of it rests on clever manipulation of
+natural sunlight, like the article I linked above.
+
+I love floor-to-ceiling windows for that reason. It fills your room with light,
+and it's often miles brighter and pleasant than sterile white fluorescence.
+
 ### Circadian rhythm
 
-I'm going to make a bold statement here: You're constantly tired because you
-aren't sleeping properly, and you aren't sleeping because you have your lights on 
-all the time, you're getting too much blue light, it's messing with your body.
+I'm going to make a bold statement here: If you're constantly tired, it's because you
+aren't sleeping properly, and you aren't sleeping right because lights are messing with your
+sleep schedule.
 
+Singapore's timezone is *wrong*. Our sun comes up too late in the morning (for most
+other places, it's 6am). If you have to get up early to get to work or school, which
+most do, that's a whole hour of difference.
+
+Another thing: It doesn't help that electric lights keep us awake and productive longer,
+and all the blue light we get from our screens aren't helping either.
+
+It'll be difficult to change the time zone, but the least we can do is reduce the 
+amount of light we get at night. I've heard that it genuinely helps to just lie in
+bed with the lights off even if you're not sleepy but should sleep; it'll do you 
+a lot more good than using your phone.
+
+## The Hermit
+
+You don't have to live like I do.
+I understand it's a slow process in going from AC to fans.
+
+Oh, and use sunscreen.
