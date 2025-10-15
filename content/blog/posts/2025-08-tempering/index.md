@@ -28,7 +28,7 @@ because I feel we've upset the balance of nature and lost our ways.
 
 ## The Sun
 
-![](./sun.jpg)
+![A snippet of the sun tarot card](./sun.jpg)
 
 Here in Singapore, we have eternally sunny and humid weather, with the occasional
 tropical monsoon. It gets hot, people get sweaty.
@@ -121,7 +121,7 @@ and I'll to that in the next section.
 
 ## The Moon
 
-![](./moon.jpg)
+![A snippet of the moon tarot card](./moon.jpg)
 
 A few times I've sailed around Indonesian waters, around the Singapore strait.
 Out in the sea, darkness permeates
