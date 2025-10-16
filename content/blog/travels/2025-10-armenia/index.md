@@ -15,6 +15,13 @@ I went with a friend and two others, four of us boys sharing one car.
 To explore the sparse mountainous countries in the Caucasus region, a car
 was definitely needed.
 
+<figure>
+
+![The car booking site with a "Mystery car" hidden under red cloth.](./mysterycar.jpg)
+
+<figcaption>As funny as it was, we decided not to gamble on a shitbox.</figcaption>
+</figure>
+
 ## Places Visited 
 
 ### Zvartnots
@@ -36,6 +43,12 @@ drove down to Khor Virap, en route to Areni.
 Our check-in date was on the 4th of October, which just so happened to be the day of the biggest wine 
 festival in Armenia, located in Areni.
 
+Because we booked a shack on top of Noravank Gorge, [Sareni](https://www.ecolur.org/en/news/biodiversity/15945/),
+the only way up was through a mountain road which was closed off on this very day!
+
+We contacted the folks and the manager, Vardges, led us to his restaurant, where we parked our car
+and took his jeep up another off-road way up to Sareni.
+
 ### Lake Sevan
 
 ### Garni, Geghard
@@ -46,19 +59,27 @@ Finally, after a loop around parts of the country,
 
 ## Itinerary
 
+We basically went to Areni, did a loop up to Lake Sevan without staying a night there,
+and stayed again in Garni before returning to Yerevan.
+
 ### Costs
 
 Flights cost 1.6k for a multi-city trip.
 Singapore to Armenia with one stop in Doha cost about 600,
 and Georgia to Singapore with a stop in Doha cost 1000.
-According to my friend who planned the trip, he snagged the tickets
-when the prices dropped to 1000 **total**.
 
+According to my friend who planned the trip, he snagged the tickets
+when the prices dropped to 1180 **total** (likely during the Israel-Iran exchanges).
 My fault for booking later than them, but oh well.
 
-For the trip from Armenia to Georgia, though a train ride was on the table,
-we decided on a flight, about 142 per pax.
+Rounded up to 2-3 significant figures, prices in SGD
 
-- Flights: 1750
+- Flights: $1750
+- Accomodations: $300
+- Transport: $320
+- Food: $275
+- Attractions: $88
+- Miscellaneous: $39
 
-![The car booking site with a "Mystery car" hidden under red cloth.](./mysterycar.jpg)
+
+
