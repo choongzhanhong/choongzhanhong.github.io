@@ -20,13 +20,45 @@ Too much, in fact. Some lesser-known areas (to me) were visited, such as Amanoha
 and Oyama for a firework festival. Oh, and I'll talk about TGS as well.
 I'll try to focus on these parts of the trip, since the rest of Japan is pretty well known.
 
+This whole trip, we were blessed with perfect weather and each day was planned
+so fully that we had little room for impromptu arrangements.
+
 ## Osaka
 
 The first half of our trip was spend in Osaka, and naturally parts in Kyoto.
+We got a relatively cheap Airbnb, which was located in the middle of Haginochaya,
+apparently a slum. Still, it was safe enough.
+
+### Nara, Uji, Ogura (Nintendo Museum)
+
+Would you believe I'd never been to Nara park? Anyway, I still haven't, but I
+did pass by on the way to [Todaiji](https://en.wikipedia.org/wiki/T%C5%8Ddai-ji).
+Aside from the big buddha, there's also a hole in a pillar that's said to bless you
+if you can pass through it. Unfortunately, I was unable to negotiate the width of the hole;
+my shoulders were just barely too wide. The long line of kids behind me also didn't give me
+many attempts. I suppose my next life won't be so swell, but that's for the next
+reincarnation to deal with.
+
+The temple + museum were breathtaking. I absolutely adore the architecture and 
+craftsmanship of the statues. I got a charm for my girlfriend's to achieve employment,
+and me for my safe travels.
+
+Afterward, a short afternoon at Uji, known for tea. The highlight was certainly
+[Nakamura Tokichi Honten](https://maps.app.goo.gl/ypSex6RsJqVFJi8r5), for which you
+had to wait an hour, but the parfait I had was so worth it. Of course, we got to walk around
+before our turn in the queue.
+
+We finally went to Nintendo Museum at our ballotted timeslot, and it's built from 
+one of Nintendo's first factories. You can't take any photos inside, but it's basically
+got all their hardware from the beginning. I especially appreciated seeing the prototypes
+of the Wii remote up til the final design.
 
 ### Amanohashidate 天橋立
 
-Being in the Kansai region, the main hubs of activity tend to be Osaka and Kyoto.
+I happened to have my International Driver's Permit, so we rented two cars with me
+as one of the drivers, which was a great idea considering how far Amanohashidate was.
+
+
 
 
 
