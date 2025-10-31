@@ -58,9 +58,18 @@ of the Wii remote up til the final design.
 I happened to have my International Driver's Permit, so we rented two cars with me
 as one of the drivers, which was a great idea considering how far Amanohashidate was.
 
+Amanohashidate was pretty interesting. It's a linear path across the sand spit, and then
+you can take a ski lift up to a viewing point.
 
 
+Thankfully, Japan's cars and roads were pretty much the same as Singapore's, so I had 
+no trouble driving at all. At some points, the parts up north by the sea (at Ine)
+had really narrow roads, but the problem was never the road, just congestion
+with other cars.
 
+I highly recommend doing a road trip around Japan at least once, for you
+check out the countryside. One thing to be wary about,
+the tolls are so expensive, but so are the long-haul train trips anyway...
 
 ## Itinerary
 
