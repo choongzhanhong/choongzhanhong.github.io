@@ -9,9 +9,19 @@ permalink: "{{ page.fileSlug }}.html"
 
 ## About Me
 I was born in Singapore. I'm in my mid-20's now.
+I spend a lot of time thinking about design.
 
 ### Likes
-Love design, powerlifting
+Love design, videogames, powerlifting, hiking (as you can see in my [blog](blog.html))
+
+Heaviest lifts:
+- Squat: 150kg
+- Bench: 100kg
+- Deadlift: 180kg
+- Press: 60kg
+
+I also play the guitar and I enjoy rock. Radiohead, Weezer, Red Hot Chili Peppers,
+The Beatles, to name a few.
 
 ### Dislikes
 Irresponsible use of AI, overconsumption
@@ -33,7 +43,6 @@ Fun fact: I was in the Gifted Education Programme (GEP)!
 I just wanted to put this here, although whether
 I have anything to show for it is another thing.
 
-
 ### Co-curricular activities
 -  I loved my time in the NUS Comedy Club. I would love to do stand-up and improv again.
 Spent 3 years in the club's committee, organised some gigs.
@@ -51,7 +60,7 @@ these activities on TOP of my academics! I &#9825; Uni life.
 ---
 ## Work
 
-I'm a junior game engineer now. I use C++ and Unreal Engine daily.
+I'm a junior game/R&D engineer now. I use C++ and Unreal Engine daily.
 
 Previously did some internships with Health Promotion Board, Workforce Singapore,
  involving marketing, web, and graphic design.
