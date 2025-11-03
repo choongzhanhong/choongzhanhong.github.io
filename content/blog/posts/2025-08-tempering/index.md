@@ -3,7 +3,7 @@ title: "Temperance, or Enjoying Nature's Balance"
 date: 2025-09-08
 tags:
   - "miscellaneous"
-  - "Singapore"
+  - "singapore"
 layout: "layouts/post.njk"
 ---
 

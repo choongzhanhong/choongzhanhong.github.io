@@ -71,6 +71,45 @@ I highly recommend doing a road trip around Japan at least once, for you
 check out the countryside. One thing to be wary about,
 the tolls are so expensive, but so are the long-haul train trips anyway...
 
+## Tokyo
+
+### Shin-Yokohama
+
+Our hotel for Tokyo was [Seiyoken](https://maps.app.goo.gl/ARGFUCbxkRhBa2kS6),
+around Musashi-Kosugi which I suppose is more Yokohama/Kawasaki than Tokyo, and
+certainly quite far from Makuhari Messe...
+
+### Tochigi/Oyama
+We went up north, about 2 hours by train one-way, for hanabi (花火),
+a fireworks show! There were stalls all around, and we got seats at a grandstand
+by the river where the fireworks were released. Everyone was in kimonos and yukatas,
+it was a sight to behold.
+
+Despite the crowds, it was well-managed on-site and I don't think I'd have been able
+to arrange something like this for myself, as a foreigner.
+
+The fireworks were incredible and went on for like 1-2 hours. I think I did get 
+a little sleepy near the end.
+
+### Tokyo area
+
+I don't have much to share here, but I went for [TeamLab borderless](https://www.teamlab.art/jp/e/tokyo/)
+and it was quite something. 
+
+DisneySEA not my style, none of the rides were very thrilling but I suppose it's
+more for those wishing to immerse themselves in Disney; many were in costume.
+
+### Makuhari Messe (Tokyo Game Show)
+
+The thing we came for! This was my second game convention after Gamescom Singapore,
+and I still wish I had more hours in a day to experience everything.
+
+---
+
+## FOOD
+
+---
+
 ## Itinerary
 
 ### Costs

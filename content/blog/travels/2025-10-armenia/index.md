@@ -22,9 +22,8 @@ was definitely needed.
 <figcaption>As funny as it was, we decided not to gamble on a shitbox.</figcaption>
 </figure>
 
-## Places Visited 
 
-### Zvartnots
+## Zvartnots
 
 We spent our first night in Zvartnots technically, touching down at the airport
 just past midnight and spending the first night at hotel Altunyan.
@@ -38,7 +37,7 @@ just the type of drive we needed at 1am after a series of flights.
 Our hotel window faced south, so we had a nice view of Mount Ararat, which remained visible as we
 drove down to Khor Virap, en route to Areni.
 
-### Areni 
+## Areni 
 
 Our check-in date was on the 4th of October, which just so happened to be the day of the biggest wine 
 festival in Armenia, located in Areni.
@@ -49,13 +48,39 @@ the only way up was through a mountain road which was closed off on this very da
 We contacted the folks and the manager, Vardges, led us to his restaurant, where we parked our car
 and took his jeep up another off-road way up to Sareni.
 
-### Lake Sevan
+### Arpa Protected Landscape
 
-### Garni, Geghard
+Lord, it was beautiful. We could just leave the hut and trek around, m
 
-### Yerevan
+Probably the best spot for scenic pisses.
 
-Finally, after a loop around parts of the country,
+## Lake Sevan
+
+## Garni, Geghard
+We stayed for a night at Garni, in another "hidden garden".
+
+We told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
+and made the sign of the cross, so you know UNESCO got something good in store for you.
+Anyway, we grew weary of the monasteries after a while, and arrived too early 
+(or maybe it was closed), so we enjoyed the entrance and left.
+
+## Yerevan
+
+Finally, after a loop around parts of the country, our last stop was Yerevan.
+
+Before heading for the airport, we had a few hours to kill, and frankly
+cut it too close, making it to check-in in the last minute.
+
+In fact, too much time was lost trying to park. I learned my lesson the hard way:
+never try to drive or park in the city, least of all in a historical European city where
+the infrastructure was never meant for such density.
+
+At one point, we got stuck in a narrow two-way alley, and a local got in our
+car to help us navigate the gridlock. Talk about hospitality! 
+
+Next up, [Georgia](../2025-10-georgia/)!
+
+--- 
 
 ## Itinerary
 
@@ -63,6 +88,11 @@ We basically went to Areni, did a loop up to Lake Sevan without staying a night 
 and stayed again in Garni before returning to Yerevan.
 
 ### Costs
+
+Armenia is slightly cheaper than Georgia, but also slightly less developed.
+Food-wise, we ate a lot, which was typically SGD 10-20 per meal.
+
+#### Totals 
 
 Flights cost 1.6k for a multi-city trip.
 Singapore to Armenia with one stop in Doha cost about 600,
@@ -80,6 +110,3 @@ Rounded up to 2-3 significant figures, prices in SGD
 - Food: $275
 - Attractions: $88
 - Miscellaneous: $39
-
-
-
