@@ -1,5 +1,5 @@
 ---
-title: "Temperance, or Enjoying Nature's Balance"
+title: "Temperance"
 date: 2025-09-08
 tags:
   - "miscellaneous"
@@ -16,15 +16,11 @@ pouring liquid from one cup to another, representing the dilution of
 wine.</figcaption>
 </figure>
 
-I want to write about this because of complaints that Singapore is hot
-(it is), our offices and universities are too cold;
-I see a lot of portable fans being used around me and I can't stand it;
-I like to sit in darkness, I have fucking night vision;
-I like to sleep with the fan on, and I like to dilute
-the drinks I buy from stores with water.
-
-This post is me, an old man (26 as of this post), screaming at clouds
-because I feel we've upset the balance of nature and lost our ways.
+I want to write about this because Singapore is hot
+(it is), and our offices and universities are too cold, and
+I see a lot of portable fans being used around me and I can't stand it,
+and I think we're really giving up the opportunity to temper ourselves
+to the climate.
 
 ## The Sun
 
@@ -50,7 +46,7 @@ I think it's great that AC, and refrigeration in general has become
 so commonplace. Not too long ago, the lack of such technologies heavily
 shaped human culture.
 
-The laws of physics used to be actual laws, where we had to find ways to abide by them,
+The laws of physics used to be stricter laws, where we had to find ways to abide by them,
 like figuring out fermentation, canning, pickling, etc. to keep food from spoiling.
 
 <figure>
@@ -72,20 +68,6 @@ I do, however, think that a lot of us have been coddled by technology to the poi
 of no return; we don't know how to live in tandem with nature anymore. 
 At least, that's my view in the context of Singapore.
 
-### Those damn Jisulife fans 
-
-I first started noticing portable fans heavily being used in South Korea during the summer.
-Likewise, back in Singapore. It's hard not to notice when they emit a high-pitched
-hissing when they operate.
-
-Have we lost the plot? Please excuse my doomerism, but I don't think the solution
-to increasing ambient temperatures is supplementing additional measures.
-
-In fact, I think we've gone too long as an AC-loving people, and as a result,
-have lost the natural acclimatising effects of staying in a tropical climate.
-
-We're like fish out of water in our own country. How's that?
-
 ### Definitions
 
 If you continue reading, I'd like to make a note on the title of this article.
@@ -99,9 +81,22 @@ collective approach to surviving in nature.
 What I really mean is acclimatising, but in choosing the word "Tempering", I'm
 making a nod at concepts of virtue.
 
-Anyway, I don't think I'm any more virtuous than you just because I don't over-use
-the air-con, or try to reduce my carbon footprint, but I do think my habits have made
+Anyway, I don't think I'm any more virtuous than you just because I
+sleep with just the fan, but I do suspect my habits have made
 me a little more resistant to the heat in Singapore.
+
+### Those damn Jisulife fans 
+
+I first started noticing portable fans heavily being used in South Korea during the summer.
+Likewise, back in Singapore. It's hard not to notice when they emit a high-pitched
+hissing when they operate which is just barely under my threshold of intolerability.
+
+Fans are great, often more effective than air conditioning,
+but I think we've gone too long as an AC-loving people, and as a result,
+have lost the natural acclimatising effects of staying in a tropical climate.
+
+If you spend like 20 hours of the day in an air conditioned environment,
+I do believe this disrupts your body's natural heat acclimatisation.
 
 ### Do we use too much AC?
 
@@ -109,7 +104,7 @@ I recently went to read a bit of Cherian George's [Air Conditioned Nation](https
 A lot of the things I could be saying here are better said by him, so I don't claim
 to be making any profound statements, mostly focusing on the physical aspects of temperature.
 
-### CROSS VENTILATION
+### Cross Ventilation and Fans
 
 Some architect friend told me about this.
 
@@ -118,6 +113,20 @@ Some architect friend told me about this.
 Architecture that integrates ventilation will often also integrate natural sunlight,
 which gets another thumbs-up in my book, because I think we overuse LEDs,
 and I'll to that in the next section.
+
+### Showering
+
+Every so often, Singaporeans online bring up the "showering in the morning" discourse,
+which is one of those topics where seemingly neither side of the argument will ever 
+see eye to eye.
+
+I of course think you should shower in the morning, especially in this type of 
+climate and if you have a long day ahead (say, if you're going to work).
+
+It also helps you keep cool, so maybe more Singaporeans would feel less heat
+if they also showered in the morning.
+
+--- 
 
 ## The Moon
 
@@ -164,9 +173,15 @@ amount of light we get at night. I've heard that it genuinely helps to just lie 
 bed with the lights off even if you're not sleepy but should sleep; it'll do you 
 a lot more good than using your phone.
 
+---
+
 ## The Hermit
 
-You don't have to live like I do.
-I understand it's a slow process in going from AC to fans.
+I think a sign of my ageing has been me literally watering down my sweet drinks,
+quite literally doing as the figure in the tarot card does.
+
+At the end of this post, I'd like to say that I don't think the way I live is
+superior, but it's worthwhile, I believe, to take full advantage of nature
+while we still can, I suppose. Be it human nature or mother nature.
 
 Oh, and use sunscreen.
