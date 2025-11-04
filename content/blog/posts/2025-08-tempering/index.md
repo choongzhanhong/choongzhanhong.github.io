@@ -22,6 +22,12 @@ I see a lot of portable fans being used around me and I can't stand it,
 and I think we're really giving up the opportunity to temper ourselves
 to the climate.
 
+In general, technology solves some problems, but a lot of them
+have already been solved by nature, and these two solutions find themselves at
+odds with each other. Like if a community of blobfish[^blob]
+decided that the deep sea environment was far too pressurised, and
+depressurised their surroundings. They'd all be blobs!
+
 ## The Sun
 
 ![A snippet of the sun tarot card](./sun.jpg)
@@ -40,14 +46,28 @@ It's true. I simply don't think I can focus as well if I'm sweating, thighs stic
 to pleather seat, arms leaving stains on the table. Been there.
 
 I worked best in university in my climate-controlled enclosure (study rooms),
-which were freezing cold and I always wondered just how much impact it had on the weather.
+which were freezing cold, but I wonder if that's just too much.
+Everyone brought jackets, which was a sign that the temperature
+overshot the ideal equilibrium.
 
 I think it's great that AC, and refrigeration in general has become
 so commonplace. Not too long ago, the lack of such technologies heavily
 shaped human culture.
 
-The laws of physics used to be stricter laws, where we had to find ways to abide by them,
+What I want to hazard against is the proliferation of the idea that modern life
+(in Singapore) is just moving from one air-conditioned place to another, trying 
+to minimize time exposed to the outside world. As much as sun damage is a real threat,
+there are benefits to getting some fresh air and sunlight.
+
+If you spend like 20 hours of the day in an air conditioned environment,
+I do believe this disrupts your body's natural heat acclimatisation.
+Do this over the course of a lifetime and you're a fish out of water in your own country,
+hypothalamusically speaking.
+
+The laws of physics were once more difficult to bend.
+Humans, of course, adapted along these laws,
 like figuring out fermentation, canning, pickling, etc. to keep food from spoiling.
+In every bit of culture there is a reflection of the struggle and success.
 
 <figure>
 
@@ -61,9 +81,6 @@ Photo by [Jeanne Menj](https://www.flickr.com/photos/jmenj/9261276542/) off Wiki
 </figcaption>
 </figure>
 
-Point is, civilisation used to work alongside nature. I don't think it's anything
-new to say that humans have disrupted this balance.
-
 I do, however, think that a lot of us have been coddled by technology to the point 
 of no return; we don't know how to live in tandem with nature anymore. 
 At least, that's my view in the context of Singapore.
@@ -76,7 +93,7 @@ Tempering isn't really the closest word to some of what I describe, but it stuck
 There is, I guess, an etymological relationship to temperature, specifically heat.
 Materials are typically tempered with heat to increase their strength.
 I'd like to apply this concept to the heat of Singapore and what it does for our
-collective approach to surviving in nature.
+collective approach to surviving in nature. In other words, *tahan*-ing[^tahan].
 
 What I really mean is acclimatising, but in choosing the word "Tempering", I'm
 making a nod at concepts of virtue.
@@ -85,28 +102,24 @@ Anyway, I don't think I'm any more virtuous than you just because I
 sleep with just the fan, but I do suspect my habits have made
 me a little more resistant to the heat in Singapore.
 
-### Those damn Jisulife fans 
+Infrastructure-wise, there might be room for bettter design to incorporate the 
+elements rather than resist them.
+
+### Ventilation 
+
+One of my favourite things I've ever learned from a friend (studying architecture)
+was the concept of cross ventilation.
+I could never look at things the same way ever again, 
+and I'm only mildly exaggerating.
 
 I first started noticing portable fans heavily being used in South Korea during the summer.
 Likewise, back in Singapore. It's hard not to notice when they emit a high-pitched
 hissing when they operate which is just barely under my threshold of intolerability.
 
 Fans are great, often more effective than air conditioning,
-but I think we've gone too long as an AC-loving people, and as a result,
-have lost the natural acclimatising effects of staying in a tropical climate.
+I just wish 
 
-If you spend like 20 hours of the day in an air conditioned environment,
-I do believe this disrupts your body's natural heat acclimatisation.
-
-### Do we use too much AC?
-
-I recently went to read a bit of Cherian George's [Air Conditioned Nation](https://www.airconditionednation.com/).
-A lot of the things I could be saying here are better said by him, so I don't claim
-to be making any profound statements, mostly focusing on the physical aspects of temperature.
-
-### Cross Ventilation and Fans
-
-Some architect friend told me about this.
+![image of a room with a brickwork wall with ventilation](./ventilation.jpg)
 
 [Check out this article I found.](https://www.archdaily.com/1008994/balancing-function-and-aesthetics-incorporating-natural-light-and-ventilation-in-facades)
 
@@ -114,7 +127,10 @@ Architecture that integrates ventilation will often also integrate natural sunli
 which gets another thumbs-up in my book, because I think we overuse LEDs,
 and I'll to that in the next section.
 
-### Showering
+Ventilation works because it speeds up evaporation of sweat, which is how the 
+body loses heat. That brings me to the next point.
+
+### Evaporation
 
 Every so often, Singaporeans online bring up the "showering in the morning" discourse,
 which is one of those topics where seemingly neither side of the argument will ever 
@@ -177,6 +193,8 @@ a lot more good than using your phone.
 
 ## The Hermit
 
+![A snippet of the hermit tarot card](./hermit.jpg)
+
 I think a sign of my ageing has been me literally watering down my sweet drinks,
 quite literally doing as the figure in the tarot card does.
 
@@ -185,3 +203,10 @@ superior, but it's worthwhile, I believe, to take full advantage of nature
 while we still can, I suppose. Be it human nature or mother nature.
 
 Oh, and use sunscreen.
+
+[^blob]: They only look like that because they were photographed in a highly 
+depressurized environment (relative to their natural one). 
+It's like Brits suffering heatstrokes in 25°C weather, which is an ideal
+air-conditioned/room temperature in Singapore.
+
+[^tahan]: Malay word meaning to resist or endure.
