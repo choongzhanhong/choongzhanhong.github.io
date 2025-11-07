@@ -138,7 +138,7 @@ module.exports = function(eleventyConfig) {
 			// If name starts with underscore, github will 404.
 			const name = id.replace(/_/g, "");
 			
-			return `${name}-${width}.${format}`;
+			return `${name}.${format}`;
 		}
       });
     })();
@@ -154,7 +154,7 @@ module.exports = function(eleventyConfig) {
 			// If name starts with underscore, github will 404.
 			const name = id.replace(/_/g, "");
 			
-			return `${name}-${width}.${format}`;
+			return `${name}.${format}`;
 		}
       });
 
