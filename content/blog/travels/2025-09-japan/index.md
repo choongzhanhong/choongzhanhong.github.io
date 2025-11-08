@@ -9,27 +9,40 @@ tags:
 layout: "layouts/post.njk"
 ---
 
-I went to Japan with my colleagues in September, primarily to attend Tokyo Game Show (TGS) on the 25–26th.
+![Group photo at TGS](./snk2.jpg)
+![Group photo at SNK office](./snk.jpg)
+
+I went to Japan with my colleagues in September, primarily to attend 
+Tokyo Game Show (TGS) on the 25–26th.
 We also spent some extra days enjoying Osaka and Tokyo,
 taking paid leave and financing the trip out of our own pockets.
 
 The last time I visited Japan in 2020, I went solo, which was great for taking
 long walks, but not so much for shared experiences, which I think I maximised on this trip.
 
-Too much, in fact. Some lesser-known areas (to me) were visited, such as Amanohashidate
-and Oyama for a firework festival. Oh, and I'll talk about TGS as well.
-I'll try to focus on these parts of the trip, since the rest of Japan is pretty well known.
+Too much, in fact. Each day was packed to the brim, with little room for
+impromptu arrangements. Thankfully, we were blessed with near-perfect weather.
 
-This whole trip, we were blessed with perfect weather and each day was planned
-so fully that we had little room for impromptu arrangements.
+Some lesser-known areas were visited, such as Amanohashidate,
+and Oyama for a firework festival. 
 
 ## Osaka
 
-The first half of our trip was spend in Osaka, and naturally parts in Kyoto.
+![Us in a mario pipes sculpture](./nintendo_1.jpg)
+
+The first half of our trip was spent in Osaka, and naturally parts in Kyoto.
 We got a relatively cheap Airbnb, which was located in the middle of Haginochaya,
 apparently a slum. Still, it was safe enough.
 
+My first actual day was spent at USJ. I was surprised at our endurance;
+we were in the entry queue early and stayed 'til near closing hours.
+We went for the Halloween Horror Nights event, and I gotta say the haunted
+houses are quite something. Won't go again, the thrills just aren't worth
+the crowds and queues.
+
 ### Nara, Uji, Ogura (Nintendo Museum)
+
+![Outside Todaiji](./nara_1.jpg)
 
 Would you believe I'd never been to Nara park? Anyway, I still haven't, but I
 did pass by on the way to [Todaiji](https://en.wikipedia.org/wiki/T%C5%8Ddai-ji).
@@ -39,9 +52,26 @@ my shoulders were just barely too wide. The long line of kids behind me also did
 many attempts. I suppose my next life won't be so swell, but that's for the next
 reincarnation to deal with.
 
-The temple + museum were breathtaking. I absolutely adore the architecture and 
-craftsmanship of the statues. I got a charm for my girlfriend's to achieve employment,
-and me for my safe travels.
+<figure>
+
+<row>
+
+![Sze Long struggling to fit into the pillar](./nara_2.jpg)
+![Me outside the pillar](./nara_3.jpg)
+
+</row>
+
+<figcaption>Sorry Sze Long for airing you out like this.
+This hole was made for me!</figcaption>
+</figure>
+
+
+The temple + museum were breathtaking, especially in clear weather.
+ I absolutely adore the architecture and 
+craftsmanship of the statues AND the pillars.
+I got a charm for my girlfriend's to achieve employment, and me for my safe travels.
+
+![Entrance to the temple](./nara_4.jpg)
 
 Afterward, a short afternoon at Uji, known for tea. The highlight was certainly
 [Nakamura Tokichi Honten](https://maps.app.goo.gl/ypSex6RsJqVFJi8r5), for which you
@@ -50,26 +80,57 @@ before our turn in the queue.
 
 We finally went to Nintendo Museum at our ballotted timeslot, and it's built from 
 one of Nintendo's first factories. You can't take any photos inside, but it's basically
-got all their hardware from the beginning. I especially appreciated seeing the prototypes
+got all their hardware, and some games, all from the beginning.
+I especially appreciated seeing the prototypes 
 of the Wii remote up til the final design.
 
 ### Amanohashidate 天橋立
 
+<figure>
+
+![Me looking through my legs](./amano_1.jpg)
+
+<figcaption>You're supposed to strike this pose 
+to look at the sand spit upside-down
+to see a bridge to heaven.</figcaption>
+</figure>
+
 I happened to have my International Driver's Permit, so we rented two cars with me
 as one of the drivers, which was a great idea considering how far Amanohashidate was.
-
-Amanohashidate was pretty interesting. It's a linear path across the sand spit, and then
-you can take a ski lift up to a viewing point.
-
+A little countryside drive was what we needed to make this trip stand out.
 
 Thankfully, Japan's cars and roads were pretty much the same as Singapore's, so I had 
 no trouble driving at all. At some points, the parts up north by the sea (at Ine)
 had really narrow roads, but the problem was never the road, just congestion
 with other cars.
 
+![Me on the ski lift, facing amanohashidate.](./amano_2.jpg)
+![Walking along amanohashidate.](./amano_3.jpg)
+
+Amanohashidate was pretty interesting. It's a linear path across the sand spit, and then
+you can take a ski lift up to a viewing point.
+
 I highly recommend doing a road trip around Japan at least once, for you
 check out the countryside. One thing to be wary about,
 the tolls are so expensive, but so are the long-haul train trips anyway...
+
+![Group of us along a coast. There's a rainbow in the background.](./rainbow.jpg)
+
+We also went further up north to Ine before making the trip back, making the 
+occasional pit stop.
+
+<figure>
+
+![Coastal place at Ine](./amano_4.jpg)
+
+<figcaption>Not pictured: the stress I caused myself because I entered
+the wrong carpark.</figcaption>
+</figure>
+
+Other than that, I wanted to visit Mt. Kongo but got lazy what with the
+hectic schedule and the weather forecast.
+
+---
 
 ## Tokyo
 
@@ -125,3 +186,13 @@ Flights
 
 Total was about $3k+, which I came to learn was "not that bad", but it still stung
 to me, who apparently hasn't had a longer trip in a while.
+
+--- 
+
+If you made it this far, this is me singing *Majulah Singapura* because someone 
+queued it at the karaoke and no one stepped up to sing it.
+
+<video controls>
+  <source src="./majulah.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
