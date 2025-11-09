@@ -26,6 +26,13 @@ impromptu arrangements. Thankfully, we were blessed with near-perfect weather.
 Some lesser-known areas were visited, such as Amanohashidate,
 and Oyama for a firework festival. 
 
+<figure>
+
+![Kushikatsu](./kushi.jpg)
+
+<figcaption>First meal together.</figcaption>
+</figure>
+
 ## Osaka
 
 ![Us in a mario pipes sculpture](./nintendo_1.jpg)
@@ -33,6 +40,12 @@ and Oyama for a firework festival.
 The first half of our trip was spent in Osaka, and naturally parts in Kyoto.
 We got a relatively cheap Airbnb, which was located in the middle of Haginochaya,
 apparently a slum. Still, it was safe enough.
+
+![me in the airbnb](./bnb.jpg)
+
+I liked the Airbnb. There was a TV at the common area, and we actually watched
+the entirety of La Grande Maison Tokyo over the course of the stay. That's 
+when I learned of Takuya Kimura, apparently Japan's (past) reigning heartthrob?
 
 My first actual day was spent at USJ. I was surprised at our endurance;
 we were in the entry queue early and stayed 'til near closing hours.
@@ -84,6 +97,16 @@ got all their hardware, and some games, all from the beginning.
 I especially appreciated seeing the prototypes 
 of the Wii remote up til the final design.
 
+<video controls muted>
+  <source src="./nintendo.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
+On a different floor, there was a play area with demos of their games. 
+You had limited tokens to spend, so you had to choose which ones you wanted to play.
+The stations ranged from a faithful NES setup
+to their earlier physical toys to more arcade-style games.
+
 ### Amanohashidate 天橋立
 
 <figure>
@@ -123,51 +146,123 @@ occasional pit stop.
 
 ![Coastal place at Ine](./amano_4.jpg)
 
+</figcaption>
 <figcaption>Not pictured: the stress I caused myself because I entered
-the wrong carpark.</figcaption>
+the wrong carpark.
 </figure>
 
 Other than that, I wanted to visit Mt. Kongo but got lazy what with the
-hectic schedule and the weather forecast.
+hectic schedule and the weather forecast. We went to Minoh falls instead.
+
+![Holding a beer up to the falls](./minoh.jpg)
 
 ---
 
 ## Tokyo
 
-### Shin-Yokohama
+![Tsukemen bowls](./tsukemen.jpg)
 
-Our hotel for Tokyo was [Seiyoken](https://maps.app.goo.gl/ARGFUCbxkRhBa2kS6),
+Our (business) hotel for Tokyo was [Seiyoken](https://maps.app.goo.gl/ARGFUCbxkRhBa2kS6),
 around Musashi-Kosugi which I suppose is more Yokohama/Kawasaki than Tokyo, and
 certainly quite far from Makuhari Messe...
 
+![Teamlab borderless entry](./teamlab.jpg)
+![One of the exhibits](./teamlab_2.jpg)
+
+Some things were done in the city area. Firstly, a visit to [TeamLab borderless](https://www.teamlab.art/jp/e/tokyo/). Simply something you have to experience
+with your own eyes.
+
+We also went to DisneySEA. The rides were less thrilling than USJ, but it 
+was nice immersing myself into the intricate sets. Disney isn't really my thing,
+though, so that's the last I'll visit the place in the foreseeable future.
+
+### Tokyo Office 
+
+We visited the Osaka office while in Osaka,
+and then the Tokyo office in Tokyo, which was the closer branch to us.
+
+<figure>
+
+![Neo geo Arcade Machines](./office_1.jpg)
+![Soundtrack LPs](./office_2.jpg)
+![Yakiniku](./office_3.jpg)
+
+<figcaption>
+Top photo was from Osaka office (HQ).
+Below two were with Tokyo office folks.
+I'm a big fan of Shinkiro's artwork.
+</figcaption>
+</figure>
+
+The night ended with delicious Yakiniku and drinks. Okay, it didn't end there.
+Some had DDR (Drink Drink Ramen), some went to the arcade, and I went to a bar
+afterwards.
+
+![Four cocktails](./bar.jpg)
+
 ### Tochigi/Oyama
+
+![Us gathered at a grandstand](./hanabi.jpg)
+
 We went up north, about 2 hours by train one-way, for hanabi (花火),
-a fireworks show! There were stalls all around, and we got seats at a grandstand
-by the river where the fireworks were released. Everyone was in kimonos and yukatas,
-it was a sight to behold.
+a fireworks show! There were stalls all around, and we got seats (ahead of time)
+at a grandstand by the river where the fireworks were released.
+Everyone was in kimonos and yukatas, it was a sight to behold.
+
+<video controls muted>
+  <source src="./hanabi.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
 
 Despite the crowds, it was well-managed on-site and I don't think I'd have been able
 to arrange something like this for myself, as a foreigner.
-
 The fireworks were incredible and went on for like 1-2 hours. I think I did get 
 a little sleepy near the end.
 
-### Tokyo area
+### Tokyo Game Show
 
-I don't have much to share here, but I went for [TeamLab borderless](https://www.teamlab.art/jp/e/tokyo/)
-and it was quite something. 
-
-DisneySEA not my style, none of the rides were very thrilling but I suppose it's
-more for those wishing to immerse themselves in Disney; many were in costume.
-
-### Makuhari Messe (Tokyo Game Show)
+![Us walking to TGS](./tgs_1.jpg)
 
 The thing we came for! This was my second game convention after Gamescom Singapore,
 and I still wish I had more hours in a day to experience everything.
 
----
+<figure>
 
-## FOOD
+![Me in front of a Nioh3 statue](./tgs_4.jpg)
+
+<figcaption>
+There was a challenge to beat a boss (umm.. right behind me isn't he?)
+within a certain time limit to get a T-shirt.
+We couldn't do it!
+Tried like three times. I was playing Nioh 1 at the time, so I thought my 
+muscle memory could come in handy, but the mechanics were just so different.
+</figcaption>
+</figure>
+
+I don't actually have much to say about this. Two days were spent trying to 
+maximise the number of demos played. Lots of cool merch and cosplayers.
+
+![](./tgs_2.jpg)
+![](./tgs_3.jpg)
+![](./tgs_5.jpg)
+![](./tgs_6.jpg)
+
+### Other stuff
+
+I visited Chiikawa Park! It was... alright. I had a lot of self-control seeing 
+all the Chiikawa merch being sold and... didn't buy much! Only a popcorn holder.
+
+![](./chiikawa_1.jpg)
+![](./chiikawa_2.jpg)
+
+I also went to a sumo show which was also *meh*, but I guess I shouldn't have
+expected much. It was one of those foreigner-oriented shows, 
+so no actual serious sumo-ing.
+
+<video controls muted>
+  <source src="./sumo.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
 
 ---
 
@@ -178,14 +273,16 @@ and I still wish I had more hours in a day to experience everything.
 Most of our costs were shared within the large group, so I can't say these prices
 will be representative of most trips, least of all the 12-man AirBnB.
 
-Flights
 - $308 SIN -> KIX via Peach MM774 + 1 checked luggage
 - $257 NRT -> SIN via Air Japan NQ3 (which got CANCELLED on the morning of...)
-- $434 NRT -> SIN via Zipair ZG53 (Hoping insurance will cover)
+- $434 NRT -> SIN via Zipair ZG53 (Insurance covered me)
 - $639 Total accommodations (average $60 a night)
+- ~$300-500 on transport including train, shinkansen, and rental car + tolls (amortised)
+- $350 on a Seiko SBSC001 (Japan exclusive! no regrets)
+- ... other costs which widely vary based on the traveler...
 
 Total was about $3k+, which I came to learn was "not that bad", but it still stung
-to me, who apparently hasn't had a longer trip in a while.
+to me, because I hadn't been on a longer trip lately.
 
 --- 
 
