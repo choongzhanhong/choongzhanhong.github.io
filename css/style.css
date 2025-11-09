@@ -137,6 +137,14 @@ blockquote p {
     display: inline;
 }
 
+row p {
+	display: flex;
+}
+
+row img {
+	height: 100%;
+}
+
 img, svg, video, audio {
     display: block;
     max-width: 100%;
@@ -226,7 +234,7 @@ article + article {
 
 article h2 {
     font-weight: 700;
-    margin: 0 0 1em 0;
+    margin: 1em 0 1em 0;
     color: var(--color_accent);
 }
 
