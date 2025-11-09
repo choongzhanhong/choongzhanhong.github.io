@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "eleventy --serve",
     "build": "eleventy",
-    "deploy": "npm run build && echo > _site/.nojekyll && gh-pages -d _site --force"
+    "deploy": "npm run build && gh-pages -d _site -b main"
   },
   "keywords": [],
   "author": "",
