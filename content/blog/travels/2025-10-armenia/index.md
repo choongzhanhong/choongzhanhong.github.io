@@ -9,8 +9,7 @@ tags:
 layout: "layouts/post.njk"
 ---
 
-This is part of a multi-country trip I had. See also: [Georgia](../2025-10-georgia/).
-
+Caucasus! This was part of a multi-country trip I had. See also: [Georgia](../2025-10-georgia/).
 I went with a friend and two others, four of us boys sharing one car.
 To explore the sparse mountainous countries in the Caucasus region, a car
 was definitely needed.
@@ -22,6 +21,17 @@ was definitely needed.
 <figcaption>As funny as it was, we decided not to gamble on a shitbox.</figcaption>
 </figure>
 
+This was my first time outside of Asia/Oceania, and this region being my first 
+foray into Europe seems a little unorthodox. I don't think it's a popular 
+tourist spot, and I mostly saw Chinese and Korean tourists if I even saw them at all.
+
+As usual, I'm going to share my experience!
+
+### Safety and hospitality
+
+Armenia is safe! Everyone's really nice as well. It wasn't uncommon to find kids who'd
+want to take photos with us. I didn't think tourists were so uncommon, but 
+maybe the spots we visited were a little off the beaten path.
 
 ## Zvartnots
 
@@ -40,8 +50,7 @@ drove down to Khor Virap, en route to Areni.
 ## Areni 
 
 Our check-in date was on the 4th of October, which just so happened to be the day of the biggest wine 
-festival in Armenia, located in Areni.
-
+festival in Armenia, located in Areni. The traffic was crazy.
 Because we booked a shack on top of Noravank Gorge, [Sareni](https://www.ecolur.org/en/news/biodiversity/15945/),
 the only way up was through a mountain road which was closed off on this very day!
 
@@ -56,8 +65,16 @@ Probably the best spot for scenic pisses.
 
 ## Lake Sevan
 
+From Areni, our next stay was at Garni. We decided to drive up north and pass by
+Lake Sevan, seeing as the major roads looped around the terrain. It's the biggest lake 
+in caucasus, all the more significant for a landlocked country. 
+
+We had some nice food (seafood included!) here, I believe it was [Tarsus Sevan](https://maps.app.goo.gl/2oJCRp6dRXmq8v477)
+and visited the monastery atop Sevan island, now a peninsula.
+
 ## Garni, Geghard
-We stayed for a night at Garni, in another "hidden garden".
+
+We stayed for a night at Garni, in a "hidden garden". 
 
 We told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
 and made the sign of the cross, so you know UNESCO got something good in store for you.
@@ -78,19 +95,27 @@ the infrastructure was never meant for such density.
 At one point, we got stuck in a narrow two-way alley, and a local got in our
 car to help us navigate the gridlock. Talk about hospitality! 
 
-Next up, [Georgia](../2025-10-georgia/)!
-
 --- 
 
 ## Itinerary
 
 We basically went to Areni, did a loop up to Lake Sevan without staying a night there,
-and stayed again in Garni before returning to Yerevan.
+and stayed again in Garni before returning to Yerevan. It's highly recommended you 
+rent a car. Driving is no issue in the country as cars are sparse, except in the city.
+
+I would ditch the car if you want to spend any time in Yerevan. Even if you *do* find
+a parking lot, everyone else's parking is so bad, it's not uncommon to see double- or
+even triple-parked cars.
+
+We tried to visit as many historical sites as possible, but that sort of boiled down
+to like a hundred monasteries. I find it a shame we didn't manage to fit in any 
+cave visits into our schedule (at Areni).
 
 ### Costs
 
 Armenia is slightly cheaper than Georgia, but also slightly less developed.
-Food-wise, we ate a lot, which was typically SGD 10-20 per meal.
+Food-wise, we ate a lot, which was typically SGD 10-20 per meal. Not much 
+in the way of variety, but the food is good nonetheless.
 
 #### Totals 
 
@@ -110,3 +135,5 @@ Rounded up to 2-3 significant figures, prices in SGD
 - Food: $275
 - Attractions: $88
 - Miscellaneous: $39
+
+... For the rest of the trip, check out the post on [Georgia](../2025-10-georgia/)!
