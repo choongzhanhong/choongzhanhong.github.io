@@ -27,11 +27,10 @@ tourist spot, and I mostly saw Chinese and Korean tourists if I even saw them at
 
 As usual, I'm going to share my experience!
 
-### Safety and hospitality
+### Some notes
 
-Armenia is safe! Everyone's really nice as well. It wasn't uncommon to find kids who'd
-want to take photos with us. I didn't think tourists were so uncommon, but 
-maybe the spots we visited were a little off the beaten path.
+Armenia is safe! Everyone's really nice and chill. It wasn't uncommon to find kids who'd
+want to take photos with us. Maybe they don't get to see asians often.
 
 ## Zvartnots
 
@@ -57,9 +56,14 @@ the only way up was through a mountain road which was closed off on this very da
 We contacted the folks and the manager, Vardges, led us to his restaurant, where we parked our car
 and took his jeep up another off-road way up to Sareni.
 
+It's one of two huts sitting atop the gorge. 
+
 ### Arpa Protected Landscape
 
-Lord, it was beautiful. We could just leave the hut and trek around, m
+Lord, it was beautiful. We could just leave the hut and trek around, which we did.
+The views were amazing, nature all around us, and it was all for us to enjoy since we 
+were the only ones staying up there (another couple later checked into the other hut
+later that night).
 
 Probably the best spot for scenic pisses.
 
