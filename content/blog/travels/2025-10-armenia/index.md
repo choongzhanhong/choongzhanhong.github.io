@@ -9,17 +9,14 @@ tags:
 layout: "layouts/post.njk"
 ---
 
+![View of Sareni lodge](./sareni_1.jpg)
+
 Caucasus! This was part of a multi-country trip I had. See also: [Georgia](../2025-10-georgia/).
 I went with a friend and two others, four of us boys sharing one car.
 To explore the sparse mountainous countries in the Caucasus region, a car
 was definitely needed.
 
-<figure>
 
-![The car booking site with a "Mystery car" hidden under red cloth.](./mysterycar.jpg)
-
-<figcaption>As funny as it was, we decided not to gamble on a shitbox.</figcaption>
-</figure>
 
 This was my first time outside of Asia/Oceania, and this region being my first 
 foray into Europe seems a little unorthodox. I don't think it's a popular 
@@ -51,10 +48,14 @@ drove down to Khor Virap, en route to Areni.
 Our check-in date was on the 4th of October, which just so happened to be the day of the biggest wine 
 festival in Armenia, located in Areni. The traffic was crazy.
 Because we booked a shack on top of Noravank Gorge, [Sareni](https://www.ecolur.org/en/news/biodiversity/15945/),
-the only way up was through a mountain road which was closed off on this very day!
+the only way up was through a mountain road which was closed off on this very day
+
+![Spread of food: kebabs, potato, and fruits](./food_1.jpg)
 
 We contacted the folks and the manager, Vardges, led us to his restaurant, where we parked our car
 and took his jeep up another off-road way up to Sareni.
+
+![Sareni and Vardges](./sareni_2.jpg)
 
 It's one of two huts sitting atop the gorge. 
 
@@ -66,6 +67,11 @@ were the only ones staying up there (another couple later checked into the other
 later that night).
 
 Probably the best spot for scenic pisses.
+
+### Noravank Gorge and Monastery
+
+![Monastery and birds](./monastery.jpg)
+
 
 ## Lake Sevan
 
@@ -84,6 +90,8 @@ We told the owner we were headed for Geghard monastery, and he gave us a chef's 
 and made the sign of the cross, so you know UNESCO got something good in store for you.
 Anyway, we grew weary of the monasteries after a while, and arrived too early 
 (or maybe it was closed), so we enjoyed the entrance and left.
+
+
 
 ## Yerevan
 
@@ -107,7 +115,15 @@ We basically went to Areni, did a loop up to Lake Sevan without staying a night 
 and stayed again in Garni before returning to Yerevan. It's highly recommended you 
 rent a car. Driving is no issue in the country as cars are sparse, except in the city.
 
-I would ditch the car if you want to spend any time in Yerevan. Even if you *do* find
+It's quite funny that there's 
+<figure>
+
+![The car booking site with a "Mystery car" hidden under red cloth.](./mysterycar.jpg)
+
+<figcaption>As funny as it was, we decided not to gamble on a shitbox.</figcaption>
+</figure>
+
+I would not drive in Yerevan. Even if you *do* find
 a parking lot, everyone else's parking is so bad, it's not uncommon to see double- or
 even triple-parked cars.
 
@@ -120,6 +136,7 @@ cave visits into our schedule (at Areni).
 Armenia is slightly cheaper than Georgia, but also slightly less developed.
 Food-wise, we ate a lot, which was typically SGD 10-20 per meal. Not much 
 in the way of variety, but the food is good nonetheless.
+
 
 #### Totals 
 
