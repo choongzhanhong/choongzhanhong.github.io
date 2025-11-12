@@ -35,7 +35,8 @@ Anyway, Armenia is safe! Everyone's really nice and chill. It wasn't uncommon to
 want to take photos with us. Maybe they don't get to see Asians often.
 
 The entire time we were there, it was cloudless,
-bare blue skies, except in Yerevan. The sun shines really bright, despite the colder
+bare blue skies, except in Yerevan. You'll notice in the photos I have.
+The sun shines really bright, despite the colder
 atmosphere, so sun protection was important.
 
 ## Zvartnots
@@ -104,8 +105,15 @@ The first of many scenic pisses.
 
 ### Noravank Gorge and Monastery
 
+Looking at the map around Areni, the monastery here is at the end of the road
+that stretches at the base of the gorge.
+
+The monastery was
+
 ![Monastery and birds](./monastery.jpg)
 
+It's a shame we couldn't fit in a cave visit into our itinerary; a bunch of 
+caves are along this stretch (Areni-1 and Magellan) which would've been nice to explore.
 
 ## Lake Sevan
 
