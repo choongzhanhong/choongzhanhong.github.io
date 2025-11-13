@@ -34,6 +34,13 @@ followed by some of the oldest monasteries and churches in the world.
 Anyway, Armenia is safe! Everyone's really nice and chill. It wasn't uncommon to find kids who'd
 want to take photos with us. Maybe they don't get to see Asians often.
 
+<figure>
+
+![Group photo with kids at Noravank Monastery](./noravank_3.jpg)
+
+<figcaption>At Noravank Monastery</figcaption>
+</figure>
+
 The entire time we were there, it was cloudless,
 bare blue skies, except in Yerevan. You'll notice in the photos I have.
 The sun shines really bright, despite the colder
@@ -44,17 +51,43 @@ atmosphere, so sun protection was important.
 We spent our first night in Zvartnots technically, touching down at the airport
 just past midnight and spending the first night at hotel [Altunyan](https://maps.app.goo.gl/Ejznis2UYUK9P7ie8).
 
+<figure>
+	
+![Road with Mt. Ararat in the background](./altunyan.jpg)
+	
+<figcaption>View from the hotel, of Ararat</figcaption>
+</figure>
+
 We were unaccustomed to the driving and missed a turn, and were thus rerouted through
 the [Alley of Glory](https://maps.app.goo.gl/rTnTqdx4ynGeSGVk7), which was quite a trial to drive through.
 Bumpy and narrow roads, darkness in some parts, with an apt name to boot,
 just the type of drive we needed at 1am after a series of flights.
 
-Our hotel window faced south, so we had a nice view of Mount Ararat, which remained visible as we
-drove down to Khor Virap, en route to Areni, to kick off our trip proper.
+After a filling breakfast, we checked out and drove down to Khor Virap,
+en route to Areni, to kick off our trip proper.
 
 ### Khor Virap
 
+First monastery of the trip, with quite a handful of visitors. The road leading 
+up to it was lined with graves, many of which had life-size portraits of whom I assume
+were the deceased. 
 
+The portraits were mostly of men in military gear. I don't know the details, but 
+likely their lives were lost in a land war with neighbouring countries.
+
+<row>
+
+![me with Mt. Ararat in the background](./khorvirap_1.jpg)
+![Stall vendors outside Khor Virap](./khorvirap_2.jpg)
+
+</row>
+
+The monastery itself is significant because it was where St. Gregory was imprisoned,
+the guy who converted Armenia to the Christian nation we know today. I got all of this 
+off Wikipedia. Apparently he was imprisoned in a rather deep pit, which we didn't manage to find,
+and probably wouldn't have gone down into anyway.
+
+We did, however, enter another such goon cave in one of the church buildings.
 
 ## Areni 
 
@@ -91,26 +124,40 @@ portioned "for two"... staples including
 bread, fish, (goat?) cheese, [gata](https://en.wikipedia.org/wiki/Gata_(food)), vegetables.
 By the way, their restaurant has NO electricity whatsoever!
 
+![Us eating the big dinner](./sareni_5.jpg)
+
 ### Arpa Protected Landscape
 
 I can't be sure where we walked around, as the Google Maps data isn't substantial,
 but I'll just say we were in the vicinity of the [Arpa Protected Landscape](https://maps.app.goo.gl/mxKD7JpKHWLyLsn29).
+
+![The hut in the distance, two friends walking](./sareni_4.jpg)
+![Selfie out in the field](./sareni_8.jpg)
 
 Lord, it was beautiful. We could just leave the hut and trek around, which we did.
 The views were amazing, nature all around us, and it was all for us to enjoy since we 
 were the only ones staying up there (another couple later checked into the other hut
 later that night). Didn't see any bezoar goats this entire trip, which was a bummer.
 
-The first of many scenic pisses.
+<figure>
+
+![Friend pissing into the grass](sareni_7.jpg)
+
+<figcaption>The first of many scenic pisses.</figcaption>
+</figure>
 
 ### Noravank Gorge and Monastery
 
+![](./sareni_3.jpg)
+
+The next morning, we checked out to head to the next destination, first taking a detour
+to Noravank monastery.
 Looking at the map around Areni, the monastery here is at the end of the road
 that stretches at the base of the gorge.
 
 The monastery was
 
-![Monastery and birds](./monastery.jpg)
+![Noravank Monastery and birds](./noravank_1.jpg)
 
 It's a shame we couldn't fit in a cave visit into our itinerary; a bunch of 
 caves are along this stretch (Areni-1 and Magellan) which would've been nice to explore.
@@ -124,20 +171,25 @@ in caucasus, all the more significant for a landlocked country.
 We had some nice food (seafood included!) here, I believe it was [Tarsus Sevan](https://maps.app.goo.gl/2oJCRp6dRXmq8v477)
 and visited the monastery atop Sevan island, now a peninsula.
 
+![](food_4.jpg)
+
 ## Garni, Geghard
 
 We stayed for a night at Garni, in a "hidden garden". 
 
 We told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
 and made the sign of the cross, so you know UNESCO got something good in store for you.
-Anyway, we grew weary of the monasteries after a while, and arrived too early 
+
+Anyway, we had grown weary of the monasteries after a while, and arrived too early 
 (or maybe it was closed), so we enjoyed the entrance and left.
 
-
+There's quite a number of nice spots here, where we found most of the tourists.
 
 ## Yerevan
 
 Finally, after a loop around parts of the country, our last stop was Yerevan.
+The city's probably full of experiences as well, but we only gave ourselves
+ a few hours t
 
 Before heading for the airport, we had a few hours to kill, and frankly
 cut it too close, making it to check-in in the last minute.
@@ -157,7 +209,6 @@ We basically went to Areni, did a loop up to Lake Sevan without staying a night 
 and stayed again in Garni before returning to Yerevan. It's highly recommended you 
 rent a car. Driving is no issue in the country as cars are sparse, except in the city.
 
-It's quite funny that there's 
 <figure>
 
 ![The car booking site with a "Mystery car" hidden under red cloth.](./mysterycar.jpg)
