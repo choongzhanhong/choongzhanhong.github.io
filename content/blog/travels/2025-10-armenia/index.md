@@ -215,6 +215,15 @@ Garni seemed to have quite a number of ticketed locations, and naturally tons
 of tourists. This was also one of them, but I could see the appeal. Apparently,
 this was a pre-Christianity temple!
 
+### A Spoonful of Love
+
+A funny thing happened: our rental car had to be exchanged because it had 
+been used in a movie, and they wanted to continue shooting with it! 
+They should've told us that before we topped up the fuel, but, alas...
+
+Anyawy, the movie's called "A Spoonful of Love", due to be released in 2026.
+You won't see us, but perhaps you'll see the car...
+
 ## Yerevan
 
 Finally, after a loop around parts of the country, our last stop was Yerevan.
