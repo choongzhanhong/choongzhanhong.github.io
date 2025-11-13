@@ -36,9 +36,11 @@ want to take photos with us. Maybe they don't get to see Asians often.
 
 <figure>
 
+![Group photo with kids at Vardges' restaurant](./sareni_6.jpg)
 ![Group photo with kids at Noravank Monastery](./noravank_3.jpg)
 
-<figcaption>At Noravank Monastery</figcaption>
+<figcaption>Top: At Vardges' restaurant;
+Bottom: At Noravank Monastery</figcaption>
 </figure>
 
 The entire time we were there, it was cloudless,
@@ -155,7 +157,9 @@ to Noravank monastery.
 Looking at the map around Areni, the monastery here is at the end of the road
 that stretches at the base of the gorge.
 
-The monastery was
+![](./noravank_2.jpg)
+
+The monastery was kinda like the rest of them. Goon cave number 2.
 
 ![Noravank Monastery and birds](./noravank_1.jpg)
 
@@ -164,26 +168,52 @@ caves are along this stretch (Areni-1 and Magellan) which would've been nice to 
 
 ## Lake Sevan
 
+<figure>
+
+![](./sevan_1.jpg)
+
+<figcaption>View of the lake from the monastery at the tip of sevan peninsula</figcaption>
+</figure>
+
 From Areni, our next stay was at Garni. We decided to drive up north and pass by
 Lake Sevan, seeing as the major roads looped around the terrain. It's the biggest lake 
 in caucasus, all the more significant for a landlocked country. 
 
-We had some nice food (seafood included!) here, I believe it was [Tarsus Sevan](https://maps.app.goo.gl/2oJCRp6dRXmq8v477)
-and visited the monastery atop Sevan island, now a peninsula.
+We dropped by a lakeside restaurant, [Tarsus Sevan](https://maps.app.goo.gl/2oJCRp6dRXmq8v477),
+where we had some nice food (seafood included!).
 
 ![](food_4.jpg)
 
-## Garni, Geghard
+After lunch, we went to the peninsula, which seemed
+to be where some activity congregated.
+
+![](./sevan_2.jpg)
+![](./sevan_3.jpg)
+
+There were quite a number of tourists here visiting the monastery atop 
+Sevan island, now a peninsula.
+
+## Garni
+
+![Accommodation at Garni](./garni_2.jpg)
 
 We stayed for a night at Garni, in a "hidden garden". 
+Breakfast was simple, but having it in the midst of nature elevated the experience.
+
+![Backyard](./garni_1.jpg)
 
 We told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
 and made the sign of the cross, so you know UNESCO got something good in store for you.
+Unfortunately, we had arrived too early (or it was closed?) so we didn't get to see much.
+Played with puppies, looked around, then headed back for breakfast.
 
-Anyway, we had grown weary of the monasteries after a while, and arrived too early 
-(or maybe it was closed), so we enjoyed the entrance and left.
+### Symphony of Stones
 
-There's quite a number of nice spots here, where we found most of the tourists.
+### Garni Temple
+
+Garni seemed to have quite a number of ticketed locations, and naturally tons 
+of tourists. This was also one of them, but I could see the appeal. Apparently,
+this was a pre-Christianity temple!
 
 ## Yerevan
 
@@ -229,7 +259,6 @@ cave visits into our schedule (at Areni).
 Armenia is slightly cheaper than Georgia, but also slightly less developed.
 Food-wise, we ate a lot, which was typically SGD 10-20 per meal. Not much 
 in the way of variety, but the food is good nonetheless.
-
 
 #### Totals 
 
