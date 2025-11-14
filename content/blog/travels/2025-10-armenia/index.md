@@ -70,9 +70,13 @@ en route to Areni, to kick off our trip proper.
 
 ### Khor Virap
 
+![](./khorvirap_4.jpg)
+
 First monastery of the trip, with quite a handful of visitors. The road leading 
 up to it was lined with graves, many of which had life-size portraits of whom I assume
 were the deceased. 
+
+![](./khorvirap_3.jpg)
 
 The portraits were mostly of men in military gear. I don't know the details, but 
 likely their lives were lost in a land war with neighbouring countries.
@@ -201,6 +205,7 @@ We stayed for a night at Garni, in a "hidden garden".
 Breakfast was simple, but having it in the midst of nature elevated the experience.
 
 ![Backyard](./garni_1.jpg)
+![](./food_5.jpg)
 
 We told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
 and made the sign of the cross, so you know UNESCO got something good in store for you.
