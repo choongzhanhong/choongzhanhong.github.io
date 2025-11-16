@@ -24,7 +24,7 @@ As usual, I'm going to share my experience!
 Some things you might enjoy in Armenia, and by extension, Georgia (but I'll save the 
 specifics for its own post), include nature and history. These areas are very mountainous
 and have beautiful sceneries. Just about everyone seemed to grow their own grapes
-and apples. 
+and apples.
 
 As you might know, Armenia is the first Christian country in the world,
 followed by Georgia, in adopting the state religion. 
@@ -95,12 +95,14 @@ and probably wouldn't have gone down into anyway.
 
 We did, however, enter another such goon cave in one of the church buildings.
 
+![](./khorvirap_5.jpg)
+
 ## Areni 
 
 Our check-in date was on the 4th of October, which just so happened to be the day of the biggest wine 
-festival in Armenia, located in Areni. The traffic was crazy.
+festival in Armenia, located in Areni, known for its wine. The traffic was crazy.
 Because we booked a shack on top of Noravank Gorge, [Sareni](https://www.ecolur.org/en/news/biodiversity/15945/),
-the only way up was through a mountain road which was closed off on this very day
+the only way up was through a mountain road which was closed off on this very day.
 
 <figure>
 
@@ -113,7 +115,10 @@ First Armenian meal of the trip: [Arpi Hacatun](https://maps.app.goo.gl/Mzz4BsgS
 </figcaption>
 </figure>
 
-We contacted the folks and the manager, Vardges, led us to his restaurant, where we parked our car
+We contacted the folks and had lunch while waiting for the manager, 
+Vardges, to come find a way up.
+
+He brought us to his restaurant, where we parked our car
 and took his jeep up another off-road way up to Sareni, which our rental car wasn't built for.
 
 ![Sareni and Vardges](./sareni_2.jpg)
@@ -163,8 +168,10 @@ that stretches at the base of the gorge.
 
 ![](./noravank_2.jpg)
 
-The monastery was kinda like the rest of them. Goon cave number 2.
+Here there was another goon cave. We had reservations going down at first,
+because it looked like a ladder leading into a well.
 
+![](./noravank_4.jpg)
 ![Noravank Monastery and birds](./noravank_1.jpg)
 
 It's a shame we couldn't fit in a cave visit into our itinerary; a bunch of 
@@ -189,36 +196,54 @@ where we had some nice food (seafood included!).
 ![](food_4.jpg)
 
 After lunch, we went to the peninsula, which seemed
-to be where some activity congregated.
+to be where some activity congregated. There's another monastery at the 
+tip of the peninsula, which used to be an island.
 
 ![](./sevan_2.jpg)
 ![](./sevan_3.jpg)
-
-There were quite a number of tourists here visiting the monastery atop 
-Sevan island, now a peninsula.
 
 ## Garni
 
 ![Accommodation at Garni](./garni_2.jpg)
 
 We stayed for a night at Garni, in a "hidden garden". 
-Breakfast was simple, but having it in the midst of nature elevated the experience.
+Breakfast (the next day) was simple, 
+but having it in the midst of nature elevated the experience.
+
+Once again, another location which would have been nice to chill at,
+but we only stayed for a night.
 
 ![Backyard](./garni_1.jpg)
 ![](./food_5.jpg)
 
-We told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
-and made the sign of the cross, so you know UNESCO got something good in store for you.
-Unfortunately, we had arrived too early (or it was closed?) so we didn't get to see much.
-Played with puppies, looked around, then headed back for breakfast.
+
+
+The night we arrived, we put our stuff down and immediately visited the
+following landmarks:
 
 ### Symphony of Stones
+
+An interesting natural formation of stones around a gorge.
 
 ### Garni Temple
 
 Garni seemed to have quite a number of ticketed locations, and naturally tons 
 of tourists. This was also one of them, but I could see the appeal. Apparently,
 this was a pre-Christianity temple!
+
+After that, we looked for a place to eat. We wandered into Sergei Mot,
+which was open on Google Maps, but couldn't find anyone.
+
+We eventually stumbled into the kitchen, who told us they were closed,
+but at the entrance were the cooks, having drinks by the grills,
+who told as that they're in fact open
+(or at least intended to serve us).
+
+They turned the lights on at the dining area and we had some of the 
+best barbequeue this trip. On the way out again we passed the cooks who 
+offered us shots of their vodka. Incredible hospitality. Even before this 
+we had considered coming back again the next morning, but our plans didn't
+allow for it.
 
 ### A Spoonful of Love
 
@@ -228,6 +253,17 @@ They should've told us that before we topped up the fuel, but, alas...
 
 Anyawy, the movie's called "A Spoonful of Love", due to be released in 2026.
 You won't see us, but perhaps you'll see the car...
+
+### Geghard, Azat Reservoir
+
+On the 2nd day,
+we told the owner we were headed for Geghard monastery, and he gave us a chef's kiss
+and made the sign of the cross, so you know UNESCO got something good in store for us.
+Unfortunately, we had arrived too early (or it was closed?) so we didn't get to see much.
+Played with puppies, looked around, then headed back for breakfast.
+
+After breakfast, we checked out and set off for Yerevan. We took a detour
+along the way to check out Azat Reservoir from atop some cliffs.
 
 ## Yerevan
 
