@@ -223,7 +223,12 @@ following landmarks:
 
 ### Symphony of Stones
 
-An interesting natural formation of stones around a gorge.
+![Symphony of stones landscape](./garni_4.jpg)
+
+An interesting natural formation of stones around a gorge. Not a very 
+long walk, quite interesting to look at. Ticketed, it was inexpensive. That's 
+the extent of my recollection. It was tough finding a parking lot but drive up far 
+enough and there'll be space.
 
 ### Garni Temple
 
@@ -244,6 +249,13 @@ best barbequeue this trip. On the way out again we passed the cooks who
 offered us shots of their vodka. Incredible hospitality. Even before this 
 we had considered coming back again the next morning, but our plans didn't
 allow for it.
+
+<row>
+
+![](./food_2.jpg)
+![](./food_3.jpg)
+
+</row>
 
 ### A Spoonful of Love
 
@@ -267,12 +279,11 @@ along the way to check out Azat Reservoir from atop some cliffs.
 
 ## Yerevan
 
+![](./yerevan_1.jpg)
+
 Finally, after a loop around parts of the country, our last stop was Yerevan.
 The city's probably full of experiences as well, but we only gave ourselves
- a few hours t
-
-Before heading for the airport, we had a few hours to kill, and frankly
-cut it too close, making it to check-in in the last minute.
+a few hours before heading for the airport.
 
 In fact, too much time was lost trying to park. I learned my lesson the hard way:
 never try to drive or park in the city, least of all in a historical European city where
@@ -280,6 +291,20 @@ the infrastructure was never meant for such density.
 
 At one point, we got stuck in a narrow two-way alley, and a local got in our
 car to help us navigate the gridlock. Talk about hospitality! 
+
+![](./yerevan_2.jpg)
+
+After lunch, we realised we were cutting it too close, and locked in...
+navigating, finding a gas station, heading to the airport, splitting up (two returning
+the car, two bringing the luggage to check-in).
+
+We made in the literal last minutes (check-in closes an hour before the flight).
+Well, the counter graciously waited for the other two to return the car to check their
+bags in, since they had to be present.
+
+The flight to Georgia was short, expectedly.
+It might have been possible to drive there, as the car rental company operates in
+both countries.
 
 --- 
 
@@ -300,8 +325,8 @@ I would not drive in Yerevan. Even if you *do* find
 a parking lot, everyone else's parking is so bad, it's not uncommon to see double- or
 even triple-parked cars.
 
-We tried to visit as many historical sites as possible, but that sort of boiled down
-to like a hundred monasteries. I find it a shame we didn't manage to fit in any 
+While the monasteries were nice to see, don't *only* go to them.
+I find it a shame we didn't manage to fit in any 
 cave visits into our schedule (at Areni).
 
 ### Costs
@@ -317,7 +342,7 @@ Singapore to Armenia with one stop in Doha cost about 600,
 and Georgia to Singapore with a stop in Doha cost 1000.
 
 According to my friend who planned the trip, he snagged the tickets
-when the prices dropped to 1180 **total** (likely during the Israel-Iran exchanges).
+when the total prices dropped to 1180 (likely during the Israel-Iran exchanges).
 My fault for booking later than them, but oh well.
 
 Rounded up to 2-3 significant figures, prices in SGD
