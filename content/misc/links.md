@@ -5,6 +5,7 @@ permalink: "/misc/{{ page.fileSlug }}.html"
 ---
 
 ## Some links
+
 ### Learning
 Many of these are online books which I have personally read through myself
 because I had missed the opportunity to learn them in my undergrad.
@@ -14,6 +15,12 @@ because I had missed the opportunity to learn them in my undergrad.
 - [Learn OpenGL](https://learnopengl.com/)
 - [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 Where I first started coding!
+
+### Other People's Websites 
+Some nice websites, some informative.
+- [The Orange Duck](https://theorangeduck.com)
+- [Mythical Strength](https://mythicalstrength.blogspot.com/)
+- [Every Single Paul Simon Song](https://paulsimonsongs.blogspot.com/)
 
 ### Archives
 Various websites dedicated to archiving specific information.
