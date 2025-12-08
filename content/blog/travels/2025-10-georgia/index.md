@@ -11,9 +11,9 @@ layout: "layouts/post.njk"
 
 This is part of a multi-country trip I had. 
 We first visited [Armenia](../2025-10-armenia/) for a few days before 
-spending the majority of the trip in Georgia.
+spending the majority of the trip in Georgia, north of Armenia and 
+just next door.
 
-Georgia is a nice little country tucked away in the Caucasus region.
 Coming from Armenia, I noticed the country was noticeably more developed,
 and was caught off-guard by the existence of McDonald's, H&M, and basically
 other global brands.
@@ -34,10 +34,26 @@ After the first day, we drove up north to Stepantsminda, which is a small mounta
 town near the Russian border. This was something that I had been looking forward to,
 because of the glacier hike we had planned at Gergeti.
 
+### Military Road
+
 The path we took is known as the 
 [military road](https://en.wikipedia.org/wiki/Georgian_Military_Road), which 
 was used to connect Georgia and Russia, starting from Tbilisi on the Georgian end.
 Along the way north, there were many sights that you could stop at to appreciate.
+
+![Statue seen along the military highway](./highway_1.jpg)
+![Monastery along the military highway](./highway_2.jpg)
+
+Because this road is heavily frequented by tourists, typically on tour buses,
+there's quite a few stores and paid parking. We didn't stick around too long 
+for those, and we parked by the road.
+
+![Cat and dog ain front of statue](./highway_3.jpg)
+![Group photo in front of a statue](./highway_4.jpg)
+
+
+
+### Kazbegi 
 
 The town itself had the highest concentration of tourists seen thus far, mostly 
 Chinese and Korean. We found ourselves in a nice little homestay, a short walk from 
