@@ -111,6 +111,8 @@ group later on. I wonder if this dog has anything to do up here?
 #### Altihut 3014
 
 The "3014" in the name is in reference to its elevation, 3014m above sea level.
+We didn't really visit this hut as we had no business there. It's a rest appropriate for 
+those doing the full hike.
 
 #### Glacier Tongue
 
@@ -124,6 +126,9 @@ to continue.
 For the average hiker, this might not be a one-day hike. Mt. Kazbek sits above 5000m
 of elevation, so acclimatisation is necessary. You may find it necessary
 to stay at a hut along the trail and spread the hike over two days.
+
+This was the first time I'd seen a glacier, so I was surprised to see that it really 
+is just a huge block of ice!
 
 ---
 
@@ -144,7 +149,12 @@ pass; it's inexpensive and prices are capped per day anyway.
 
 #### Hotel ZP Palace
 
-I'd like to shout out our hotel, ZP Palace (The ZP stands for Zaza Pachulia).
+I'd like to shout out our hotel, ZP Palace (The ZP stands for Zaza Pachulia, a
+Georgian basketballer). It had one of the best gyms I'd ever been to in a hotel,
+let alone amongst gyms in general.
+
+The breakfast was decent and the location, being somewhere in Tbilisi, and a short 
+walk from the metro, made this a value-for-money booking.
 
 --- 
 
@@ -158,15 +168,23 @@ better experienced at your own pace if you can rent a car instead.
 
 ## East Georgia 
 
-### Sighnavi
+### Sighnagi, Telavi
+
+Sighnagi is known as the "city of love", I suppose many marriages happen here. It's 
+a nice little town with cobblestone streets, with historical ties to winemaking,
+but I thought it was just alright. Too touristy.
 
 ## West Georgia 
 
 The western side of Georgia was the more interesting of the two, although 
 we didn't fully explore the west (such as the regions by the Black Sea).
 
-### Vardzia
+### Vardzia Cave Monastery
 
+This was really interesting! It's basically a city carved into a mountain, and the 
+network was quite expansive. Unfortunately, it looks nothing like it once did, due to
+destruction by earthquakes and land wars. The monastery there is still active, and 
+you can get a glimpse of how people might have once lived in the cave network together.
 
 ---
 
@@ -174,14 +192,16 @@ we didn't fully explore the west (such as the regions by the Black Sea).
 
 At the end of this trip, I can conclude that the Caucasus region is absolutely
 worth visiting if you like nature, and they are very welcoming people.
-I'd certainly come back again, perhaps visit the other regions I had missed out.
+I'd certainly come back again, perhaps visit the other regions, maybe to summit 
+Mt. Kazbek.
 
 ### Costs
 
 I've aggregated the costs in the [Armenia](../2025-10-armenia/) post (do give it
-a read too!), but anyway expect Georgia to be slightly more expensive.
+a read too!), but anyway expect Georgia to be slightly more expensive. Nothing too 
+outrageous, though. Taxis are still reasonable, even around Tbilisi (under 10 GEL).
 
-As of the trip, the exchange rate was 2 Georgian Lari (GEL) to 1 SGD. For funzies
+The exchange rate was 2 Georgian Lari (GEL) to 1 SGD. For funzies
 we called it the Georgian Ringgit and one of our mates actually believed it was
 called that.
 
