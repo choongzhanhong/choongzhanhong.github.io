@@ -9,6 +9,8 @@ tags:
 layout: "layouts/post.njk"
 ---
 
+![Kenneth at Gergeti](./gergeti_6.jpg)
+
 This is part of a multi-country trip I had. 
 We first visited [Armenia](../2025-10-armenia/) for a few days before 
 spending the majority of the trip in Georgia, north of Armenia and 
@@ -79,8 +81,17 @@ It's hard to miss the car park by the trailhead.
 
 ## Gergeti Glacier
 
+<figure>
+
+![Me standing on the glacier, mt. Kazbek at the back](./gergeti_7.jpg)
+
+<figcaption>What I'm standing on is pure glacial ice, with a layer of dirt on top.</figcaption>
+</figure>
+
 We began the trail early on the second morning. There were barely any cars at the carpark,
 let alone hikers. It's a relatively simple trail with no need for guides.
+
+![Trail sign and start](./gergeti_1.jpg)
 
 Do note: The trail begins at the sign, immediately up the hill, not down the road.
 My compatriots refused to go up the hill, thinking that I was picking the more difficult hike
@@ -89,9 +100,13 @@ My compatriots refused to go up the hill, thinking that I was picking the more d
 In the end, they ended up at a dead end further at the base of the hill, and had to 
 scale the hill to get to me. 
 
+![Me waiting for the others to catch up](./gergeti_2.jpg)
+
 At some point, Kenneth and I split up with Zane and Derek, who went at a slower pace.
 The glacier is located somewhere in the mid-2000's to 3000m+ elevation above sea level,
 so understandably one should take caution as to not fall to altitude sickness.
+
+![View looking back towards the start](./gergeti_3.jpg)
 
 #### Cafe 360°
 
@@ -102,11 +117,16 @@ As one might expect, it carries pricey food for starving trekkers. We weren't
 in the market for food, so we carried on after a short break. The cafe overlooks
 a valley between the mountains, with a river (Chkheri) at the bottom.
 
+<figure>
+
+![Me with the dog, mt. Kazbek at the back](./gergeti_5.jpg)
+
+<figcaption>The dog followed us for a good part of the remaining trek, before opting 
+to follow another group later on.</figcaption>
+</figure>
+
 It was at this point that a friendly mountain 
 dog came and greeted us. So huge and fluffy!!
-
-It followed us for a good part of the remaining trek before opting to follow a different
-group later on. I wonder if this dog has anything to do up here?
 
 #### Altihut 3014
 
@@ -129,6 +149,8 @@ to stay at a hut along the trail and spread the hike over two days.
 
 This was the first time I'd seen a glacier, so I was surprised to see that it really 
 is just a huge block of ice!
+
+![View on the way back, overlooking the church](./gergeti_4.jpg)
 
 ---
 
