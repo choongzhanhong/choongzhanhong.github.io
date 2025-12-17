@@ -117,16 +117,21 @@ As one might expect, it carries pricey food for starving trekkers. We weren't
 in the market for food, so we carried on after a short break. The cafe overlooks
 a valley between the mountains, with a river (Chkheri) at the bottom.
 
+![Me with the dog, mt. Kazbek at the back](./gergeti_5.jpg)
+
+It was at this point that a friendly mountain 
+dog came and greeted us. So huge and fluffy!!
+
 <figure>
 
-![Me with the dog, mt. Kazbek at the back](./gergeti_5.jpg)
+<video controls muted>
+  <source src="./gergeti_dog.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
 
 <figcaption>The dog followed us for a good part of the remaining trek, before opting 
 to follow another group later on.</figcaption>
 </figure>
-
-It was at this point that a friendly mountain 
-dog came and greeted us. So huge and fluffy!!
 
 #### Altihut 3014
 
