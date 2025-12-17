@@ -77,16 +77,18 @@ would fuel our hike the next day.
 
 I know by now we'd seen enough Christian landmarks, but it was still nice to visit
 the church that sat near the trailhead of the Gergeti Glacier hike. 
-It's hard to miss the car park by the trailhead.
-
-## Gergeti Glacier
+This will be the starting point of the trail, which is after a winding drive up from
+Stepantsminda town. It's hard to miss the car park by the trailhead.
 
 <figure>
 
-![Me standing on the glacier, mt. Kazbek at the back](./gergeti_7.jpg)
+![View on the way back, overlooking the church](./gergeti_4.jpg)
 
-<figcaption>What I'm standing on is pure glacial ice, with a layer of dirt on top.</figcaption>
+<figcaption>This was the view on the way back down the trail. You can see the church 
+in the distance, and the car park, surrounded by mountains.</figcaption>
 </figure>
+
+## Gergeti Glacier
 
 We began the trail early on the second morning. There were barely any cars at the carpark,
 let alone hikers. It's a relatively simple trail with no need for guides.
@@ -141,6 +143,13 @@ those doing the full hike.
 
 #### Glacier Tongue
 
+<figure>
+
+![Me standing on the glacier, mt. Kazbek at the back](./gergeti_7.jpg)
+
+<figcaption>What I'm standing on is pure glacial ice, with a layer of dirt on top.</figcaption>
+</figure>
+
 We reached the tongue of the glacier at around noon, which would be about 5 hours
 from the start of the trail. 
 
@@ -155,19 +164,27 @@ to stay at a hut along the trail and spread the hike over two days.
 This was the first time I'd seen a glacier, so I was surprised to see that it really 
 is just a huge block of ice!
 
-![View on the way back, overlooking the church](./gergeti_4.jpg)
-
 ---
 
 ## Tbilisi 
 
-We spent some days in Tbilisi at the beginning and at the end of our Georgia trip.
+We spent some days in Tbilisi on the first night, and the last few days of our Georgia trip.
+After Stepantsminda, two of our buddies headed home, so it was just me and Kenneth.
 
 I'd recommend staying near to the old part of town (Old Tbilisi) if you can afford
 the extra cost. You'll know by the cobblestone roads that you're there. 
 Most of the sights to see are concentrated there, and it's relatively walkable. 
 
 ### Chronicles of Georgia
+
+We went out of our way to visit the Chronicles of Georgia, which are a massive
+group of sculptures atop a small mountain. It's really impressive and has a great
+view of the reservoir. 
+
+You can and probably should take a taxi up. In a bid to save some money, and to 
+get some steps in, I opted to hike up, but we were met with muddy paths which we 
+pushed through on, for some reason... because we didn't realise there were roads 
+on the other side of the mountain.
 
 #### Metro 
 
