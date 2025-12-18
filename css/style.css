@@ -13,7 +13,8 @@
 
 body {
     font-family: var(--font_sans_serif);
-    font-size: 10pt;
+    font-size: x-small;
+	letter-spacing: -0.pt;
     color: var(--color_text);
     background: var(--color_background);
     max-width: 64em;  /* remove this for a full-width layout */
@@ -386,7 +387,7 @@ footer {
 /* ------- Smaller screens ------- */
 
 @media only screen and (max-width: 680px) {
-    body { font-size: 16px; }
+    body { font-size: x-small; }
 }
 
 @media only screen and (max-width: 540px) {
