@@ -110,7 +110,7 @@ so understandably one should take caution as to not fall to altitude sickness.
 
 ![View looking back towards the start](./gergeti_3.jpg)
 
-#### Cafe 360°
+### Cafe 360°
 
 For the longest time, there weren't any landmarks until we reached 
 [Cafe 360°](https://maps.app.goo.gl/j5nomgPZRsX8yWBJ8).
@@ -135,13 +135,13 @@ dog came and greeted us. So huge and fluffy!!
 to follow another group later on.</figcaption>
 </figure>
 
-#### Altihut 3014
+### Altihut 3014
 
 The "3014" in the name is in reference to its elevation, 3014m above sea level.
 We didn't really visit this hut as we had no business there. It's a rest appropriate for 
 those doing the full hike.
 
-#### Glacier Tongue
+### Glacier Tongue
 
 <figure>
 
@@ -157,12 +157,56 @@ If you wish to summit Mt. Kazbek, the *real* trail begins from the tongue. Since
 a glacier, it's full-on ice, so you'll need crampons and other proper gear if you want
 to continue.
 
-For the average hiker, this might not be a one-day hike. Mt. Kazbek sits above 5000m
+<figure>
+
+![Group photo in front of Kazbek and mountains](./gergeti_group.jpg)
+
+<figcaption>
+This group photo was taken outside of Cafe 360°. Derek and Zane waited for us there,
+being unable to continue the trek. Still a great view.
+</figcaption>
+</figure>
+
+The hike to the glacier is quite doable, but you must be wary of the altitude.
+For summitting, it most likely won't be a one-day hike. Mt. Kazbek sits above 5000m
 of elevation, so acclimatisation is necessary. You may find it necessary
 to stay at a hut along the trail and spread the hike over two days.
 
 This was the first time I'd seen a glacier, so I was surprised to see that it really 
-is just a huge block of ice!
+is just a huge block of ice! I'll come back for you, Kazbek!
+
+![Panorama of Gergeti mountain range](./gergeti_pano.jpg)
+
+## Russian border
+
+![Land checkpoint to Russia](./border.jpg)
+
+We took one morning to drive up to the land checkpoint between Russia and Georgia,
+Larsi Checkpoint. It's a straight drive up, and there's nothing much to see there.
+Just trucks queueing to cross.
+Along the way and back, we visited some landmarks by the road.
+
+### Dariali Monastery
+
+![Dariali Monastery](./dariali.jpg)
+
+We stopped to visit another monastery and were greeted by the friendly monks, who
+offered to let us try some of the wines and liqueurs they brewed there. This, of course,
+resulted in us playing a game of hot potato and passing the shot glasses and car keys around,
+never both in the same hands, for obvious reasons. (At least one of us doesn't drink,
+so we had a driver).
+
+### Tsdo
+
+Along the way back, Kenneth instructed us to take a detour up a winding road, narrow enough
+to only fit one car. We ended up at a small village atop a cliff. 
+
+Going down was tough; several cars were heading up, so we had to do a little squeezing
+to let the cars pass.
+
+![](./tsdo_1.jpg)
+![](./tsdo_2.jpg)
+![](./tsdo_3.jpg)
 
 ---
 
@@ -174,6 +218,19 @@ After Stepantsminda, two of our buddies headed home, so it was just me and Kenne
 I'd recommend staying near to the old part of town (Old Tbilisi) if you can afford
 the extra cost. You'll know by the cobblestone roads that you're there. 
 Most of the sights to see are concentrated there, and it's relatively walkable. 
+
+### Old Tbilisi
+
+Our last day, it finally rained for the first time on our trip. We walked around
+the wet cobblestone streets of Old Tbilisi, and visited the underground market.
+It's not very big, but you could get some souvenirs here.
+
+<row>
+
+![](./tbilisi_1.jpg)
+![](./tbilisi_2.jpg)
+
+</row>
 
 ### Chronicles of Georgia
 
@@ -253,6 +310,8 @@ called that.
 
 In Georgia, the main convenience store is Spar. The country uses GEL, but I believe 
 they're trying to phase in the Euro in a bid for membership with the EU.
+
+The main taxi service is Bolt. Within the city, trips are about 10 GEL.
 
 The Tbilisi metro is reliable and cheap, I highly recommend using it to get around.
 While we did get caught in a train crowd once, it wasn't too unpleasant.
