@@ -208,6 +208,12 @@ to let the cars pass.
 ![](./tsdo_2.jpg)
 ![](./tsdo_3.jpg)
 
+We also witnessed a real shepherd herding his sheep. I kind of forgot where this was,
+but it was somewhere near Stepantsminda (I tried looking up the image metadata.
+Not very accurate). 
+
+![Herd of sheep, a car in the foreground.](./sheep.jpg)
+
 ---
 
 ## Tbilisi 
@@ -286,6 +292,32 @@ This was really interesting! It's basically a city carved into a mountain, and t
 network was quite expansive. Unfortunately, it looks nothing like it once did, due to
 destruction by earthquakes and land wars. The monastery there is still active, and 
 you can get a glimpse of how people might have once lived in the cave network together.
+
+---
+
+## Food 
+
+I was really looking forward to trying the food here. They're known for their Khinkali,
+huge soup dumplings, reminiscent of Chinese 小籠包 (xiao long bao).
+
+![Plate of Khinkali](./khinkali.jpg)
+
+There's also Khachapuri, which is a cheese bread that comes in many variants. You 
+might recognise the Adjarian one.
+
+![Adjaruli Khachapuri](./khachapuri.jpg)
+
+I was a big fan of all the beers in Armenia and Georgia. They were mostly lagers,
+crisp and light. We also drank a lot of Kompot.
+
+![Zedazeni beer](./beer.jpg)
+
+The next photo features a dish we loved, and a dish we disliked...
+Veal ojakhuri (fried veal, with potato) and lobiani (bean-filled pastry). It's not so much that lobiani was bad,
+but rather we had so much leftover, and kept joking about ordering more lobiani
+everywhere we went.
+
+![Lobiani and Ojakhuri](./lobiani.jpg)
 
 ---
 
