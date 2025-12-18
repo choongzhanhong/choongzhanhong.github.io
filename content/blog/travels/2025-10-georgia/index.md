@@ -102,7 +102,13 @@ My compatriots refused to go up the hill, thinking that I was picking the more d
 In the end, they ended up at a dead end further at the base of the hill, and had to 
 scale the hill to get to me. 
 
+<figure>
+
 ![Me waiting for the others to catch up](./gergeti_2.jpg)
+
+<figcaption>If you look hard enough, that's them in the distance trying 
+to scale the cliff.</figcaption>
+</figure>
 
 At some point, Kenneth and I split up with Zane and Derek, who went at a slower pace.
 The glacier is located somewhere in the mid-2000's to 3000m+ elevation above sea level,
