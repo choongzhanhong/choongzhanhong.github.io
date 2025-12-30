@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 540 360"
+   height="360"
+   width="540"
+   xml:space="preserve"
+   version="1.1"
+   id="svg3355"><metadata
+     id="metadata3361"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3359" /><g
+     transform="matrix(1.25,0,0,-1.25,0,360)"
+     id="g3363"><g
+       transform="translate(267,262.3333)"
+       id="g3365"><path
+         id="path3367"
+         style="fill:none;stroke:#aaa;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 0,0 0,-236.667" /></g><path
+       id="path3381"
+       style="fill:none;stroke:#aaa;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 421.992,205.992 -53.75,0 0,72 53.75,0 0,-72 z" /><text
+       id="text3383"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:Montserrat-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1,0,0,-1,382.3174,258.0566)"><tspan
+         id="tspan3385"
+         y="0"
+         x="0 5.3839998 7.744 12.448 17.136 20.896 25.6">Please </tspan><tspan
+         id="tspan3387"
+         y="11"
+         x="2.0320001 7.4720001 9.8319998 14.52 18.863199 23.5672">place </tspan><tspan
+         id="tspan3389"
+         y="22"
+         x="-3.184 2.256 7.256 11.016 14.272 18.959999 24.08 28.784">postage </tspan><tspan
+         id="tspan3391"
+         y="33"
+         x="3.8399999 9.1920004 13.896 17.048">here</tspan></text>
+</g></svg>
