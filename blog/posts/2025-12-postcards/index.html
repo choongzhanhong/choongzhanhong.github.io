@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta title="Video Postcards | Zhan Hong&#39;s page">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Postcards | Zhan Hong&#39;s page</title>
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <!--Video Postcards-->
+  <link rel="stylesheet" href="/css/postcard.css">
+  
+  <!-- Syntax Highlighting -->
+  <link rel="stylesheet" href="/css/prism.css">
+</head>
+<body>
+
+  <header>
+  <h2><a href="/" class="site-title">Zhan Hong&#39;s page</a></h2>
+  <nav>
+    <ul><li><a href="/">Home</a></li>
+<li><a href="/about.html">About</a></li>
+<li><a href="/projects.html">Projects</a></li>
+<li><a href="/misc.html">Miscellaneous</a></li>
+<li><a href="/blog.html">Blog</a></li></ul>
+  </nav>
+  <hr>
+</header>
+  
+  <main>
+    <article>
+    <h1>Video Postcards</h1>
+    <p>
+      <time datetime="2025-12-30">    
+        
+            30 Dec 2025
+        
+      </time>
+    </p>
+    
+    
+    <p class="tag-list">
+        Tags:
+        
+          
+        
+           
+            <a href="/tags/miscellaneous.html" class="tag-badge">#miscellaneous</a>
+          
+        
+      </p>
+    
+    <hr>
+
+  
+  <div class="postcard-wrapper">
+	<video loop muted autoplay class="postcard-front">
+	  <source src="./hutiaoxia.webm" type="video/webm">
+		Your browser does not support the video tag.
+	</video> 
+	<div class="postcard-back">
+		<img src="/files/postcard-back.svg">
+		<p class="postcard-message">
+			This was taken with my phone, over the Tiger Leaping Gorge.
+			The river flowing through is the Jinsha River, which is also the 
+			border between Lijiang and Shangri&#8209;La, both parts of Yunnan, China.
+		</p>
+		<p class="postcard-address">
+			<b>From:</b><br>
+			Tiger Leaping Gorge (虎跳峡) between Shangri&#8209;La and Lijiang, Yunnan, China.
+		</p>
+	</div>
+</div>
+<p>In this post, I'll document my progress in making digital postcards using only HTML and CSS,
+no Javascript, like the one above. Hover over to flip it!</p>
+<p>I was inspired by my girlfriend to do so, and she picked up HTML just to make her own.
+<a href="https://leec6622-spec.github.io/">Check out her postcards!</a>.</p>
+<h2>Postcard Front</h2>
+<p>First, specifications for the postcard, which will be a video. Commonly,
+postcards are in 4R size, which is 4 by 6 inches. On the web, we'll just call it
+a 6:4 aspect ratio. Since most videos and photos are in 4:3 or 16:9, we will
+need to do a bit of cropping.</p>
+<p>You might use these CSS properties to get that resolution without having to edit your videos:</p>
+<pre class="language-css"><code class="language-css"><span class="token property">aspect-ratio</span><span class="token punctuation">:</span> 6/4<span class="token punctuation">;</span>
+<span class="token property">object-fit</span><span class="token punctuation">:</span> cover<span class="token punctuation">;</span></code></pre>
+<p>Like the other videos on my blog,
+I use the webm format for its efficient file size.</p>
+<p>Your video should be looping, muted, autoplay, and have the controls hidden.</p>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>video</span> <span class="token attr-name">loop</span> <span class="token attr-name">muted</span> <span class="token attr-name">autoplay</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-front<span class="token punctuation">"</span></span><span class="token punctuation">></span></span></code></pre>
+<p>That's all you need to do for the video.
+You can always do some processing of your own. Colour grading, cropping, and stabilizing
+the footage are some examples.</p>
+<p>If you want more detail, it is important that you right-click this page and inspect element,
+and look at how the HTML and CSS are structured.</p>
+<hr>
+<h2>Flipping the Postcard</h2>
+<p>As we know, the image on a postcard is only half the content. HTML isn't anything
+like a paper postcard, but we can simulate a postcard with CSS.</p>
+<p>The trick will be to have both the front and back elements, but only show one at a time.</p>
+<p>You might do it differently, but my layout has three basic components: a front, the video,
+the back (which I'll talk about in detail later, but for now I'll abstract it into a div),
+and a div to wrap around the entire thing.</p>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-wrapper<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>video</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-front<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>video</span><span class="token punctuation">></span></span>
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-back<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+		... to be discussed
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span></code></pre>
+<h3>Stacking the Elements</h3>
+<p>Without any additional styling, the front and back elements will be stacked on top of each other.
+You want them to overlap each other. Try to imagine the two sides of a postcard as two pieces of paper
+stacked on top of one another. A magician does this trick with two cards to make it seem like they changed
+one.</p>
+<p>Most will use the <code>position: absolute/relative</code> style to achieve this, but this messes with
+the sizing of the element. We will instead use <code>display: grid</code>, which treats the element as a grid.</p>
+<p>To get them to stack, we simply force each direct child of the wrapper to start on row 1 and column 1.</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">.postcard-wrapper</span> <span class="token punctuation">{</span>
+	<span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span>
+
+	<span class="token comment">/* optional styling */</span>
+	<span class="token property">background</span><span class="token punctuation">:</span> #fff<span class="token punctuation">;</span>
+	<span class="token property">border</span><span class="token punctuation">:</span> 10px solid white<span class="token punctuation">;</span>
+	<span class="token property">box-shadow</span><span class="token punctuation">:</span> 0px 2px 5px #aaa<span class="token punctuation">;</span>
+	<span class="token property">width</span><span class="token punctuation">:</span> 100%<span class="token punctuation">;</span>
+	<span class="token property">margin</span><span class="token punctuation">:</span> 10px 0px 15px 0px<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">.postcard-wrapper > *</span> <span class="token punctuation">{</span>
+	<span class="token property">grid-column-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+	<span class="token property">grid-row-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+	... more later
+<span class="token punctuation">}</span>
+</code></pre>
+<h3>Transition Animation</h3>
+<p>First, we want to flip the entire postcard. I feel like it's best to just do it on hover.
+If you're extra keen, you can try using a checkbox element to simulate a toggle,
+again not using Javascript.</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">.postcard-wrapper:hover</span> <span class="token punctuation">{</span>
+	<span class="token property">transform</span><span class="token punctuation">:</span><span class="token function">rotateY</span><span class="token punctuation">(</span>180deg<span class="token punctuation">)</span><span class="token punctuation">;</span>
+	<span class="token property">transition</span><span class="token punctuation">:</span>transform 1500ms<span class="token punctuation">;</span>
+	<span class="token property">transform-style</span><span class="token punctuation">:</span> preserve-3d<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre>
+<p>Feel free to tweak any of these properties to see what it changes. It's important to
+use <code>preserve-3d</code>, although if you asked me to explain 3D transformations I'd be stumped.</p>
+<p>The next part is to style the direct children of the postcard wrapper.
+The first three lines are for cropping and sizing, and <code>backface-visibility</code> tells
+the browser not to render the back of the element if it's been flipped.</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">.postcard-wrapper > *</span> <span class="token punctuation">{</span>
+	<span class="token property">width</span><span class="token punctuation">:</span> 100%<span class="token punctuation">;</span>
+	<span class="token property">aspect-ratio</span><span class="token punctuation">:</span> 6/4<span class="token punctuation">;</span>
+	<span class="token property">object-fit</span><span class="token punctuation">:</span> cover<span class="token punctuation">;</span>
+	<span class="token property">backface-visibility</span><span class="token punctuation">:</span> hidden<span class="token punctuation">;</span>
+	<span class="token property">grid-column-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+	<span class="token property">grid-row-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre>
+<p>Lastly, the back face should begin already rotated. The rotations apply additively,
+so a 180° + 180° rotation results in a 360° rotation, back to 0°.</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">.postcard-back</span> <span class="token punctuation">{</span>
+	<span class="token property">transform</span><span class="token punctuation">:</span> <span class="token function">rotateY</span><span class="token punctuation">(</span>180deg<span class="token punctuation">)</span><span class="token punctuation">;</span>
+	... more later
+<span class="token punctuation">}</span></code></pre>
+<p>We're now ready to fill in the <code>div</code> for the back of the postcard.</p>
+<h3>Tricky Bits</h3>
+<p>I noticed that the box-shadow actually gets flipped if you use this sort of transition.
+There might be a workaround around it, but I decided to just not give it any x-offset,
+so it looks the same even when mirrored, because it's symmetrical about the centre.</p>
+<p>Without box-shadow, it loses its depth, so this subtle change helps keep that 3D effect
+without additional trouble.</p>
+<hr>
+<h2>Postcard Back</h2>
+<p>You can honestly just use an image for the back of the postcard, but I wanted it to be as scalable
+and reusable as possible, so mine contains <code>p</code> elements for the correspondence text.</p>
+<p>First, for the background, I got an SVG for the back from
+<a href="https://commons.wikimedia.org/wiki/File:Wikimedia-foundation-brand-postcard-back.svg">Wikimedia commons</a>.
+(Thanks, Wikimedia user Mightyquinn84!)</p>
+<p>You can copy-and-paste the SVG into HTML, or save it as a file and link it in an <code>img</code> tag.
+I highly suggest the latter, for ease of reading and editing.</p>
+<h3>Writing on the back</h3>
+<p>You can have as much as you want on the back of the postcard, but I will have two text boxes.
+The HTML looks like this. Feel free to experiment with what works for you.</p>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-back<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/files/postcard-back.svg<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-message<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+		This was taken with my phone...
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-address<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>b</span><span class="token punctuation">></span></span>From:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>b</span><span class="token punctuation">></span></span> ...
+	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span></code></pre>
+<p><picture><source type="image/webp" srcset="/img/VK6-EWHRvq.webp 615w" sizes="(min-width: 30em) 50vw, 100vw"><img alt="" loading="lazy" decoding="async" src="/img/VK6-EWHRvq.jpeg" width="615" height="426"></picture></p>
+<p>We want the text to overlap over the image, so we're using the grid system again,
+this time within the <code>postcard-back</code> div. As usual, the children all start on row 1, column 1.</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">.postcard-back</span> <span class="token punctuation">{</span>
+	<span class="token property">transform</span><span class="token punctuation">:</span> <span class="token function">rotateY</span><span class="token punctuation">(</span>180deg<span class="token punctuation">)</span><span class="token punctuation">;</span>
+	<span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">.postcard-back > *</span> <span class="token punctuation">{</span>
+	<span class="token property">grid-column-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+	<span class="token property">grid-row-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre>
+<h3>Arranging the Text Boxes</h3>
+<p>Next, the text boxes should be positioned in their respective areas. I tried using the grid system
+and putting <code>postcard-address</code> in column 2, but it didn't work well.</p>
+<p>This ended up working for me:</p>
+<pre class="language-css"><code class="language-css"><span class="token selector">.postcard-back > p.postcard-message</span> <span class="token punctuation">{</span>
+	<span class="token property">margin</span><span class="token punctuation">:</span> 5% 0 5% 5%<span class="token punctuation">;</span>
+	<span class="token property">width</span><span class="token punctuation">:</span> 55%<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">.postcard-back > p.postcard-address</span> <span class="token punctuation">{</span>
+	<span class="token property">margin</span><span class="token punctuation">:</span> 30% 0 5% 67.5%<span class="token punctuation">;</span>
+	<span class="token property">width</span><span class="token punctuation">:</span> 27.5%<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre>
+<p>We want to use margin instead of padding, because padding alters the size of the element.
+I'm using percentages for margins, with rough increments until I get the arrangement I want.</p>
+<p><picture><source type="image/webp" srcset="/img/DTs6WjtUHO.webp 628w" sizes="(min-width: 30em) 50vw, 100vw"><img alt="" loading="lazy" decoding="async" src="/img/DTs6WjtUHO.jpeg" width="628" height="432"></picture></p>
+<p>Always remember, <code>border: 1px solid red</code> is your debugging best friend.</p>
+<p>Again, it might differ based on what you want! Feel free to experiment!
+In the end, I edited the SVG to remove the address lines and to lighten the other lines.</p>
+<hr>
+<h2>The end product</h2>
+<p>Well, that's it! For making it to the end of this post, here's another postcard,
+from my recent trip to Yunnan as well.</p>
+<p>You can basically just copy-paste your HTML and change the video source to keep making these.
+And since we've set it up so nicely, if you make any edits to the main SVG, the changes
+will reflect throughout as well.</p>
+<div class="postcard-wrapper">
+	<video loop muted autoplay class="postcard-front">
+	  <source src="./haba.webm" type="video/webm">
+		Your browser does not support the video tag.
+	</video> 
+	<div class="postcard-back">
+		<img src="/files/postcard-back.svg">
+		<p class="postcard-message">
+			A view of Haba snow mountain, which isn't far from Tiger Leaping Gorge.
+			We stopped at a viewpoint while on the way to Shangri&#8209;La.
+		</p>
+		<p class="postcard-address">
+			<b>From:</b><br>
+			View of Haba Snow Mountain (哈巴雪山) from Shangri&#8209;La, Yunnan, China.
+		</p>
+	</div>
+</div>
+<p>Thanks for reading!</p>
+
+</article>
+
+<aside class="back-to-top">
+    <a href="#">^ Back to top</a>
+</aside>
+  
+<p>
+    <a href="/blog.html"><== Back to Blog</a>
+</p>
+  </main>
+
+  <footer>
+    <hr>
+    <small>by Zhan Hong</small>
+</footer>
+
+</body>
+</html>
