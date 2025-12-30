@@ -7,12 +7,14 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight")
 
 module.exports = function(eleventyConfig) {
   // --- PLUGINS ---
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(syntaxHighlight);
 
   // --- PASSTHROUGH COPY ---
   // Copy contents of public into their own directories
