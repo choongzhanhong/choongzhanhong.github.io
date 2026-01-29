@@ -227,9 +227,9 @@ Not very accurate).
 We spent some days in Tbilisi on the first night, and the last few days of our Georgia trip.
 After Stepantsminda, two of our buddies headed home, so it was just me and Kenneth.
 
-I'd recommend staying near to the old part of town (Old Tbilisi) if you can afford
-the extra cost. You'll know by the cobblestone roads that you're there. 
-Most of the sights to see are concentrated there, and it's relatively walkable. 
+I'd recommend staying near to the old part of town (Old Tbilisi) if you can.
+You'll know by the cobblestone roads that you're there. 
+Most of the sights to see are concentrated there, and it's relatively walkable.
 
 ### Old Tbilisi
 
@@ -255,6 +255,10 @@ get some steps in, I opted to hike up, but we were met with muddy paths which we
 pushed through on, for some reason... because we didn't realise there were roads 
 on the other side of the mountain.
 
+You get a magnificent view of the city and the lake from up there.
+
+![Chronicles of Georgia](./chronicles.jpg)
+
 #### Metro 
 
 The Tbilisi metro was affordable and and decently reliable. It's best to buy a metro
@@ -268,6 +272,8 @@ let alone amongst gyms in general.
 
 The breakfast was decent and the location, being somewhere in Tbilisi, and a short 
 walk from the metro, made this a value-for-money booking.
+
+![The hotel's gym](./zp.jpg)
 
 --- 
 
@@ -304,7 +310,7 @@ you can get a glimpse of how people might have once lived in the cave network to
 ## Food 
 
 I was really looking forward to trying the food here. They're known for their Khinkali,
-huge soup dumplings, reminiscent of Chinese 小籠包 (xiao long bao).
+huge soup dumplings, reminiscent of Chinese 小籠包 (xiǎo lóng bāo).
 
 ![Plate of Khinkali](./khinkali.jpg)
 
@@ -318,8 +324,9 @@ crisp and light. We also drank a lot of Kompot.
 
 ![Zedazeni beer](./beer.jpg)
 
-The next photo features a dish we loved, and a dish we disliked...
-Veal ojakhuri (fried veal, with potato) and lobiani (bean-filled pastry). It's not so much that lobiani was bad,
+The next photo features a dish we disliked, and a dish we loved...
+Lobiani (bean-filled pastry) and Veal ojakhuri (fried veal, with potato).
+It's not so much that lobiani was bad,
 but rather we had so much leftover, and kept joking about ordering more lobiani
 everywhere we went.
 
