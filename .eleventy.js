@@ -90,7 +90,37 @@ module.exports = function(eleventyConfig) {
         posts: years[year].sort((a, b) => b.date - a.date), // sort posts in each year
       }));
   });
-  
+
+  // Creat collection for writing (not sure if this is necessary?)
+  eleventyConfig.addCollection("writings", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/writing/**.md").sort((a, b) => {
+      return b.date - a.date; // sort by date, newest first
+    });
+  });
+
+  // Create a collection of writings grouped by year
+  eleventyConfig.addCollection("writingsByYear", (collectionApi) => {
+    const posts = collectionApi.getFilteredByGlob("content/writing/**/*.md");
+    const years = {};
+
+    for (const post of posts) {
+      const year = post.date.getFullYear();
+      if (!years[year]) {
+        years[year] = [];
+      }
+      years[year].push(post);
+    }
+
+    // Return an array of objects, e.g. [{ year: 2025, posts: [...] }]
+    // Sort years in descending order
+    return Object.keys(years)
+      .sort((a, b) => b - a)
+      .map((year) => ({
+        year: year,
+        posts: years[year].sort((a, b) => b.date - a.date), // sort posts in each year
+      }));
+  });  
+
   // tags
     eleventyConfig.addCollection("tagList", function(collectionApi) {
     const tagSet = new Set();

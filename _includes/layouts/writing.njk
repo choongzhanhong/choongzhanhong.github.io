@@ -1,0 +1,39 @@
+---
+layout: "layouts/base.njk"
+---
+<article>
+    <h1>{{ title }}</h1>
+    <p class="writing-subtitle">{{ subtitle }}</p>
+    <p>
+      <time datetime="{{ page.date | readableDate('yyyy-LL-dd') }}">    
+        {% if start_date and end_date %}
+            {% dateRange start_date, end_date %}
+        {% else %}
+            {{ page.date | readableDate('dd LLL yyyy') }}
+        {% endif %}
+      </time>
+    </p>
+    
+    {% if tags %}
+    <p class="tag-list">
+        Tags:
+        {% for tag in tags %}
+          {% if tag != "writing" %} {# A little trick to exclude Eleventy's automatic 'posts' tag #}
+            <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+    <hr>
+
+  {# The main content of your Markdown file will be injected here #}
+  {{ content | safe }}
+</article>
+
+<aside class="back-to-top">
+    <a href="#">^ Back to top</a>
+</aside>
+  
+<p>
+    <a href="/writing.html"><== Back to Writing</a>
+</p>
