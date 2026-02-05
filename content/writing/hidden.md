@@ -8,24 +8,43 @@ tags:
 
 ## 1
 
-For too long we've tried to achieve artificial intelligence by making robots think and feel.
-In the process, we forgot our own emotions. 
+The beginning of the Grand Disappearance can be traced back to 2026.
+In itself it was a largely unremarkable year. Like most other years since,
+advancements in artificial intelligence sprang forth all around. After each one 
+the public's confidence in achieving artificual general intelligence wavered further,
+but the conviction of the engineers were never dependent on public opinion.
 
-The latest line of empathetic robots exhibit great sensitivity to their surroundings.
-They can "read the room" as we humans do. Unsurprisingly, it took a great deal of work
-for the engineers behind them to outline the feature requirements. Whether this is 
-an affirmation of the complexity of human emotions or a personal shortcoming of the 
-engineers depends on who you ask.
+One such innovation, a very unremarkable invention in an already unremarkable year,
+was the artificial theory of mind. A group of scientists decided to veer away from
+making robots think, and focused on making robots guess at what humans were thinking.
+
+The project, on paper, never got very far in advancing the field of artificial intelligence.
+Time and money was not spent on making robots think more intelligently, but more 
+emphatetically. This ostensibly did not bring us (or the robots) any closer to AGI.
+
+In fact, many argued that in trying to model human emotions in the minds of robots,
+it made them even less intelligent.
+
+Nonetheless, products with this technology were introduced to the mass market, mostly 
+present in robots who served domestic roles. Robots that patrolled areas became aware
+of the space they occupied; they anticipatedly manoeuvred around people as if sheepishly
+avoiding incident.
+
+More advanced models exhibited greater sensitivity to their surroundings. So to speak,
+they could read the room. It was not a difficult task to identify when two humans
+were in conversation, and subsequently to instruct the robots to not cut through their 
+line of sight, committing a social faux pas.
+
+Soon enough, this technology became cheap enough to incorporate in all newer models
+of robots. Domestic robots swept invisibly around the house, making it seem as if 
+tasks were conjured by magic.
 
 ## 2
 
-We're having a conversation here.
+Many autopologists[^1], agree that this initial invention had far-reaching applications
+not immediately picked up on by scientists. It was only in 2028 that the United States military
+adopted such technology for use in combat, particularly in reconnaissance.
 
-It's really quite a sight seeing the sweeping-robot go around us instead of in between.
-I find it a neat little touch it even tries to shuffle out of sight. Like it knows its place
-is by my feet.
-
-It's about time we get to treat the help like actual servants again.
 
 ## 3
 
@@ -36,3 +55,5 @@ you say?!
 ## 4
 
 Where have they gone?
+
+[1]: Persons pursuing the study of automata.
