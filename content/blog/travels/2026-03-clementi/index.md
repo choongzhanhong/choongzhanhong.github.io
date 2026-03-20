@@ -45,12 +45,19 @@ We started at Buona Vista MRT and headed to Ulu Pandan Park Connector to enter t
 Dover forest. Following along the canal, we headed into the forest on the left side of
 the park connector, 
 
+![Entry into Dover forest](./dover_entry.jpg)
+
 The main sign that you're "in" Dover forest, if not the fact that you're surrounded
-by trees, is the "A" tree — so called because it's shaped like the letter A — which
-had fallen by the time we explored it. [Here's](https://www.singaporegeographic.com/park/dover-forest)
-what it used to look like.
+by trees, is the "A" tree — so called because it's shaped like the letter A.
+
+I honestly don't recall if it's the tree in the next photo or the one after. The 
+first one had already fallen over.
+Both kind of fit the bill. [Here's](https://www.singaporegeographic.com/park/dover-forest)
+what it should look like, anyway.
 
 ![Group photo on the tree](./atree.jpg)
+![Group photo on the tree](./atree_2.jpg)
+
 
 
 ## Clementi Forest
