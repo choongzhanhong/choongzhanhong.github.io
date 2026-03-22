@@ -9,6 +9,8 @@ permalink: "{{ page.fileSlug }}.html"
 
 ## Writing
 
+This page is a little incomplete, like my attempts at writing. Stay tuned!
+
 {# Loop through the array of years from our collection #}
 {% for yearData in collections.writingsByYear %}
   <h2 id="y{{ yearData.year }}">{{ yearData.year }}</h2>

@@ -24,7 +24,8 @@ It's very similar to Armenia in many ways, being the second country to adopt
 Christianity after Armenia, and of course as members of the Soviet Union.
 The region is mountainous, offering beautiful landscapes and cool weather.
 
-We spent a majority of our trip in northern Georgia, which borders Russia,
+We (Me, Kenneth, Zane, Derek) spent a majority of our trip in northern Georgia,
+which borders Russia,
 and is where the glaciers are. Read on to see what went on!
 
 --- 
@@ -60,7 +61,23 @@ We didn't stop for much here, and continued on to finally reach Stepantsminda. E
 Mt. Kazbek (towering over everything else in the area) peeked out from beyond the mountain 
 range and came into view, signalling our imminent arrival into the town.
 
+<figure>
+
+<video controls muted>
+  <source src="./roaddrive.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
 ### Stepantsminda Town
+
+<figure>
+
+![](./pano_kazbegi.jpg)
+
+<figcaption>View from Gergeti Trinity Church. Stepantsminda town is 
+on the right. Everything is surrounded by mountains. Try viewing this image
+in detail!</figcaption>
+</figure>
 
 The town itself had the highest concentration of tourists seen thus far, mostly 
 Chinese and Korean. We found ourselves in a nice little homestay, a short walk from 
@@ -118,6 +135,9 @@ so understandably one should take caution as to not fall to altitude sickness.
 
 ### Cafe 360°
 
+![View of Kenneth approaching cafe 360](./gergeti_360.jpg)
+
+
 For the longest time, there weren't any landmarks until we reached 
 [Cafe 360°](https://maps.app.goo.gl/j5nomgPZRsX8yWBJ8).
 
@@ -143,9 +163,14 @@ to follow another group later on.</figcaption>
 
 ### Altihut 3014
 
+![View of mt. Kazbek and Altihut in the foreground](./gergeti_altihut.jpg)
+
 The "3014" in the name is in reference to its elevation, 3014m above sea level.
 We didn't really visit this hut as we had no business there. It's a rest appropriate for 
 those doing the full hike.
+
+The trail up continued without much trouble. At some point rivers become
+more prominent as you get closer to the source of glacial runoff.
 
 ### Glacier Tongue
 
@@ -181,30 +206,36 @@ to stay at a hut along the trail and spread the hike over two days.
 This was the first time I'd seen a glacier, so I was surprised to see that it really 
 is just a huge block of ice! I'll come back for you, Kazbek!
 
-![Panorama of Gergeti mountain range](./gergeti_pano.jpg)
+![View of mt. Kazbek and Kenneth in the foreground](./gergeti_8.jpg)
+
+After our hike, we spent the rest of our time in Stepantsminda driving 
+around northern Georgia.
 
 ## Russian border
 
 ![Land checkpoint to Russia](./border.jpg)
 
-We took one morning to drive up to the land checkpoint between Russia and Georgia,
+We drove up to the land checkpoint between Russia and Georgia,
 Larsi Checkpoint. It's a straight drive up, and there's nothing much to see there.
 Just trucks queueing to cross.
-Along the way and back, we visited some landmarks by the road.
 
 ### Dariali Monastery
 
 ![Dariali Monastery](./dariali.jpg)
 
 We stopped to visit another monastery and were greeted by the friendly monks, who
-offered to let us try some of the wines and liqueurs they brewed there. This, of course,
+offered to let us try some of the wines and liqueurs they brewed there. 
+
+This, of course,
 resulted in us playing a game of hot potato and passing the shot glasses and car keys around,
-never both in the same hands, for obvious reasons. (At least one of us doesn't drink,
-so we had a driver).
+never both in the same hands, for obvious reasons. Eventually, the keys landed in 
+the hands of one guy who doesn't imbibe, but took a minute sip just to sample 
+the local products.
 
 ### Tsdo
 
-Along the way back, Kenneth instructed us to take a detour up a winding road, narrow enough
+Along the way back from the north, Kenneth instructed us to take a detour up 
+a winding road, narrow enough
 to only fit one car. We ended up at a small village atop a cliff. 
 
 Going down was tough; several cars were heading up, so we had to do a little squeezing
@@ -230,6 +261,9 @@ After Stepantsminda, two of our buddies headed home, so it was just me and Kenne
 I'd recommend staying near to the old part of town (Old Tbilisi) if you can.
 You'll know by the cobblestone roads that you're there. 
 Most of the sights to see are concentrated there, and it's relatively walkable.
+
+While in Tbilisi, we also took tour buses to other parts of Georgia which I 
+will detail in a section of its own.
 
 ### Old Tbilisi
 
@@ -258,6 +292,7 @@ on the other side of the mountain.
 You get a magnificent view of the city and the lake from up there.
 
 ![Chronicles of Georgia](./chronicles.jpg)
+![Chronicles of Georgia](./chronicles_2.jpg)
 
 #### Metro 
 
@@ -287,11 +322,22 @@ better experienced at your own pace if you can rent a car instead.
 
 ## East Georgia 
 
-### Sighnagi, Telavi
+The first tour bus took us to the east of Georgia. Our first activity
+was hands-on making Churchkhela, or "Georgian Snickers" as they call it.
 
-Sighnagi is known as the "city of love", I suppose many marriages happen here. It's 
+![Me in a Papakha and shepherd vest](./tour.jpg)
+
+### Sighnaghi
+
+Sighnaghi is known as the "city of love", I suppose many marriages happen here. It's 
 a nice little town with cobblestone streets, with historical ties to winemaking,
 but I thought it was just alright. Too touristy.
+
+![On the streets of Sighnaghi](./tour2.jpg)
+
+### Telavi
+
+
 
 ## West Georgia 
 
@@ -304,6 +350,13 @@ This was really interesting! It's basically a city carved into a mountain, and t
 network was quite expansive. Unfortunately, it looks nothing like it once did, due to
 destruction by earthquakes and land wars. The monastery there is still active, and 
 you can get a glimpse of how people might have once lived in the cave network together.
+
+---
+
+## Other Places
+
+We also stopped by Gori, where Joseph Stalin was born, and visited the Stalin
+museum.
 
 ---
 

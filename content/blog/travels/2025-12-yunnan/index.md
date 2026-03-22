@@ -18,6 +18,11 @@ Because I was with family, it wasn't a very adventurous trip, save for
 me trying to get by with my poor mandarin skills, but the nature was quite breathtaking.
 I'd sure like to revisit the other parts of China some other time. 
 
+## Kunming 昆明
+
+Our first and last days were spent in Kunming, where the airport is located.
+Nothing much was done here, 
+
 ## Dali 大理
 
 Dali is a nice place to chill. There's a lot of activity on the western coast of
