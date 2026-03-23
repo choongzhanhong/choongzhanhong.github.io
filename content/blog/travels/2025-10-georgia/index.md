@@ -327,7 +327,7 @@ was hands-on making Churchkhela, or "Georgian Snickers" as they call it.
 
 ![Me in a Papakha and shepherd vest](./tour.jpg)
 
-### Sighnaghi
+### Sighnaghi and Telavi
 
 Sighnaghi is known as the "city of love", I suppose many marriages happen here. It's 
 a nice little town with cobblestone streets, with historical ties to winemaking,
@@ -335,28 +335,60 @@ but I thought it was just alright. Too touristy.
 
 ![On the streets of Sighnaghi](./tour2.jpg)
 
-### Telavi
-
-
+The rest of the tour for this day was also lowkey boring. We did go to Telavi
+but there wasn't much to see apart from the "Giant Plane Tree" there.
 
 ## West Georgia 
+
+The next day, we booked another tour operator, hoping this one would be 
+better. In any case, they were both inexpensive on Klook.
 
 The western side of Georgia was the more interesting of the two, although 
 we didn't fully explore the west (such as the regions by the Black Sea).
 
+### Borjomi Central Park
+
+Our first stop was at a park with mineral water springs. They say the water
+conveys healing properties, and since I had stomach cramps, I gave it a go.
+
+The [water](https://en.wikipedia.org/wiki/Borjomi_(water)) tastes... interesting.
+You can certainly taste the minerals and it's an acquired taste. I don't
+think it did much for my stomach but I'm still alive.
+
+![At the spring](./borjomi.jpg)
+
 ### Vardzia Cave Monastery
 
-This was really interesting! It's basically a city carved into a mountain, and the 
-network was quite expansive. Unfortunately, it looks nothing like it once did, due to
-destruction by earthquakes and land wars. The monastery there is still active, and 
+Our next stop was an ancient city carved into a mountain.
+This was really interesting! The network was quite expansive, but unfortunately,
+it looks nothing like it once did. Due to
+destruction by earthquakes and land wars, much of the caves have been exposed
+to open air.
+
+![Cave city](./cave.jpg)
+![Cave city](./cave2.jpg)
+
+The monastery there is still active, and 
 you can get a glimpse of how people might have once lived in the cave network together.
 
----
+![Cave city](./cave3.jpg)
+
+### Rabati Fortress
+
+Our last stop was an old castle grounds where we explored the grounds.
+It had gotten a little dark at this point, since our tour covered so much ground.
+
+It was very interesting to explore every nook and cranny in the castle grounds!
+
+![castle](./castle.jpg)
+![castle](./castle2.jpg)
 
 ## Other Places
 
 We also stopped by Gori, where Joseph Stalin was born, and visited the Stalin
 museum.
+
+![Office of Stalin](./stalinoffice.jpg)
 
 ---
 
