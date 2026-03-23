@@ -117,7 +117,7 @@ Our first morning in Lijiang, we set off early in the morning to get to Yulong (
 snow mountain. It was about an hour's drive away and as we approached, the temperature grew
 steadily colder. 
 
-We took the cable car up. I would have loved to try and ascend it on food, as an exercise.
+We took the cable car up. I would have loved to try and ascend it on foot, as an exercise.
 Anyway, the views up there were spectacular. I'll let the photos speak for themselves.
 
 ![](./yulong_1.jpg)
@@ -125,6 +125,33 @@ Anyway, the views up there were spectacular. I'll let the photos speak for thems
 ![](./yulong_4.jpg)
 ![](./yulong_5.jpg)
 
+The next area we visited was next door, some forest. And then a lake.
+I should probably talk more about this.
+
+![](./lake.jpg)
+![](./lake2.jpg)
+
+### The Old Town
+
+Once again, we went around the old town of Lijiang during our time there. It's huge,
+and even though our hotel was situated right inside, I doubt we covered the full extent of it.
+
+It's alright, though. After a while, the shops become repetitive. Some sell the same stuff
+you'll find elsewhere. Even within the same old town, the stores tend to repeat.
+
+### Tiger Leaping Gorge
+
+We eventually continued driving further up north to Shangri-La. We made some stops 
+along the river, a part of it being Tiger Leaping Gorge.
+
+This river divides Lijiang and Tibet.
+
+![](./gorge.jpg)
+![](./gorge2.jpg)
+
+I neglected to mention, but we have been making stops for meals.
+They're all very nice. I don't know what they're doing differently with their 
+vegetables, but they're sauteed very well.
 
 ---
 
