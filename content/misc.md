@@ -10,18 +10,13 @@ permalink: "{{ page.fileSlug }}.html"
 ## Miscellaneous
 
 ### Find me elsewhere!
-<ul>
-    <li><a href="https://choongzh.substack.com/" target="_blank">Substack</a>
-    I'm trying to write more!</li>
-    <li><a href="https://notzhanhongscage.blogspot.com/" target="_blank">Blogger</a>
-    Moved to Substack, but my personal posts remain.</li>
-    <li><a href="https://twitter.com/throggmorton" target="_blank">Twitter</a></li>
-    <li><a href="https://tilde.club/~zhanhong/" target="_blank">tilde.club</a></li>
-    <li><a href="https://www.librarything.com/profile/choongzh" target="_blank">LibraryThing</a>
-    My personal collection of books!</li>
-</ul>
 
-## Cool Links
+- [LibraryThing](https://www.librarything.com/profile/choongzh): My personal
+collection of books.
+- [Blogger](https://notzhanhongscage.blogspot.com/): I will try to move the posts here.
+- [Substack](https://choongzh.substack.com/): I will try to move the posts here.
+- [tilde.club](https://tilde.club/~zhanhong/): It's kinda underused haha
+- [Twitter](https://twitter.com/throggmorton): Also underused public account
 
 ### Great reads
 Many of these are great examples of new media.
