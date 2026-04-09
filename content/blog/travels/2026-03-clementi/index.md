@@ -5,10 +5,9 @@ start_date: 2026-03-01
 end_date: 2026-03-01
 tags:
   - "singapore"
-  - "trail"
+  - "hike"
 layout: "layouts/post.njk"
 ---
-
 
 Here's something a little more local. I explored the Dover and Clementi forests
 with a *chapalang*[^1] group comprising mostly retirees, but also young'uns like
@@ -29,7 +28,7 @@ Whatever I explored on this day were the remnants of a larger sprawl of forest t
 had already partially given way to new housing. Dover more so than Clementi,
 but both might soon go, only a matter of time.
 
-Anyway, have a read! 
+Anyway, have a read! ...and let me know if you want me to lead you into the forest too :)
 
 ## Dover Forest
 
@@ -56,10 +55,84 @@ Both kind of fit the bill. [Here's](https://www.singaporegeographic.com/park/dov
 what it should look like, anyway.
 
 ![Group photo on the tree](./atree.jpg)
+
+There was another tree that we spent some time climbing around. Funny thing,
+forests look denser from the outside, but there's actually quite a lot of
+room once you're inside.
+
 ![Group photo on the tree](./atree_2.jpg)
+![Selfie with the girlfriend](./wefie.jpg)
 
+Those interested in nature might fare better at identifying the flora, fauna,
+and funga within the forest. You'll have to make do with my highly detailed description
+of the next photo:
 
+<figure>
+
+![Snail and mushroom on fallen branch](./snail.jpg)
+
+<figcaption>Snail and mushroom on fallen branch</figcaption>
+</figure>
+
+The next two photos are going to be even more egregious... so if you can
+identify the one on the right, please contact me!
+
+<figure>
+<row>
+
+![A mushroom](./mushroom.jpg)
+![A plant or something](./wtf.jpg)
+
+</row>
+<figcaption>Left: Pretty sure this is a <i>Phallus indusiatus</i> that's been circumcised.<br>
+Right: Possibly the remains of a mop head or a <i>basal rosette</i> of some plant?
+</figcaption>
+</figure>
+
+Afterwards, we exited the forest and went along the park connector to find another entry in.
+
+![A line of people exiting the forest](./dover_exit.jpg)
+
+### Entry 2
+
+<figure>
+
+![Leaves on a tree](./leaves.jpg)
+
+<figcaption>Even outside the forest, there's still a number of sights if you look for them.</figcaption>
+</figure>
+
+A little ways down the park connector, we were led into another part of the forest where 
+some people used to inhabit.
+
+As far as I know, these areas used to be *kampungs*[^2] and farms. Most of them have 
+been vacated and cleared for development, but some areas, like this forest, are the last 
+of their kind, and still see visitors (or residents...?) to this day.
+
+There is evidence of some human activity, as we found a Buddhist shrine with a fairly recently-smoked
+cigarette. The person was nowhere to be seen.
+
+![Shrine with cigarette on it](./shrine.jpg)
+
+We also found a *ang pao*[^3] with a horse symbol on the floor, and this year is 
+the Chinese year of the horse, so it must have been placed there recently. 
+
+There were some plants being grown within this part of the forest, just small ones 
+like local chilis and whatnot.
+
+After this, we exited again, the same way we came in, bringing us back to the park connector.
 
 ## Clementi Forest
 
+After exiting Dover forest, we made our way to Clementi forest, accessible mainly
+from opposite Ngee Ann Polytechnic. It was a short walk continuing along the 
+Ulu Pandan park connector.
+
+At this point, it was pretty sunny and we were both tired and feeling the heat.
+Still, we pressed on...
+
+
+
 [^1]: Local slang: mixed, hodgepodge
+[^2]: Malay for village. The old establishments before Singapore's rapid development.
+[^3]: Red packet/envelope, which contains money and is customarily given on Chinese New Year.
