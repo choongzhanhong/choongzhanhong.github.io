@@ -129,7 +129,27 @@ from opposite Ngee Ann Polytechnic. It was a short walk continuing along the
 Ulu Pandan park connector.
 
 At this point, it was pretty sunny and we were both tired and feeling the heat.
-Still, we pressed on...
+Still, we pressed on... not wanting to miss anything.
+
+We took a short walk to get to the bus stop opposite NP (although I always fancied
+it being abbreviated as NAP instead) and went down to the tunnel right there.
+
+This was a spot where we took shelter for a while and ate some food. The guy 
+who led the hike wanted this to be a "Chinese New Year" hike, so we each brought
+CNY food and shared it around. 
+
+It wasn't quite the right food for me to get over my fatigue, despite the fats and 
+sugars (and no matter how many I ate), but after that was done we continued 
+into the forest.
+
+The tunnel is part of an abandoned rail track, and much of the track was submerged 
+in pretty still/muddy waters because it was built on lower ground than its 
+surroundings. We went along the path on the side.
+
+### Exiting into Rail Corridor
+
+After a bit of walking past the "Avatar" trees, we exited into the Rail Corridor.
+That wasn't the end of it!
 
 
 
