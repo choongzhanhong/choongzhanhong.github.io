@@ -7,7 +7,7 @@
 
     /* Fonts */
     --font_serif: Georgia, serif;
-    --font_sans_serif: Verdana, sans-serif;
+    --font_sans_serif: Verdana, "Segoe UI", sans-serif;
     --font_mono: IBM Plex Mono, monospace;
 }
 
@@ -434,12 +434,18 @@ footer {
 	color: var(--color_accent);
 }
 
+/* Blog list */
+
 .blogList {
     list-style-type: none;
 }
 
 .blogList time {
     font-family: var(--font_mono);
+}
+
+.draft {
+	color: #aaa;
 }
 
 .tag-badge {
