@@ -10,6 +10,8 @@ tags:
 layout: "layouts/post.njk"
 ---
 
+![Group photo under the "Avatar" trees](./avatar.jpg)
+
 Here's something a little more local. I explored the Dover and Clementi forests
 with a *chapalang*[^1] group comprising mostly retirees, but also young'uns like
 my girlfriend and some others. We found the event on Peatix and decided to join.
@@ -123,6 +125,8 @@ like local chilis and whatnot.
 
 After this, we exited again, the same way we came in, bringing us back to the park connector.
 
+---
+
 ## Clementi Forest
 
 After exiting Dover forest, we made our way to Clementi forest, accessible mainly
@@ -162,17 +166,43 @@ surroundings. We went along the path on the side.
 </video> 
 
 The path eventually led into a part of the rail corridor, which is a track that 
-ran from Tanjong Pagar into Malaysia. I have recollection of having rode the 
+ran from Tanjong Pagar into Malaysia. I have recollection of having ridden the 
 train once in my youth.
-
-
 
 ### Exiting into Rail Corridor
 
-After a bit of walking past the "Avatar" trees, we exited into the Rail Corridor.
-That wasn't the end of it!
+Before exiting into the rail corridor, we passed by some tall "Avatar" trees.
+Civilisation! The train tracks have been turned into a walking path,
+one which I sometimes take to get to work by bike.
 
+![](./railcorridor.jpg)
 
+That wasn't the end of it! We continued to crawl around some canal nearby
+which let us wash our shoes a little. The view was also unreal, nothing
+like the sights you'd see in Singapore!
+
+![](./canal1.jpg)
+![](./canal2.jpg)
+
+Of course, I wouldn't recommend doing this in stormy weather.
+
+### After Canal
+
+The canal brought us back to another part of the rail corridor. Rather, it 
+runs underneath the track, so we found a way up to the path.
+
+At this point, we were TIRED. But... there was actually another thing to visit!
+Apparently, there's a small pagoda statue inside the forest, accessible 
+via the rail corridor.
+
+Sadly, we called it quits and walked on to have lunch. Otherwise, I think
+I might've been extremely dehydrated.
+
+Anyway, lots to see in Singapore! I'm thinking I'd like to visit the forests
+around my neighbourhood in Bukit Batok before they're gone or fenced up,
+and maybe the ones around Kent Ridge as well. 
+
+Hit me up if you're keen to do some exploration!
 
 [^1]: Local slang: mixed, hodgepodge
 [^2]: Malay for village. The old establishments before Singapore's rapid development.

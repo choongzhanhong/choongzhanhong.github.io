@@ -11,6 +11,13 @@ tags:
   - "draft"
 ---
 
+<figure>
+
+![](./ming_portrait.jpg)
+
+<figcaption>Photo by my room/tentmate this trip!</figcaption>
+</figure>
+
 This trip which I had booked on impulse in order to make use of the labour day long 
 weekend turned out to be one of the nicest trips I've had.
 
@@ -39,6 +46,8 @@ test
 ---
 
 ## Days 4-5: The Villa!
+
+![](./villa_pool.jpg)
 
 If there are two things to go to Lombok for, it's Rinjani and the Villas. It's
 only natural that we go to a villa after such a hike.
