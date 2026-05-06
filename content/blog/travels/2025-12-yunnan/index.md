@@ -7,6 +7,7 @@ tags:
   - "travel"
   - "china"
   - "mountain"
+  - "draft"
 layout: "layouts/post.njk"
 ---
 

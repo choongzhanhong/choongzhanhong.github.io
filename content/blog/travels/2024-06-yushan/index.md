@@ -7,6 +7,7 @@ tags:
   - "travel"
   - "taiwan"
   - "mountain"
+  - "draft"
 layout: "layouts/post.njk"
 ---
 

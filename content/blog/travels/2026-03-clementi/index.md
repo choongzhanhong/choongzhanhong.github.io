@@ -1,11 +1,12 @@
 ---
-title: "Exploring Dover and Clementi Forest"
+title: "🇸🇬 Exploring Dover and Clementi Forest"
 date: 2026-03-01
 start_date: 2026-03-01
 end_date: 2026-03-01
 tags:
   - "singapore"
   - "hike"
+  - "draft"
 layout: "layouts/post.njk"
 ---
 
@@ -131,12 +132,21 @@ Ulu Pandan park connector.
 At this point, it was pretty sunny and we were both tired and feeling the heat.
 Still, we pressed on... not wanting to miss anything.
 
-We took a short walk to get to the bus stop opposite NP (although I always fancied
+Mid-way towards Ngee Ann Polytechnic (NP), we hopped into a part of the forest to
+find some communications shack, a relic of wartime Singapore, I believe.
+
+![](./clementi_shack.jpg)
+
+We got out and continued until the bus stop opposite NP (although I always fancied
 it being abbreviated as NAP instead) and went down to the tunnel right there.
+
+![](./tunnel.jpg)
 
 This was a spot where we took shelter for a while and ate some food. The guy 
 who led the hike wanted this to be a "Chinese New Year" hike, so we each brought
 CNY food and shared it around. 
+
+![](./tunnel2.jpg)
 
 It wasn't quite the right food for me to get over my fatigue, despite the fats and 
 sugars (and no matter how many I ate), but after that was done we continued 
@@ -145,6 +155,17 @@ into the forest.
 The tunnel is part of an abandoned rail track, and much of the track was submerged 
 in pretty still/muddy waters because it was built on lower ground than its 
 surroundings. We went along the path on the side.
+
+<video controls muted>
+  <source src="./clementi_tracks.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
+The path eventually led into a part of the rail corridor, which is a track that 
+ran from Tanjong Pagar into Malaysia. I have recollection of having rode the 
+train once in my youth.
+
+
 
 ### Exiting into Rail Corridor
 

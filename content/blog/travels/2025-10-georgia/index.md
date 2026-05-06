@@ -6,6 +6,7 @@ end_date: 2025-10-14
 tags:
   - "travel"
   - "georgia"
+  - "mountain"
 layout: "layouts/post.njk"
 ---
 
