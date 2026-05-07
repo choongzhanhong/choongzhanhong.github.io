@@ -33,11 +33,42 @@ and a beautiful group of people with whom to experience all that.
 
 ## Day 0: Senaru Villa
 
-test 
+The day we arrived in Lombok, we took a long ride from the airport to Senaru, where 
+we'd stay for the first night and leave some of our items when we're on the hike.
+
+Before dinner, they brought us on a short walk to a nearby waterfall (was meh), perhaps a good
+taster for what's to come.
+
+![](./bambu.jpg)
+
+I wasn't a big fan of the villa; there weren't enough power sockets so we couldn't 
+plug in our fan without not charging our devices, and the showers leave much to be 
+desired.
+
+But... it's one of the few spots with beer so I had 
+my last sips before going dry. Lombok isn't like Bali, so you can't really buy any
+beer just anywhere.
 
 ## Day 1: Up from Sembalun Entry to Crater Rim
 
+![](./lorry.jpg)
+
+Up and early the next day, we headed to Sembalun from our villa to register and
+begin the hike. This was a short ride on the back of a lorry.
+
 ![](./map.jpg)
+
+After registration, we started the hike at 10am from the Sembalun gate, which is a little late.
+The guide asked if we'd like to take a *Gojek* up to Pos 2 (our lunch checkpoint),
+but we were sure we'd be able to make it up despite the delay.
+
+<figure>
+
+![Me, a guide, and another hiker smoking](./smoke.jpg)
+
+<figcaption>I don't normally get the appeal of smoking, but somehow this cigarette
+2800m above sea level felt amazing. Don't tell mom!
+</figure>
 
 ## Day 2: Summit Push and Down to Lake
 
