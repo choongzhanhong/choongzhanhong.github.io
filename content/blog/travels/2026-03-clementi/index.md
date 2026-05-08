@@ -6,8 +6,6 @@ end_date: 2026-03-01
 tags:
   - "singapore"
   - "hike"
-  - "draft"
-layout: "layouts/post.njk"
 ---
 
 ![Group photo under the "Avatar" trees](./avatar.jpg)
@@ -139,6 +137,11 @@ Still, we pressed on... not wanting to miss anything.
 Mid-way towards Ngee Ann Polytechnic (NP), we hopped into a part of the forest to
 find some communications shack, a relic of wartime Singapore, I believe.
 
+<video controls muted>
+  <source src="./shack.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
+
 ![](./clementi_shack.jpg)
 
 We got out and continued until the bus stop opposite NP (although I always fancied
@@ -185,6 +188,11 @@ like the sights you'd see in Singapore!
 ![](./canal2.jpg)
 
 Of course, I wouldn't recommend doing this in stormy weather.
+
+<video controls muted>
+  <source src="./canal.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
 
 ### After Canal
 
