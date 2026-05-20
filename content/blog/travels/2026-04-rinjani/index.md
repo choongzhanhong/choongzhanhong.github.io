@@ -51,18 +51,74 @@ beer just anywhere.
 
 ## Day 1: Up from Sembalun Entry to Crater Rim
 
-![](./lorry.jpg)
-
-Up and early the next day, we headed to Sembalun from our villa to register and
+Up and early the next day, we had breakfast (don't drink the coffee, it's more grounds
+than liquid), and then headed to Sembalun from our villa to register and
 begin the hike. This was a short ride on the back of a lorry.
 
-![](./map.jpg)
+<figure>
+
+![](./day1.jpg)
+
+<figcaption>
+They gave us all custom Sotravel t-shirts. Only I and the guides wore them...
+</figcaption>
+</figure>
+
+![](./lorry.jpg)
 
 After registration, we started the hike at 10am from the Sembalun gate, which is a little late.
 The guide asked if we'd like to take a *Gojek* up to Pos 2 (our lunch checkpoint),
 but we were sure we'd be able to make it up despite the delay.
 
+Nothing much to say about the trail at this point. Lots of cow dung land mines.
+
 <figure>
+
+![](./day1_trail.jpg)
+![](./cows.jpg)
+
+<figcaption>The culprits</figcaption>
+</figure>
+
+<figure>
+
+The weather was alright, we were on the tail end of the monsoon season so some 
+moisture was expected.
+
+![](./day1_pos.jpg)
+
+We stopped at Pos 2 for lunch. It was pretty good, though others complained that the 
+meat was too tough, so they gave it to me. Yay! 
+
+There was another huge group of Singaporeans whom we spoke to, but I never did get 
+their names or contacts. It was nice seeing them along the trail, anyway.
+
+![](./day1_food.jpg)
+![](./day1_food2.jpg)
+
+As you can see, it started raining for a short while during lunch and it continued
+as we resumed the trail.
+As you approach the crater rim, it does get a little steep. 
+
+![](./day1_crater.jpg)
+![](./day1_crater2.jpg)
+
+The crater rim would be our rest area for the first night, until 1am where we'd
+set off for the summit. The porters reached before us, naturally, and had already
+set everything up.
+
+Temperatures are freezing up here, especially with the wind.
+
+<figure>
+
+![](./day1_crater3.jpg)
+![](./day1_crater4.jpg)
+
+<figcaption>
+The same angles but at night.
+</figcaption>
+</figure>
+
 
 ![Me, a guide, and another hiker smoking](./smoke.jpg)
 
