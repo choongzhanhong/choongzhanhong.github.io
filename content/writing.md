@@ -1,11 +1,9 @@
 ---
 title: "Writing"
 layout: "layouts/base.njk"
-eleventyNavigation:
-  key: Writing
-  order: 6
 permalink: "{{ page.fileSlug }}.html"
 ---
+
 
 ## Writing
 
