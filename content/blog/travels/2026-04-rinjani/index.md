@@ -25,7 +25,7 @@ Rinjani has always had its place in my bucket list as one of the mountains I'd l
 conquer. I'd also been recommended to visit Lombok for its nature, which rivals Bali,
 its next-door neighbour, but without the same amount of publicity.
 
-Without thinking much about the details, I decided to just go for it. What I got in 
+Without thinking too much about the details, I decided to just go for it. What I got in 
 return were beautiful sights, lots of ups and downs in the literal and metaphorical sense,
 and a beautiful group of people with whom to experience all that.
 
@@ -33,23 +33,43 @@ and a beautiful group of people with whom to experience all that.
 
 ## Day 0: Senaru Villa
 
-The day we arrived in Lombok, we took a long ride from the airport to Senaru, where 
-we'd stay for the first night and leave some of our items when we're on the hike.
+The day we arrived in Lombok, we took a long ride from the airport to 
+[Villa Bambu](https://maps.app.goo.gl/4JpY6ua36CWE5yJf8)
+at Senaru, where we'd stay for the first night and leave some of our items when we're on the hike.
+
+I don't go to these places often, and living on a tiny island like Singapore, I tend 
+to underestimate the sheer size of other islands. 
+
+In any case, Lombok's roads are nice,
+I believe they're newly paved, and certainly not as congested as Bali's.
+
+Aside from the roads though, Lombok itself isn't as tourist-friendly as Bali, for better 
+or for worse. It's much quieter, and they don't sell alcohol just anywhere; I only 
+found them in villas/hotels and certain restaurants.
+
+![The villa](./0_bambu.jpg)
 
 Before dinner, they brought us on a short walk to a nearby waterfall (was meh), perhaps a good
 taster for what's to come.
 
-![](./bambu.jpg)
+![Group in front of a waterfall](./0_waterfall.jpg)
 
 I wasn't a big fan of the villa; there weren't enough power sockets so we couldn't 
 plug in our fan without not charging our devices, and the showers leave much to be 
-desired.
+desired. Naturally, there was no air conditioning too, but we managed to sleep
+in the still, humid, mountainous air.
 
 But... it's one of the few spots with beer so I had 
-my last sips before going dry. Lombok isn't like Bali, so you can't really buy any
-beer just anywhere.
+my last sips before going dry for the next few days.
+Dinner itself was bomb. I'm always a sucker for Indonesian cuisine.
 
-## Day 1: Up from Sembalun Entry to Crater Rim
+![Dinner, a buffet line](./0_dinner.jpg)
+![Fresh coconut and dinner](./0_dinner2.jpg)
+
+The night ended with a briefing by the guides about our plan for the next three days.
+They've been up and down the mountain several times, which is no small feat.
+
+## Day 1: Up from Sembalun to Crater Rim
 
 Up and early the next day, we had breakfast (don't drink the coffee, it's more grounds
 than liquid), and then headed to Sembalun from our villa to register and
@@ -57,35 +77,38 @@ begin the hike. This was a short ride on the back of a lorry.
 
 <figure>
 
-![](./day1.jpg)
+![Me holding the Sotravel flag](./1_flag.jpg)
 
 <figcaption>
 They gave us all custom Sotravel t-shirts. Only I and the guides wore them...
+I suppose as the trip leader, I had to.
 </figcaption>
 </figure>
 
-![](./lorry.jpg)
+![Group of us on the back of a lorry](./lorry.jpg)
 
 After registration, we started the hike at 10am from the Sembalun gate, which is a little late.
-The guide asked if we'd like to take a *Gojek* up to Pos 2 (our lunch checkpoint),
+The guide asked if we'd like to take a *Gojek*[^gojek] up to Pos 2 (our lunch checkpoint),
 but we were sure we'd be able to make it up despite the delay.
 
+![Group photo at the start of the trail](./1_start.jpg)
+
 Nothing much to say about the trail at this point. Lots of cow dung land mines.
+We gained about 1.5km elevation during this fairly simple ascent. It got slightly
+steeper near the rim, but the ascent to the rim (and later, descent) are the easier parts.
 
 <figure>
 
-![](./day1_trail.jpg)
+![](./1_trail.jpg)
 ![](./cows.jpg)
 
 <figcaption>The culprits</figcaption>
 </figure>
 
-<figure>
-
 The weather was alright, we were on the tail end of the monsoon season so some 
 moisture was expected.
 
-![](./day1_pos.jpg)
+![Landscape shot near pos 2](./1_pos.jpg)
 
 We stopped at Pos 2 for lunch. It was pretty good, though others complained that the 
 meat was too tough, so they gave it to me. Yay! 
@@ -93,15 +116,25 @@ meat was too tough, so they gave it to me. Yay!
 There was another huge group of Singaporeans whom we spoke to, but I never did get 
 their names or contacts. It was nice seeing them along the trail, anyway.
 
-![](./day1_food.jpg)
-![](./day1_food2.jpg)
+![](./1_food.jpg)
+![](./1_food2.jpg)
 
-As you can see, it started raining for a short while during lunch and it continued
+It started raining for a short while during lunch and it continued
 as we resumed the trail.
-As you approach the crater rim, it does get a little steep. 
 
-![](./day1_crater.jpg)
-![](./day1_crater2.jpg)
+![Scene at another pos](./1_pos2.jpg)
+
+There were a few other Pos stops. Nothing much to say about that.
+The crowd wasn't too bad on the trail.
+
+![Ascent up near the rim](./1_nearrim.jpg)
+
+The final ascent was much steeper but nothing unnegotiable.
+
+### Crater Rim
+
+![](./1_crater.jpg)
+![](./1_crater2.jpg)
 
 The crater rim would be our rest area for the first night, until 1am where we'd
 set off for the summit. The porters reached before us, naturally, and had already
@@ -111,14 +144,13 @@ Temperatures are freezing up here, especially with the wind.
 
 <figure>
 
-![](./day1_crater3.jpg)
-![](./day1_crater4.jpg)
+![](./1_crater3.jpg)
+![](./1_crater4.jpg)
 
 <figcaption>
 The same angles but at night.
 </figcaption>
 </figure>
-
 
 ![Me, a guide, and another hiker smoking](./smoke.jpg)
 
@@ -127,6 +159,23 @@ The same angles but at night.
 </figure>
 
 ## Day 2: Summit Push and Down to Lake
+
+This was the longest day, which contributed to the deterioration of overall group morale (lol).
+
+Basically, in a single day, we had to summit, go back to camp, and then head down to
+the lake.
+
+Altogether, that's a lot of work done in a single day. At the end, there was even a
+river crossing, which was basically the straw that broke the camel's back.
+
+### Summit
+
+We woke up around 1am for the summit push. After a quick breakfast and 
+a small delayed start, 
+
+### Descent into lake, descent into madness
+
+
 
 ## Day 3: Lake to Senaru Crater Rim, then Exit
 
@@ -208,3 +257,5 @@ Nonetheless, it was well worth it for all the people I got to meet.
 this post's template over from last year's Bromo/Ijen post)
 
 
+[^gojek]: There are people on motorbikes offering to take you up or down up until
+the first lunch checkpoint. It makes short work of the trail but can cost a bit too.
