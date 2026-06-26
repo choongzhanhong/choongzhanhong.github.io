@@ -43,6 +43,8 @@ to underestimate the sheer size of other islands.
 In any case, Lombok's roads are nice,
 I believe they're newly paved, and certainly not as congested as Bali's.
 
+We had a lot of time to chat and get to know each other in the van during the drive.
+
 Aside from the roads though, Lombok itself isn't as tourist-friendly as Bali, for better 
 or for worse. It's much quieter, and they don't sell alcohol just anywhere; I only 
 found them in villas/hotels and certain restaurants.
@@ -124,23 +126,41 @@ as we resumed the trail.
 
 ![Scene at another pos](./1_pos2.jpg)
 
-There were a few other Pos stops. Nothing much to say about that.
+There were a few other Pos stops.
 The crowd wasn't too bad on the trail.
 
 ![Ascent up near the rim](./1_nearrim.jpg)
+![Ascent up near the rim. I'm in the foreground.](./1_nearrim2.jpg)
 
 The final ascent was much steeper but nothing unnegotiable.
+You'll never get lost with my shirt!
 
 ### Crater Rim
 
+![](./1_crater5.jpg)
+
+We finally reached the crater around 5pm on the dot. There are a lot of camping
+spots on the rim, so we had to walk a little further in to find our tents.
+
+<figure>
+
 ![](./1_crater.jpg)
 ![](./1_crater2.jpg)
+
+<figcaption>
+I'm pointing in the general direction of the summit.
+</figcaption>
+</figure>
 
 The crater rim would be our rest area for the first night, until 1am where we'd
 set off for the summit. The porters reached before us, naturally, and had already
 set everything up.
 
-Temperatures are freezing up here, especially with the wind.
+Temperatures were freezing the first night, especially with the wind and cloud cover.
+We had a delicious dinner in the dark and rested early for the hike to come.
+
+There are people who only opt to climb to the crater rim without summitting. 
+I don't know how they are okay with themselves for half-assing it...
 
 <figure>
 
@@ -152,10 +172,18 @@ The same angles but at night.
 </figcaption>
 </figure>
 
+We didn't really do much aside from pack, but I managed to take some long exposures
+of the beautiful starlit sky. It's just a shame that it was so cloudy *and* it was a
+full moon! GAH!
+
+<figure>
+
 ![Me, a guide, and another hiker smoking](./smoke.jpg)
 
-<figcaption>I don't normally get the appeal of smoking, but somehow this cigarette
+<figcaption>
+I don't normally get the appeal of smoking, but somehow this cigarette
 2800m above sea level felt amazing. Don't tell mom!
+</figcamption>
 </figure>
 
 ## Day 2: Summit Push and Down to Lake
