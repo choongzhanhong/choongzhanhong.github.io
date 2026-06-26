@@ -186,26 +186,51 @@ I don't normally get the appeal of smoking, but somehow this cigarette
 </figcamption>
 </figure>
 
+---
+
 ## Day 2: Summit Push and Down to Lake
 
-This was the longest day, which contributed to the deterioration of overall group morale (lol).
+This was the longest day, and considering how most people follow the same itinerary,
+I wonder how the others manage this at all.
 
-Basically, in a single day, we had to summit, go back to camp, and then head down to
-the lake.
+Basically, in a single day starting from 1am, we had to summit, go back to camp,
+and then head down to the lake, which in itself was no simple task.
 
 Altogether, that's a lot of work done in a single day. At the end, there was even a
 river crossing, which was basically the straw that broke the camel's back.
 
+The group morale was pretty low at the end of ONLY the 2nd day, but that's something 
+I'll get to later!
+
 ### Summit
 
-We woke up around 1am for the summit push. After a quick breakfast and 
-a small delayed start, 
+We woke up around 1am for the summit push. After a delayed breakfast, we set off for 
+the summit, going past the rest of the tents and following along the crater rim
+towards the summit.
+
+There was a line of people heading up, and bottlenecks in some areas, but the first part
+was relatively straightforward.
+
+The later part of the crater rim was quite narrow. It looks very different in the dark 
+before dawn.
 
 ### Descent into lake, descent into madness
 
+We had breakfast upon returning to the camp, then a short nap, then lunch, all in 
+the span of a few hours, which was not the best spacing-out for food.
 
+The way down to the lake was rather steep, mostly composed of rocks.
+It was made all the more dangerous due to the 
+moisture and some drizzle, which made the rocks slippery.
+
+At this point, we were quite tired, or to use a memorable quote by one of them,
+"I am mi-se-ra-ble. Miserable." The way he said it still sticks in my mind.
+
+--- 
 
 ## Day 3: Lake to Senaru Crater Rim, then Exit
+
+
 
 ---
 
