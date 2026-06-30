@@ -164,6 +164,19 @@ I don't know how they are okay with themselves for half-assing it...
 
 <figure>
 
+![](./1_toilet.jpg)
+
+<figcaption>
+The toilets are a hole in the dirt.
+</figcaption>
+</figure>
+
+To some, the "toilets" may take a little getting used to, especially if you 
+can't do a squat. For me, I had to be sure I was aiming correctly. Some 
+decided to just hold their shit in for the entire duration.
+
+<figure>
+
 ![](./1_crater3.jpg)
 ![](./1_crater4.jpg)
 
@@ -214,7 +227,7 @@ was relatively straightforward.
 The later part of the crater rim was quite narrow. It looks very different in the dark 
 before dawn.
 
-### Descent into lake, descent into madness
+### Descent into Madness
 
 We had breakfast upon returning to the camp, then a short nap, then lunch, all in 
 the span of a few hours, which was not the best spacing-out for food.
@@ -226,11 +239,40 @@ moisture and some drizzle, which made the rocks slippery.
 At this point, we were quite tired, or to use a memorable quote by one of them,
 "I am mi-se-ra-ble. Miserable." The way he said it still sticks in my mind.
 
+Once we reached the lake, our campsite was across a river. The fact that we 
+had to go across a river (not exactly shallow, so we had to take our shoes off)
+was not well-received.
+
+Some of us went to the hot spring by the waterfalls near the lake.
+
 --- 
 
 ## Day 3: Lake to Senaru Crater Rim, then Exit
 
+I know we decided to cut our hike short a day (and to be honest, it's the right
+choice), but on the third day, the weather was perfect and the views were incredible.
+Going down was also a breeze.
 
+On the way up to the Senaru side of the crater, the view of the volcano and lake 
+were gorgeous. It took about 3 hours to get to the crater.
+
+At this point, the Rinjani 100 ultramarathon had already begun, and the runners 
+came from Senaru, so we'd run into runners going the other direction. The trail
+is quite narrow at times, so this was slightly inconvenient for them, but 
+at that time of day, they probably weren't in the lead anyway.
+
+### Descent from Rim
+
+Our final lunch was a delicious pasta dish. It's incredible how the porters 
+bring so much stuff up and still make such varied dishes. 
+
+Finally, once the elevation got lower and we crossed the tree line again,
+the terrain became mostly mud and dirt. The guide at the front decided to 
+lead the faster ones by running, which I believe is the right way to
+descend terrain like that.
+
+I slipped a few times on muddy roots, but eventually got the hang of it and 
+stayed near the front of the pack as well.
 
 ---
 
