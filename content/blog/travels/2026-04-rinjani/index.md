@@ -217,15 +217,49 @@ I'll get to later!
 
 ### Summit
 
+![](./2_beforesummit.jpg)
+
 We woke up around 1am for the summit push. After a delayed breakfast, we set off for 
 the summit, going past the rest of the tents and following along the crater rim
-towards the summit.
+towards the summit. I believe this would be clockwise along the eastern end of the crater rim.
 
-There was a line of people heading up, and bottlenecks in some areas, but the first part
-was relatively straightforward.
+There was a line of people heading up, and bottlenecks in some areas. About a third 
+of the way in, the terrain starts to get quite slippery, due to gravel and volcanic ash.
 
-The later part of the crater rim was quite narrow. It looks very different in the dark 
-before dawn.
+The path is also quite narrow, so there were few chances to overtake people.
+At least it wasn't too crowded. Be very careful! The sides slop off very rapidly
+so it's almost certain death if you fall off the sides. 
+
+It was still before dawn, so I only got a good reckoning of the path on my descent.
+
+![](./2_tosummit.jpg)
+
+The summit is a small plateu that can still fit quite a number of people, who were 
+all taking photographs, of course. It's an amazing view into the crater.
+
+Of our group, only about 5 of us summitted before sunrise, but the rest followed
+soon enough. We started heading down around the time the sun came up and passed 
+by them.
+
+### Back to Camp 
+
+With the sun up, I got a good view of the entire crater in its full glory! It's
+really remarkably huge. In fact, you should be able to see the north coast, right?
+Enjoy the photos!
+
+![](./2_summit_descent.jpg)
+![](./2_summit_descent3.jpg)
+
+<figure>
+
+![](./2_summit_descent2.jpg)
+
+<figcaption>
+Demonstrating just how narrow the path can be at times... and the slopes
+on either side!
+</figcaption>
+</figure>
+
 
 ### Descent into Madness
 
