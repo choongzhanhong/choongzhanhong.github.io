@@ -29,6 +29,10 @@ Without thinking too much about the details, I decided to just go for it. What I
 return were beautiful sights, lots of ups and downs in the literal and metaphorical sense,
 and a beautiful group of people with whom to experience all that.
 
+This hike also happened to coincide with the Rinjani 100 mile ultramarathon. It's
+crazy how they didn't close down the trails for the race, but thankfully most of the 
+racers ran past us while we were asleep in our tents.
+
 ---
 
 ## Day 0: Senaru Villa
@@ -209,13 +213,13 @@ I wonder how the others manage this at all.
 Basically, in a single day starting from 1am, we had to summit, go back to camp,
 and then head down to the lake, which in itself was no simple task.
 
-Altogether, that's a lot of work done in a single day. At the end, there was even a
+In the spirit of labour day, we had an immensely laborious day. At the end, there was even a
 river crossing, which was basically the straw that broke the camel's back.
 
 The group morale was pretty low at the end of ONLY the 2nd day, but that's something 
 I'll get to later!
 
-### Summit
+### Summit PUSH
 
 ![](./2_beforesummit.jpg)
 
@@ -223,14 +227,19 @@ We woke up around 1am for the summit push. After a delayed breakfast, we set off
 the summit, going past the rest of the tents and following along the crater rim
 towards the summit. I believe this would be clockwise along the eastern end of the crater rim.
 
-There was a line of people heading up, and bottlenecks in some areas. About a third 
-of the way in, the terrain starts to get quite slippery, due to gravel and volcanic ash.
+There was a line of people heading up. The ascent isn't easy, but I wouldn't say the 
+bottlenecks were too bad. About a third of the way in, the terrain starts to get 
+quite slippery, due to gravel and volcanic ash.
 
 The path is also quite narrow, so there were few chances to overtake people.
 At least it wasn't too crowded. Be very careful! The sides slop off very rapidly
 so it's almost certain death if you fall off the sides. 
 
 It was still before dawn, so I only got a good reckoning of the path on my descent.
+It's a wholly different experience seeing only the city lights in the far distance
+and barely anything on either side. We were lit by the full moon (couldn't stargaze because of this also).
+It's only after the sun comes up that you get the sense of scale of the entire crater
+and the layout of the land.
 
 ![](./2_tosummit.jpg)
 
@@ -240,6 +249,21 @@ all taking photographs, of course. It's an amazing view into the crater.
 Of our group, only about 5 of us summitted before sunrise, but the rest followed
 soon enough. We started heading down around the time the sun came up and passed 
 by them.
+
+<figure>
+
+![](./2_summit.jpg)
+![](./2_summit2.jpg)
+
+<figcaption>
+Proof I summitted. Judging by the lighting in the photos you can tell I (and just
+about everyone else there) took photos 'til the sun rose. We earned it!
+</figcaption>
+</figure>
+
+I don't think I'm all that much of an adrenaline junkie, but I sat quite close to
+the edge of the summit for my photos. I got a few warnings by concerned hikers before
+they took from my example and started taking more photos my way.
 
 ### Back to Camp 
 
@@ -384,7 +408,6 @@ Nonetheless, it was well worth it for all the people I got to meet.
 
 (Notice how the above paragraph needed no modifications when I copied
 this post's template over from last year's Bromo/Ijen post)
-
 
 [^gojek]: There are people on motorbikes offering to take you up or down up until
 the first lunch checkpoint. It makes short work of the trail but can cost a bit too.
