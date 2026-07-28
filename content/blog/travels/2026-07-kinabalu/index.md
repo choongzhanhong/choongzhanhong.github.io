@@ -40,7 +40,15 @@ climb the mountain and do the via ferrata as well.
 
 ---
 
-## Hiking the Mountain
+## Ascent
+
+The first 
+
+**Via Ferrata:** You need to reach Pendant by 4pm on the first day's ascent to attend the safety
+briefing, which is held in Pendant hut itself. The hut is only for Mountain Torq's 
+guests, which is everyone doing the via ferrata.
+
+## Summit Push
 
 We eventually summited at 5:45am, which, according to my Strava, is just about 3 hours 
 of hike in total, a fairly average ascent.
@@ -54,7 +62,7 @@ They check for your pass, and prepare your certificate there. That's the last pr
 before the summit, so feel free to visit the toilet. There's also beds there for those who
 wish to rest.
 
-For those doing Low's Peak via ferrata, you need to be at the 3776m starting point
+**Via Ferrata:** For those doing Low's Peak via ferrata, you need to be at the 3776m starting point
 by 6:30am. We were able to reach it comfortably at 6:15am by maintaining a steady pace with some 
 intermittent rest, and plenty of room to take photos.
 
@@ -104,6 +112,18 @@ shaken by the experience, though. Our grip kept us safe.
 <figcaption>When you have 3 points of contact, nothing can go wrong.</figcaption>
 </figure>
 
+### Jungle Trek
+
+After the Low's Peak Circuit, there's a trek through the jungle to get to Walk the Torq.
+This segment is meant as a break, but it was so narrow and steep that I wanted to get 
+the hell out.
+
+When we reached Walk the Torq, the guide asked me to go on ahead and finish the course
+and descend by myself. My partner had the runs and the guide stuck with him. 
+
+When he made it in the end, we got this beautiful photo:
+
+![Myat and I on the Nepalese bridge](./2_viaferrata4.jpg)
 
 ---
 
@@ -111,27 +131,17 @@ shaken by the experience, though. Our grip kept us safe.
 
 ### Getting there
 
-The most important thing you need to know is that Kinabalu park is about 2 hours away
-from Kota Kinabalu city. As part of the tour package, the driver picked us up at KK city
+The most important thing you need to know about the transport there is that Kinabalu park
+is about 2 hours away from Kota Kinabalu city. 
+As part of the tour package, the driver picked us up at KK city
 at 6am, and we reached park headquarters at 8am. After some administrative work, we 
 started around 9 or so, which was still plenty of time to reach the base camp.
 
-**Via Ferrata:** You need to reach Pendant by 4pm on the first day's ascent to attend the safety
-briefing, which is held in Pendant hut itself. The hut is only for Mountain Torq's 
-guests, which is everyone doing the via ferrata.
+You could also stay at one of the guest houses at Kundasang which is much nearer to the HQ.
 
 ### Packing Notes
 
-You are expected to account for all your belongings during the trail,
-counting all your items on your person and making sure they tally at the end of the hike,
-which means not leaving anything behind. It's a RM5 fine per item lost, deducted from a RM200/group
-deposit at the start.
-
-The weather was absolutely fine, apart from a bit of tropical heat.
-I packed a jacket but that wasn't needed at all. In hindsight,
-I should have packed less. I should have had a better way to stow away my sticks, which got in the way
-at the ladders/ropes. My gloves were a godsend because on the way down, I was grabbing a lot of branches,
-mud, and rocks.
+Bring gloves
 
 ### Costs
 
@@ -157,6 +167,6 @@ We had a driver who is a friend of my mother, and he made the whole trip outside
 the hike much smoother. I can't say for sure how much the going rate is, but maybe 
 MYR200 for a few days is an estimate.
 
- Considering how car-dependent Malaysia is, you could consider
+Considering how car-dependent Malaysia is, you could consider
 getting a driver instead of getting taxis to and fro, as you can benefit from having
 access to a larger van where all your gear can be stored and transported.
