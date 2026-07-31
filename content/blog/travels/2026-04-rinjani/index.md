@@ -244,7 +244,7 @@ and the layout of the land.
 ![](./2_tosummit.jpg)
 
 The summit is a small plateu that can still fit quite a number of people, who were 
-all taking photographs, of course. It's an amazing view into the crater.
+all taking photographs, of course. that It's an amazing view into the crater.
 
 Of our group, only about 5 of us summitted before sunrise, but the rest followed
 soon enough. We started heading down around the time the sun came up and passed 
@@ -284,7 +284,6 @@ on either side!
 </figcaption>
 </figure>
 
-
 ### Descent into Madness
 
 We had breakfast upon returning to the camp, then a short nap, then lunch, all in 
@@ -302,6 +301,38 @@ had to go across a river (not exactly shallow, so we had to take our shoes off)
 was not well-received.
 
 Some of us went to the hot spring by the waterfalls near the lake.
+
+#### Mutiny
+
+Okay, I'm being dramatic. But at this point, this was day 2 of a 4 day itinerary.
+We were kind of sick of being on the mountain, and having cleared the important parts,
+we wanted to wrap things up.
+
+The last night was meant to be a camp some way along the descent trail, but we 
+decided we could do the entire descent to the Senaru gate in a single day.
+
+---
+
+## Day 3: Back up to Crater Rim, Down to Senaru
+
+For the first part of the descent, we had to actually climb back up to the crater rim
+from the crater lake. The sky was clear and the views were spectacular going up,
+which made the physical effort worth it, I suppose...
+
+It took about 5 hours to get to the rim. We reached at noon, which made it a good 
+time for lunch at one of the campsites along the trail down.
+
+We tipped the shit out of them, definitely way above the standard rate. The porters and 
+guides still made sure the . We all put our cash into one envelope 
+and left them with one last task of divvying up the tips among all of them.
+
+*A little fun fact:* I heard from them that the porters work their way up to being guides, 
+who earn more. That's because if a porter is out of commission, the guide should be 
+ready to take on portering services. Looks like there's alpha in knowing English as well.
+
+### Descent via Senaru
+
+
 
 --- 
 
