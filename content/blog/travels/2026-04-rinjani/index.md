@@ -285,8 +285,8 @@ on either side!
 </figure>
 
 ### Descent into Madness
-
 We had breakfast upon returning to the camp, then a short nap, then lunch, all in 
+
 the span of a few hours, which was not the best spacing-out for food.
 
 The way down to the lake was rather steep, mostly composed of rocks.
@@ -319,41 +319,31 @@ For the first part of the descent, we had to actually climb back up to the crate
 from the crater lake. The sky was clear and the views were spectacular going up,
 which made the physical effort worth it, I suppose...
 
-It took about 5 hours to get to the rim. We reached at noon, which made it a good 
-time for lunch at one of the campsites along the trail down.
+At this point, the Rinjani 100 ultramarathon had already begun, and the runners 
+came from Senaru, so we'd run into runners going the other direction. The trail
+was quite narrow at times, so this was slightly inconvenient for them. I'm surprised 
+they didn't close the trail off for runners only.
+
+It took about 3-4 hours to get to the rim. We reached at noon, which made it a good 
+time for lunch at one of the campsites along the way down.
+
+Our final lunch was a delicious pasta dish. It's incredible how the porters 
+bring so much stuff up and still make such varied dishes. 
 
 We tipped the shit out of them, definitely way above the standard rate. The porters and 
 guides still made sure the . We all put our cash into one envelope 
-and left them with one last task of divvying up the tips among all of them.
+and left them with one last task of divvying up the tips among all of them before we 
+parted ways (the porters, having finished their duties, made their way down ahead of us).
 
 *A little fun fact:* I heard from them that the porters work their way up to being guides, 
 who earn more. That's because if a porter is out of commission, the guide should be 
 ready to take on portering services. Looks like there's alpha in knowing English as well.
 
-### Descent via Senaru
-
-
-
---- 
-
-## Day 3: Lake to Senaru Crater Rim, then Exit
-
-I know we decided to cut our hike short a day (and to be honest, it's the right
-choice), but on the third day, the weather was perfect and the views were incredible.
-Going down was also a breeze.
-
-On the way up to the Senaru side of the crater, the view of the volcano and lake 
-were gorgeous. It took about 3 hours to get to the crater.
-
-At this point, the Rinjani 100 ultramarathon had already begun, and the runners 
-came from Senaru, so we'd run into runners going the other direction. The trail
-is quite narrow at times, so this was slightly inconvenient for them, but 
-at that time of day, they probably weren't in the lead anyway.
+Now, because we decided to cut the hike short, we didn't have any accommodations for 
+the night. With what sporadic reception we had, one of us managed to book a villa for all
+of us, that night.
 
 ### Descent from Rim
-
-Our final lunch was a delicious pasta dish. It's incredible how the porters 
-bring so much stuff up and still make such varied dishes. 
 
 Finally, once the elevation got lower and we crossed the tree line again,
 the terrain became mostly mud and dirt. The guide at the front decided to 
@@ -361,11 +351,34 @@ lead the faster ones by running, which I believe is the right way to
 descend terrain like that.
 
 I slipped a few times on muddy roots, but eventually got the hang of it and 
-stayed near the front of the pack as well.
+stayed near the front of the pack as well. 
+
+Descent didn't take long, perhaps about 3-4 hours of trail running down, all with 
+minimal strain on the knees. We chilled at the base waiting for the others. I finally 
+got reception at this point... Hip hip hurray!
+
+Afterwards, we went back to the Senaru villa (day 0) to pick up our belongings that 
+we had left for their safekeeping, courtesy of the villa. I was *onebagging*, so I
+didn't have anything to get... Except an ice cold beer from the bar!
+
+### To the Villa
+
+The next ride was a rather long one to the villa we booked, [Villa Salama](https://maps.app.goo.gl/mtm28hKXZ5cAB4V87)
+which was chosen for its vicinity to Bangsal Port (some of us had planned to visit the
+Gili islands the next few days, me included. I eventually cancelled my stay in favour
+of staying inland, though... More on this later).
+
+I highly recommend, if you're going to Lombok, to book a villa especially after a hike,
+as a reward. It's so beautiful and relaxing. I think this was the first time I'd ever
+let myself let loose like that, and it was in good company that I did so.
+
+This villa in particular was staffed on-site. I'm not sure if that's the usual arrangement,
+but they were there to assist in things like laundry. They also cooked breakfast in the
+morning.
 
 ---
 
-## Days 4-5: The Villa!
+## Day 4: The Villa and bailing on Gili Air
 
 ![](./villa_pool.jpg)
 
@@ -385,6 +398,18 @@ Check out that <a href="https://en.wikipedia.org/wiki/Bintang_Beer">red star</a>
   <source src="./bromo-jeep.webm" type="video/webm">
     Your browser does not support the video tag.
 </video> 
+
+We were supposed to descend on this day, and I had a stay on Gili Air planned. I decided
+to forfeit the stay (about SGD 30) to just stay somewhere near the airport with the rest.
+I wasn't the only one who cancelled his existing booking to spend more time with each other.
+Did I mention the company was great?
+
+In any case, the time it'd take to take the speedboat to/fro the Gili islands, and the 
+cost of the transportation, as well as the distance from the airport, just didn't seem 
+worth it to me at the end.
+
+Lombok is huge, just like Bali. What it has going for itself is newly paved roads 
+and FAR FAR less traffic.
 
 ---
 
