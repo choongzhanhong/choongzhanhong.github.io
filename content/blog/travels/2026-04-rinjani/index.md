@@ -8,7 +8,6 @@ tags:
   - "indonesia"
   - "mountain"
   - "sotravel"
-  - "draft"
 ---
 
 <figure>
@@ -250,6 +249,9 @@ Of our group, only about 5 of us summitted before sunrise, but the rest followed
 soon enough. We started heading down around the time the sun came up and passed 
 by them.
 
+I got pretty hot due to the amount of physical activity. I ended up spending most 
+of the summit ascent in just my thermals and a t-shirt.
+
 <figure>
 
 ![](./2_summit.jpg)
@@ -271,8 +273,15 @@ With the sun up, I got a good view of the entire crater in its full glory! It's
 really remarkably huge. In fact, you should be able to see the north coast, right?
 Enjoy the photos!
 
+<figure>
+
 ![](./2_summit_descent.jpg)
 ![](./2_summit_descent3.jpg)
+
+<figcaption>
+I wish I could convey the sense of scale here. It's marvelous.
+</figcaption>
+</figure>
 
 <figure>
 
@@ -380,26 +389,19 @@ morning.
 
 ## Day 4: The Villa and bailing on Gili Air
 
+In the morning where we were supposed to check out of the villa to go our separate ways,
+the staff cooked breakfast for us in the villa's kitchen. 
+
+We also got to enjoy the morning sun, in full force, with no hurry to go anywhere whatsoever.
+This was a cause for a dip in the pool and some beers.
+
 ![](./villa_pool.jpg)
 
 If there are two things to go to Lombok for, it's Rinjani and the Villas. It's
 only natural that we go to a villa after such a hike.
 
-<figure>
-
-figure
-
-<figcaption>Stars were out in full force. I saw Orion and Aquarius, and many others
-I couldn't identify.
-Check out that <a href="https://en.wikipedia.org/wiki/Bintang_Beer">red star</a>, too!</figcaption>
-</figure>
-
-<video muted controls>
-  <source src="./bromo-jeep.webm" type="video/webm">
-    Your browser does not support the video tag.
-</video> 
-
-We were supposed to descend on this day, and I had a stay on Gili Air planned. I decided
+According to the original itinerary, we were supposed to descend on this day,
+ and I had a stay on Gili Air booked. I decided
 to forfeit the stay (about SGD 30) to just stay somewhere near the airport with the rest.
 I wasn't the only one who cancelled his existing booking to spend more time with each other.
 Did I mention the company was great?
@@ -409,7 +411,30 @@ cost of the transportation, as well as the distance from the airport, just didn'
 worth it to me at the end.
 
 Lombok is huge, just like Bali. What it has going for itself is newly paved roads 
-and FAR FAR less traffic.
+and FAR FAR less traffic. We took a 2 hour drive to the next hotel, Swiss-belcourt,
+which was pretty nice.
+
+I spent the night in my room, while the others went to the nearby Kuta beach. I wasn't 
+about to endure another 1-2 hour drive. I ordered some delivery and went to town
+on the food. I love Ayam Geprek!!!
+
+![Spring chicken and some sides](./4_gluttony.jpg)
+
+---
+
+## Day 5: Going Home
+
+The final day, we just headed to the airport after a quick breakfast. There's 
+nothing much to report here. We saw some other familiar faces at the airport, who 
+were also part of other groups on the trail the past few days.
+
+I had a great time during this trip. I'm glad I chose to stay at the hotel near the 
+airport too. If I had stuck with my original plans of staying at Gili Air, I'd have 
+had to leave early (probably the first speedboat of the day), and then another maybe 
+few hours of driving to get to the airport for my afternoon flight.
+
+That's just way too many variables, I'm just glad I made the choice. Either way, Lombok's traffic 
+is relatively smooth compared to Bali, and I hope it stays that way.
 
 ---
 

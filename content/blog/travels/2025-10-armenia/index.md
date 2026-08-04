@@ -6,7 +6,6 @@ end_date: 2025-10-06
 tags:
   - "travel"
   - "armenia"
-  - "hike"
 layout: "layouts/post.njk"
 ---
 
