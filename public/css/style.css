@@ -8,7 +8,7 @@
     /* Fonts */
     --font_serif: Georgia, serif;
     --font_sans_serif: Verdana, "Segoe UI", sans-serif;
-    --font_mono: IBM Plex Mono, monospace;
+    --font_mono: "IBM Plex Mono", monospace;
 }
 
 body {
@@ -463,11 +463,24 @@ footer {
     line-height: 2;
 }
 
-aside.back-to-top {
-    position: sticky;
-    float: right;
-    bottom: 50px;
+aside {
+    display: none;
+    position: fixed;
+    right: 1.5rem;
+    bottom: 3rem;
     z-index: 1000;
 	background: var(--color_background);
 	padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+@media only screen and (min-width: 1280px) {
+    aside {
+        display: block;
+    }
+}
+
+aside ul {
+    list-style-type: none;
 }

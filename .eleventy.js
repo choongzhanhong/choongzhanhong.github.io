@@ -199,6 +199,7 @@ module.exports = function(eleventyConfig) {
     
     eleventyConfig.addPlugin(pluginTOC, {
         tags: ['h2', 'h3'],
+        ul: true,
         wrapper: 'div'
     })
     
