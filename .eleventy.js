@@ -17,7 +17,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPlugin(pluginSyntaxHighlight);
     eleventyConfig.addPlugin(pluginNavigation);
     eleventyConfig.addPlugin(syntaxHighlight);
-    eleventyConfig.addPlugin(pluginTOC)
     
     // --- PASSTHROUGH COPY ---
     // Copy contents of public into their own directories
@@ -197,11 +196,6 @@ module.exports = function(eleventyConfig) {
     };
     
     eleventyConfig.setLibrary("md", md);
-    
-    eleventyConfig.setLibrary(
-        'md',
-        markdownIt().use(markdownItAnchor)
-    )
     
     eleventyConfig.addPlugin(pluginTOC, {
         tags: ['h2', 'h3'],
