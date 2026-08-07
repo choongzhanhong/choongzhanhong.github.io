@@ -4,7 +4,8 @@ const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
-const Image = require("@11ty/eleventy-img");
+// const Image = require("@11ty/eleventy-img");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight")
@@ -146,59 +147,43 @@ module.exports = function(eleventyConfig) {
 
   // --- MARKDOWN-IT IMAGE PROCESSING ---
   // Customize Markdown-it to process images with eleventy-img
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["webp", "jpeg"],
+    widths: ["auto"],
+    outputDir: "./_site/img/",
+    urlPath: "/img/",
+    filenameFormat: function (id, src, width, format) {
+      // Replace underscores in hash.
+      // If name starts with underscore, GitHub Pages will 404.
+      const name = id.replace(/_/g, "");
+      return `${name}.${format}`;
+    },
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+      sizes: "(min-width: 30em) 50vw, 100vw",
+    },
+  });
+  
   const md = new markdownIt({
     html: true,
   }).use(markdownItFootnote);
-
-  md.renderer.rules.image = function (tokens, idx, options, env, self) {
-    const token = tokens[idx];
-    const src = token.attrGet("src");
-    const alt = token.content;
-
-    // Resolve the image path relative to the post
-    const fullSrcPath = path.join(path.dirname(env.page.inputPath), src);
-    
-    // Run the image through Eleventy Image asynchronously
-    (async () => {
-      await Image(fullSrcPath, {
-        widths: ["auto"],
-        formats: ["webp", "jpeg"],
-        outputDir: "./_site/img/",
-        urlPath: "/img/",
-		filenameFormat: function(id, src, width, format, options) {
-			// Replace underscores in hash.
-			// If name starts with underscore, github will 404.
-			const name = id.replace(/_/g, "");
-			
-			return `${name}.${format}`;
-		}
-      });
-    })();
-    
-    // Generate the HTML for the <picture> element
-    const metadata = Image.statsSync(fullSrcPath, {
-        widths: ["auto"],
-        formats: ["webp", "jpeg"],
-        outputDir: "./_site/img/",
-        urlPath: "/img/",
-		filenameFormat: function(id, src, width, format, options) {
-			// Replace underscores in hash.
-			// If name starts with underscore, github will 404.
-			const name = id.replace(/_/g, "");
-			
-			return `${name}.${format}`;
-		}
-      });
-
-    const imageAttributes = {
-      alt,
-      sizes: "(min-width: 30em) 50vw, 100vw",
-      loading: "lazy",
-      decoding: "async",
-    };
-
-    return Image.generateHTML(metadata, imageAttributes);
-  };
+  
+  // Automatically mark SVG <img> tags as eleventy:ignore before
+// the content ever reaches Eleventy's image transform plugin.
+const originalRender = md.render.bind(md);
+md.render = function (...args) {
+  let html = originalRender(...args);
+  return html.replace(/<img\b[^>]*>/gi, (imgTag) => {
+    const isSvg = /src=["'][^"']+\.svg["']/i.test(imgTag);
+    const alreadyIgnored = /eleventy:ignore/i.test(imgTag);
+    if (isSvg && !alreadyIgnored) {
+      return imgTag.replace(/\/?>$/, " eleventy:ignore>");
+    }
+    return imgTag;
+  });
+};
 
   eleventyConfig.setLibrary("md", md);
   

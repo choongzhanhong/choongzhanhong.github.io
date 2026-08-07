@@ -262,7 +262,7 @@ will reflect throughout as well.
 		Your browser does not support the video tag.
 	</video> 
 	<div class="postcard-back">
-		<img src="{{ '/files/postcard-back.svg' | url }}">
+		<img src="{{ '/files/postcard-back.svg' | url }}" eleventy:ignore>
 		<p class="postcard-message">
 			A view of Haba snow mountain, which isn't far from Tiger Leaping Gorge.
 			We stopped at a viewpoint while on the way to Shangri&#8209;La.

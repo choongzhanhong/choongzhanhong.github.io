@@ -81,7 +81,7 @@ a[href$=".png"]:before { content: "[IMG]"; }
 /* end anchor ------------- */
 
 p, ul, ol, article {
-    max-width: 60ch; /* Limit line-length to 60 characters */
+    max-width: 80ch; /* Limit line-length to 60 characters */
     margin-bottom: .6em;
 }
 
