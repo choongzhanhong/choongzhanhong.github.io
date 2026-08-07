@@ -43,3 +43,9 @@
 	margin: 30% 0 5% 67.5%;
 	width: 27.5%;
 }
+
+.postcard-back > img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
