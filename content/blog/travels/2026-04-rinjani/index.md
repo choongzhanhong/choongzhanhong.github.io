@@ -21,7 +21,8 @@ This trip which I had booked on impulse in order to make use of the labour day l
 weekend turned out to be one of the nicest trips I've had.
 
 Rinjani has always had its place in my bucket list as one of the mountains I'd like to 
-conquer. I'd also been recommended to visit Lombok for its nature, which rivals Bali,
+conquer. Ask anyone who knows it, they'll call it the "one step up, two steps down" mountain.
+I'd also been recommended to visit Lombok for its nature, which rivals Bali,
 its next-door neighbour, but without the same amount of publicity.
 
 Without thinking too much about the details, I decided to just go for it. What I got in 
@@ -283,6 +284,9 @@ I wish I could convey the sense of scale here. It's marvelous.
 </figcaption>
 </figure>
 
+On the way up, due to the darkness, you don't really get to see just how narrow the 
+trail is, and how much it drops off on either side of you. 
+
 <figure>
 
 ![](./2_summit_descent2.jpg)
@@ -322,25 +326,81 @@ decided we could do the entire descent to the Senaru gate in a single day.
 
 ---
 
-## Day 3: Back up to Crater Rim, Down to Senaru
+## Day 3: The Great Descent!
+
+I slept decently well, until the [trail runners](https://fonesport.id/rinjani100)
+started running past our campsite. It turns out we were practically adjacent to the trail, 
+with some runners going by
+right behind out tent. I initially thought they were wild animals. I think some might 
+have tripped on our rope.
+
+<figure>
+
+![](./3_trailrunners.jpg)
+
+<figcaption>
+I couldn't get a good shot of the runners in the dark, but I was quite pleased with 
+this long exposure of their headlamps.
+</figcaption>
+</figure>
+
+The ultramarathon began that morning, just after midnight, from the Senaru end. 
+We woke up and watched the runners go by. They had to cross the river as well,
+which was a bottleneck. We could see the crowd of headalamps from afar.
+I seriously hate river crossing. It's not like it's any easier if you're an ultramarathoner.
+
+<figure>
+
+![](./3_lake.jpg)
+![](./3_lake2.jpg)
+![](./3_lake3.jpg)
+
+<figcaption>
+With the morning sun and clouds cleared, we finally got a clear view of the lake.
+</figcaption>
+</figure>
+
+### Up the Rim 
 
 For the first part of the descent, we had to actually climb back up to the crater rim
 from the crater lake. The sky was clear and the views were spectacular going up,
 which made the physical effort worth it, I suppose...
+
+![](./3_crater.jpg)
+![](./3_crater2.jpg)
+![](./3_crater3.jpg)
 
 At this point, the Rinjani 100 ultramarathon had already begun, and the runners 
 came from Senaru, so we'd run into runners going the other direction. The trail
 was quite narrow at times, so this was slightly inconvenient for them. I'm surprised 
 they didn't close the trail off for runners only.
 
-It took about 3-4 hours to get to the rim. We reached at noon, which made it a good 
-time for lunch at one of the campsites along the way down.
+<figure>
+
+![](./3_craterrest2.jpg)
+![](./3_craterrest.jpg)
+
+<figcaption>
+At a rest stop. The rock was cool to the touch in the shaded part.
+</figcaption>
+</figure>
+
+![](./3_rim.jpg)
+![](./3_rim2.jpg)
+![](./3_rim3.jpg)
+![](./3_rim4.jpg)
+
+It took about 3-4 hours to get to the rim.
+We reached at noon, which made it a good 
+time for lunch at one of the campsites along the way down. 
 
 Our final lunch was a delicious pasta dish. It's incredible how the porters 
 bring so much stuff up and still make such varied dishes. 
 
-We tipped the shit out of them, definitely way above the standard rate. The porters and 
-guides still made sure the . We all put our cash into one envelope 
+We tipped the shit out of them, definitely way above the standard rate. I know we 
+did want to shorten the time spent on the mountain, but the porters did an amazing 
+job making sure the camps were set up before we reached, on top of all the stuff they 
+had to carry. We all put our cash into one envelope 
 and left them with one last task of divvying up the tips among all of them before we 
 parted ways (the porters, having finished their duties, made their way down ahead of us).
 
@@ -350,9 +410,9 @@ ready to take on portering services. Looks like there's alpha in knowing English
 
 Now, because we decided to cut the hike short, we didn't have any accommodations for 
 the night. With what sporadic reception we had, one of us managed to book a villa for all
-of us, that night.
+of us at lunch.
 
-### Descent from Rim
+### Descent from Rim to Senaru
 
 Finally, once the elevation got lower and we crossed the tree line again,
 the terrain became mostly mud and dirt. The guide at the front decided to 
@@ -418,7 +478,7 @@ I spent the night in my room, while the others went to the nearby Kuta beach. I 
 about to endure another 1-2 hour drive. I ordered some delivery and went to town
 on the food. I love Ayam Geprek!!!
 
-![Spring chicken and some sides](./4_gluttony.jpg)
+![](./4_gluttony.jpg)
 
 ---
 
