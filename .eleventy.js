@@ -9,6 +9,7 @@ const pluginTOC = require('eleventy-plugin-toc')
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
+const markdownItLinkAttributes = require("markdown-it-link-attributes");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight")
 
 module.exports = function(eleventyConfig) {
@@ -173,12 +174,20 @@ module.exports = function(eleventyConfig) {
         .use(markdownItFootnote)
         .use(markdownItAnchor, {
             permalink: markdownItAnchor.permalink.linkInsideHeader({
-                symbol: "#",
+                symbol: "",
                 placement: "after",
                 class: "header-anchor",
             }),
             level: [2, 3], // matches the h2/h3 tags used by pluginTOC below
-        });
+        })
+            .use(markdownItLinkAttributes, {
+                // matches any URL containing "//" (external link will open in new tab)
+                pattern: /\/\//,
+        attrs: {
+            target: "_blank",
+            rel: "noopener noreferrer",
+        },
+    });
     
     // Automatically mark SVG <img> tags as eleventy:ignore before
     // the content ever reaches Eleventy's image transform plugin.
