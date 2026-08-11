@@ -33,6 +33,9 @@ This hike also happened to coincide with the Rinjani 100 mile ultramarathon. It'
 crazy how they didn't close down the trails for the race, but thankfully most of the 
 racers ran past us while we were asleep in our tents.
 
+It being another Sotravel trip, I was the trip leader which gave me responsibilities
+in exchange for a handsome discount.
+
 ---
 
 ## Day 0: Senaru Villa
@@ -78,8 +81,18 @@ They've been up and down the mountain several times, which is no small feat.
 ## Day 1: Up from Sembalun to Crater Rim
 
 Up and early the next day, we had breakfast (don't drink the coffee, it's more grounds
-than liquid), and then headed to Sembalun from our villa to register and
+than liquid), and unloaded our non-essential cargo to the villa staff for safe storage.
+
+If you know me, you know I try not to make use of such services. This trip was an
+opportunity for me to *limit test* my ability to *onebag* the entire trip. I didn't intend
+on using porter services either (they were priced in to the trip's cost already), though 
+I'll concede that it's necessary they carry the tents and camping supplies.
+
+We then headed to Sembalun from our villa to register and
 begin the hike. This was a short ride on the back of a lorry.
+
+They did stop by some place for a stack of medical declarations but I have no recollection
+of them ever performing a check-up on us. Hmm...
 
 <figure>
 
@@ -94,7 +107,7 @@ I suppose as the trip leader, I had to.
 ![Group of us on the back of a lorry](./lorry.jpg)
 
 After registration, we started the hike at 10am from the Sembalun gate, which is a little late.
-The guide asked if we'd like to take a *Gojek*[^gojek] up to Pos 2 (our lunch checkpoint),
+The guide asked if we'd like to take a *"Gojek"*[^gojek] up to Pos 2 (our lunch checkpoint),
 but we were sure we'd be able to make it up despite the delay.
 
 ![Group photo at the start of the trail](./1_start.jpg)
@@ -177,7 +190,7 @@ The toilets are a hole in the dirt.
 
 To some, the "toilets" may take a little getting used to, especially if you 
 can't do a squat. For me, I had to be sure I was aiming correctly. Some 
-decided to just hold their shit in for the entire duration.
+decided to just hold their shit in for the entire duration of the hike.
 
 <figure>
 
@@ -298,6 +311,7 @@ on either side!
 </figure>
 
 ### Descent into Madness
+
 We had breakfast upon returning to the camp, then a short nap, then lunch, all in 
 
 the span of a few hours, which was not the best spacing-out for food.
@@ -419,8 +433,15 @@ the terrain became mostly mud and dirt. The guide at the front decided to
 lead the faster ones by running, which I believe is the right way to
 descend terrain like that.
 
-I slipped a few times on muddy roots, but eventually got the hang of it and 
+I slipped a few times on muddy roots (these are the killers), but eventually got the hang of it and 
 stayed near the front of the pack as well. 
+
+<figure>
+
+![](./3_descent.jpg)
+
+<figcaption>Two of the pack leaders.
+</figure>
 
 Descent didn't take long, perhaps about 3-4 hours of trail running down, all with 
 minimal strain on the knees. We chilled at the base waiting for the others. I finally 
@@ -429,6 +450,8 @@ got reception at this point... Hip hip hurray!
 Afterwards, we went back to the Senaru villa (day 0) to pick up our belongings that 
 we had left for their safekeeping, courtesy of the villa. I was *onebagging*, so I
 didn't have anything to get... Except an ice cold beer from the bar!
+
+![](./3_senaru.jpg)
 
 ### To the Villa
 
@@ -445,12 +468,28 @@ This villa in particular was staffed on-site. I'm not sure if that's the usual a
 but they were there to assist in things like laundry. They also cooked breakfast in the
 morning.
 
+<figure>
+
+<row>
+
+![](./3_villa.jpg)
+![](./3_villa2.jpg)
+
+</row>
+
+<figcaption>We ordered SO MUCH FOOD on our way there.
+</figure>
+
 ---
 
 ## Day 4: The Villa and bailing on Gili Air
 
+![](./4_villas.jpg)
+![](./4_villas2.jpg)
+
 In the morning where we were supposed to check out of the villa to go our separate ways,
-the staff cooked breakfast for us in the villa's kitchen. 
+the staff cooked breakfast for us in the villa's kitchen. We got to see the view in its 
+full glory, looking out at the Gili islands as well.
 
 We also got to enjoy the morning sun, in full force, with no hurry to go anywhere whatsoever.
 This was a cause for a dip in the pool and some beers.
@@ -458,7 +497,11 @@ This was a cause for a dip in the pool and some beers.
 ![](./villa_pool.jpg)
 
 If there are two things to go to Lombok for, it's Rinjani and the Villas. It's
-only natural that we go to a villa after such a hike.
+only natural that we go to a villa after such a hike. It's just such a shame we only 
+spent one night here. There was even a rooftop facility we barely even touched.
+
+![](./4_villaview.jpg)
+
 
 According to the original itinerary, we were supposed to descend on this day,
  and I had a stay on Gili Air booked. I decided
@@ -516,8 +559,7 @@ are 3) are well worth the extra days. 4 days seems a little excessive, in any ca
 Boy! We came in at the tail end of the monsoon season, which meant the first few 
 days were slightly wet with rain (each time didn't last too long).
 
-As usual, waterproof your gear. Rinjani especially can get misty due to clouds and 
-the presence of the lake.
+As usual, waterproof your gear. Rinjani especially can get misty if not rainy.
 It's high up so get some thermal layers as well.
 
 Much of the hike is exposed to the HOT sun so PLEASE make sure to COVER UP and 
@@ -526,29 +568,26 @@ apply sunblock as a secondary measure.
 Bring shoes that can negotiate muddy, rocky, and loose terrain. The gravel near 
 the summit and the muddy trails are sure to make you slip and lose your footing.
 
-Bromo is easier, but there's lots of ash/sand being blown around if you go to the 
-Sea of Sand, so get something to cover the face.
+You might want some face covering in case there's ash in the air.
 
 ### Costs
 
-- Sotravel booking: $600
-    - Includes hotel, transport, park entry, equipment rental, and guides.
-	- Less $300 for my leadership duties
-- Flights: $600 (Expensive)
-- Food, purchases, tips: I spent roughly $70
+- Sotravel booking: SGD 600 ($300 after Sotravel leader reimbursement)
+    - Includes day 0's villa, transport, registration, equipment rental, and guides.
+- Flights: SGD 600 (pricier than usual)
+- Food, purchases, tips: Not more than SGD 100.
+- Villa: SGD 115/pax
 
-**Total:** $650, give or take. Prices in SGD.
-
-if you decide to pay for added services:
-- Motorcycle rides up to Pos 2 from Sembalun: ~200K IDR
+**Total:** $1100, give or take. 
 
 It may be cheaper if you settle the itinerary yourself, 
-probably saving up to $100.
-I also feel like I could've gotten a better deal with the flights.
-Nonetheless, it was well worth it for all the people I got to meet.
+probably saving up to $100. I did ask the other hikers that we met on the trail.
 
-(Notice how the above paragraph needed no modifications when I copied
-this post's template over from last year's Bromo/Ijen post)
+I also feel like I could've gotten a better deal with the flights. For some reason,
+the flights to Lombok kept going up during that period.
+
+Nonetheless, it was well worth it for all the people I got to meet, which (not sponsored btw)
+is the value proposition of Sotravel.
 
 [^gojek]: There are people on motorbikes offering to take you up or down up until
-the first lunch checkpoint. It makes short work of the trail but can cost a bit too.
+the first lunch checkpoint. It makes short work of the trail but can cost a bit too (about 200K IDR)
