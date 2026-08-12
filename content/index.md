@@ -27,7 +27,7 @@ Feel free to look around, check out my projects, or read my latest blog posts.
 </figure>
 
 ## Contact
-<a target="_blank" href="/files/20240706_resume_zhanhong.pdf">My resume</a>
+<a target="_blank" href="/files/ZhanHongResume.pdf">My resume</a>
 
 <a target="_blank" href="https://github.com/choongzhanhong">GitHub</a>
 

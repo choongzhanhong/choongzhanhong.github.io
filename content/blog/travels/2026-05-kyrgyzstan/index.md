@@ -82,7 +82,21 @@ along the way.
 
 ## Karakol, Kyrgyzstan
 
-The first stop 
+The first major stop in our Kyrgyzstan trip was the quiet town of Karakol. 
+Most people come here to visit the nearby Ak-Suu traverse, featuring Ala-Kol lake and 
+Altyn Arashan. The town itself is rather small, but I might actually prefer it to Bishkek.
+
+Upon arrival, we decided to walk to the hostel. We stopped at [Dastorkon](https://maps.app.goo.gl/mbVV1kveYNJURRZD8)
+for dinner, delicious as expected. I got the feeling that seeing tourists like us was 
+still a novelty based on the interactions with the staff, very friendly and pleasant.
+We weren't the only group of Singaporeans in the restaurant, though. 
+
+After a long walk, we checked in to [Sayak Hostel](https://maps.app.goo.gl/2uymxrf2xhnDmzAm7),
+which is smack in the middle of Karakol, a darn good location, though a little far from
+the bus station we'd arrived in. We bought some supplies at a nearby supermarket, Globus.
+
+I absolutely adore the walkability of Karakol, and Kyrgyzstan in general. The streets 
+are wide and *extremely* clean. 
 
 ### Impressions
 
@@ -93,6 +107,12 @@ they actually open. I didn't test this with all the stores, but it was consisten
 The tour office, some coffee shops, all opened much later than listed on their doors.
 The only ones that stuck to their hours were chain stores, like KFC (which tastes the
 same, if you were curious), and the supermarkets.
+
+---
+
+## Ala-Kol
+
+## Altyn Arashan
 
 ---
 

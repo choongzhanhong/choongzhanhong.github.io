@@ -1,5 +1,5 @@
 ---
-title: "🇮🇩 Climbing Rinjani in Lombok"
+title: "🇮🇩 Climbing Mount Rinjani in Lombok"
 date: 2026-04-29
 start_date: 2026-04-29
 end_date: 2026-05-04
@@ -12,9 +12,11 @@ tags:
 
 <figure>
 
+![](./3_rim.jpg)
 ![](./ming_portrait.jpg)
 
-<figcaption>Photo by my room/tentmate this trip!</figcaption>
+<figcaption>Group photo, and portrait by my room/tentmate this trip! Taken at the 
+Senaru crater rim.</figcaption>
 </figure>
 
 This trip which I had booked on impulse in order to make use of the labour day long 
@@ -218,7 +220,7 @@ I don't normally get the appeal of smoking, but somehow this cigarette
 
 ---
 
-## Day 2: Summit Push and Down to Lake
+## Day 2: Summit and Down to Lake
 
 This was the longest day, and considering how most people follow the same itinerary,
 I wonder how the others manage this at all.
@@ -229,8 +231,8 @@ and then head down to the lake, which in itself was no simple task.
 In the spirit of labour day, we had an immensely laborious day. At the end, there was even a
 river crossing, which was basically the straw that broke the camel's back.
 
-The group morale was pretty low at the end of ONLY the 2nd day, but that's something 
-I'll get to later!
+The group morale was pretty low at the end of ONLY the 2nd day, and we wanted to get out ASAP,
+but that's something I'll get to later!
 
 ### Summit PUSH
 
@@ -310,24 +312,48 @@ on either side!
 </figcaption>
 </figure>
 
-### Descent into Madness
+### Descent into the Lake
 
 We had breakfast upon returning to the camp, then a short nap, then lunch, all in 
-
-the span of a few hours, which was not the best spacing-out for food.
+the span of a few hours. This was a little sub-optimal, but we didn't have a choice
+considering we had to get moving for the next item on the itinerary: heading down 
+to the next campsite at the lake.
 
 The way down to the lake was rather steep, mostly composed of rocks.
 It was made all the more dangerous due to the 
 moisture and some drizzle, which made the rocks slippery.
 
+It's trails like these that give you the impression that the porters are wizards.
+They zoomed past us and found the best spots to set up camp while we struggled to
+get down the slippery rocks one-by-one.
+
 At this point, we were quite tired, or to use a memorable quote by one of them,
 "I am mi-se-ra-ble. Miserable." The way he said it still sticks in my mind.
+
+<row>
+
+![](./2_lake.jpg)
+![](./2_lake2.jpg)
+
+</row>
 
 Once we reached the lake, our campsite was across a river. The fact that we 
 had to go across a river (not exactly shallow, so we had to take our shoes off)
 was not well-received.
 
-Some of us went to the hot spring by the waterfalls near the lake.
+![](./2_lakeriver.jpg)
+
+Some of us went to the hot spring by the waterfalls near the lake. I wish I took 
+photos... All we have is footage from a fellow hiker's Insta360, which looks great!
+
+The hot spring water comes piped out in a corner of the base of the waterfall. 
+The view was incredible, by the way. I'm glad we arrived before the crowd and before 
+the sun went down and covered the entire area in darkness.
+
+<video muted controls>
+  <source src="./2_hotspring.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video> 
 
 #### Mutiny
 
@@ -335,8 +361,18 @@ Okay, I'm being dramatic. But at this point, this was day 2 of a 4 day itinerary
 We were kind of sick of being on the mountain, and having cleared the important parts,
 we wanted to wrap things up.
 
-The last night was meant to be a camp some way along the descent trail, but we 
-decided we could do the entire descent to the Senaru gate in a single day.
+At dinner, we unanimously decided to combine the last 2 days' worth of hike into one,
+and the responsibility fell onto me as the trip leader to convey our wishes.
+
+![](./2_lakedinner.jpg)
+
+I had my reservations, not wanting to offend our guides, but, what do I really know!
+They were happy to accommodate, and it did mean one less day of work for the porters,
+no refunds, of course.
+
+Anyway, the last day was more of a buffer day. The planned camp site would have been 
+somewhere along the trail down, but it's not entirely necesasry if you're willing
+to just push on for another hour or two.
 
 ---
 
@@ -399,7 +435,6 @@ At a rest stop. The rock was cool to the touch in the shaded part.
 </figcaption>
 </figure>
 
-![](./3_rim.jpg)
 ![](./3_rim2.jpg)
 ![](./3_rim3.jpg)
 ![](./3_rim4.jpg)
@@ -502,7 +537,6 @@ spent one night here. There was even a rooftop facility we barely even touched.
 
 ![](./4_villaview.jpg)
 
-
 According to the original itinerary, we were supposed to descend on this day,
  and I had a stay on Gili Air booked. I decided
 to forfeit the stay (about SGD 30) to just stay somewhere near the airport with the rest.
@@ -575,10 +609,10 @@ You might want some face covering in case there's ash in the air.
 - Sotravel booking: SGD 600 ($300 after Sotravel leader reimbursement)
     - Includes day 0's villa, transport, registration, equipment rental, and guides.
 - Flights: SGD 600 (pricier than usual)
-- Food, purchases, tips: Not more than SGD 100.
+- Food, purchases, tips: Frankly.. I don't remember, but probably not more than SGD 100.
 - Villa: SGD 115/pax
 
-**Total:** $1100, give or take. 
+**Total:** $1100, give or take.
 
 It may be cheaper if you settle the itinerary yourself, 
 probably saving up to $100. I did ask the other hikers that we met on the trail.
