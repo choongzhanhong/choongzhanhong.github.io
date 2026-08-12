@@ -20,7 +20,6 @@
   <nav>
     <ul><li><a href="/">Home</a></li>
 <li><a href="/about.html">About</a></li>
-<li><a href="/projects.html">Projects</a></li>
 <li><a href="/misc.html">Miscellaneous</a></li>
 <li><a href="/blog.html">Blog</a></li></ul>
   </nav>
@@ -54,7 +53,7 @@
 
   
   <div class="postcard-wrapper">
-	<video loop muted autoplay class="postcard-front">
+	<video loop="" muted="" autoplay="" class="postcard-front">
 	  <source src="./hutiaoxia.webm" type="video/webm">
 		Your browser does not support the video tag.
 	</video> 
@@ -74,8 +73,8 @@
 <p>In this post, I'll document my progress in making digital postcards using only HTML and CSS,
 no Javascript, like the one above. Hover over to flip it!</p>
 <p>I was inspired by my girlfriend to do so, and she picked up HTML just to make her own.
-<a href="https://leec6622-spec.github.io/">Check out her postcards!</a>.</p>
-<h2>Postcard Front</h2>
+<a href="https://leec6622-spec.github.io/" target="_blank" rel="noopener noreferrer">Check out her postcards!</a>.</p>
+<h2 id="postcard-front" tabindex="-1">Postcard Front <a class="header-anchor" href="#postcard-front" target="_blank" rel="noopener noreferrer"></a></h2>
 <p>First, specifications for the postcard, which will be a video. Commonly,
 postcards are in 4R size, which is 4 by 6 inches. On the web, we'll just call it
 a 6:4 aspect ratio. Since most videos and photos are in 4:3 or 16:9, we will
@@ -93,7 +92,7 @@ the footage are some examples.</p>
 <p>If you want more detail, it is important that you right-click this page and inspect element,
 and look at how the HTML and CSS are structured.</p>
 <hr>
-<h2>Flipping the Postcard</h2>
+<h2 id="flipping-the-postcard" tabindex="-1">Flipping the Postcard <a class="header-anchor" href="#flipping-the-postcard" target="_blank" rel="noopener noreferrer"></a></h2>
 <p>As we know, the image on a postcard is only half the content. HTML isn't anything
 like a paper postcard, but we can simulate a postcard with CSS.</p>
 <p>The trick will be to have both the front and back elements, but only show one at a time.</p>
@@ -106,7 +105,7 @@ and a div to wrap around the entire thing.</p>
 		... to be discussed
 	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span></code></pre>
-<h3>Stacking the Elements</h3>
+<h3 id="stacking-the-elements" tabindex="-1">Stacking the Elements <a class="header-anchor" href="#stacking-the-elements" target="_blank" rel="noopener noreferrer"></a></h3>
 <p>Without any additional styling, the front and back elements will be stacked on top of each other.
 You want them to overlap each other. Try to imagine the two sides of a postcard as two pieces of paper
 stacked on top of one another. A magician does this trick with two cards to make it seem like they changed
@@ -131,7 +130,7 @@ the sizing of the element. We will instead use <code>display: grid</code>, which
 	... more later
 <span class="token punctuation">}</span>
 </code></pre>
-<h3>Transition Animation</h3>
+<h3 id="transition-animation" tabindex="-1">Transition Animation <a class="header-anchor" href="#transition-animation" target="_blank" rel="noopener noreferrer"></a></h3>
 <p>First, we want to flip the entire postcard. I feel like it's best to just do it on hover.
 If you're extra keen, you can try using a checkbox element to simulate a toggle,
 again not using Javascript.</p>
@@ -160,22 +159,22 @@ so a 180° + 180° rotation results in a 360° rotation, back to 0°.</p>
 	... more later
 <span class="token punctuation">}</span></code></pre>
 <p>We're now ready to fill in the <code>div</code> for the back of the postcard.</p>
-<h3>Tricky Bits</h3>
+<h3 id="tricky-bits" tabindex="-1">Tricky Bits <a class="header-anchor" href="#tricky-bits" target="_blank" rel="noopener noreferrer"></a></h3>
 <p>I noticed that the box-shadow actually gets flipped if you use this sort of transition.
 There might be a workaround around it, but I decided to just not give it any x-offset,
 so it looks the same even when mirrored, because it's symmetrical about the centre.</p>
 <p>Without box-shadow, it loses its depth, so this subtle change helps keep that 3D effect
 without additional trouble.</p>
 <hr>
-<h2>Postcard Back</h2>
+<h2 id="postcard-back" tabindex="-1">Postcard Back <a class="header-anchor" href="#postcard-back" target="_blank" rel="noopener noreferrer"></a></h2>
 <p>You can honestly just use an image for the back of the postcard, but I wanted it to be as scalable
 and reusable as possible, so mine contains <code>p</code> elements for the correspondence text.</p>
 <p>First, for the background, I got an SVG for the back from
-<a href="https://commons.wikimedia.org/wiki/File:Wikimedia-foundation-brand-postcard-back.svg">Wikimedia commons</a>.
+<a href="https://commons.wikimedia.org/wiki/File:Wikimedia-foundation-brand-postcard-back.svg" target="_blank" rel="noopener noreferrer">Wikimedia commons</a>.
 (Thanks, Wikimedia user Mightyquinn84!)</p>
 <p>You can copy-and-paste the SVG into HTML, or save it as a file and link it in an <code>img</code> tag.
 I highly suggest the latter, for ease of reading and editing.</p>
-<h3>Writing on the back</h3>
+<h3 id="writing-on-the-back" tabindex="-1">Writing on the back <a class="header-anchor" href="#writing-on-the-back" target="_blank" rel="noopener noreferrer"></a></h3>
 <p>You can have as much as you want on the back of the postcard, but I will have two text boxes.
 The HTML looks like this. Feel free to experiment with what works for you.</p>
 <pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>postcard-back<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
@@ -187,7 +186,7 @@ The HTML looks like this. Feel free to experiment with what works for you.</p>
 		<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>b</span><span class="token punctuation">></span></span>From:<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>b</span><span class="token punctuation">></span></span> ...
 	<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span></code></pre>
-<p><picture><source type="image/webp" srcset="/img/VK6-EWHRvq.webp 615w" sizes="(min-width: 30em) 50vw, 100vw"><img alt="" loading="lazy" decoding="async" src="/img/VK6-EWHRvq.jpeg" width="615" height="426"></picture></p>
+<p><picture><source type="image/webp" srcset="/img/VK6-EWHRvq.webp" sizes="(min-width: 30em) 50vw, 100vw"><img loading="lazy" decoding="async" src="/img/VK6-EWHRvq.jpeg" alt="" width="615" height="426"></picture></p>
 <p>We want the text to overlap over the image, so we're using the grid system again,
 this time within the <code>postcard-back</code> div. As usual, the children all start on row 1, column 1.</p>
 <pre class="language-css"><code class="language-css"><span class="token selector">.postcard-back</span> <span class="token punctuation">{</span>
@@ -199,7 +198,7 @@ this time within the <code>postcard-back</code> div. As usual, the children all 
 	<span class="token property">grid-column-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
 	<span class="token property">grid-row-start</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
 <span class="token punctuation">}</span></code></pre>
-<h3>Arranging the Text Boxes</h3>
+<h3 id="arranging-the-text-boxes" tabindex="-1">Arranging the Text Boxes <a class="header-anchor" href="#arranging-the-text-boxes" target="_blank" rel="noopener noreferrer"></a></h3>
 <p>Next, the text boxes should be positioned in their respective areas. I tried using the grid system
 and putting <code>postcard-address</code> in column 2, but it didn't work well.</p>
 <p>This ended up working for me:</p>
@@ -214,19 +213,19 @@ and putting <code>postcard-address</code> in column 2, but it didn't work well.<
 <span class="token punctuation">}</span></code></pre>
 <p>We want to use margin instead of padding, because padding alters the size of the element.
 I'm using percentages for margins, with rough increments until I get the arrangement I want.</p>
-<p><picture><source type="image/webp" srcset="/img/DTs6WjtUHO.webp 628w" sizes="(min-width: 30em) 50vw, 100vw"><img alt="" loading="lazy" decoding="async" src="/img/DTs6WjtUHO.jpeg" width="628" height="432"></picture></p>
+<p><picture><source type="image/webp" srcset="/img/DTs6WjtUHO.webp" sizes="(min-width: 30em) 50vw, 100vw"><img loading="lazy" decoding="async" src="/img/DTs6WjtUHO.jpeg" alt="" width="628" height="432"></picture></p>
 <p>Always remember, <code>border: 1px solid red</code> is your debugging best friend.</p>
 <p>Again, it might differ based on what you want! Feel free to experiment!
 In the end, I edited the SVG to remove the address lines and to lighten the other lines.</p>
 <hr>
-<h2>The end product</h2>
+<h2 id="the-end-product" tabindex="-1">The end product <a class="header-anchor" href="#the-end-product" target="_blank" rel="noopener noreferrer"></a></h2>
 <p>Well, that's it! For making it to the end of this post, here's another postcard,
 from my recent trip to Yunnan as well.</p>
 <p>You can basically just copy-paste your HTML and change the video source to keep making these.
 And since we've set it up so nicely, if you make any edits to the main SVG, the changes
 will reflect throughout as well.</p>
 <div class="postcard-wrapper">
-	<video loop muted autoplay class="postcard-front">
+	<video loop="" muted="" autoplay="" class="postcard-front">
 	  <source src="./haba.webm" type="video/webm">
 		Your browser does not support the video tag.
 	</video> 
@@ -248,27 +247,16 @@ will reflect throughout as well.</p>
 <hr>
 <!-- Giscus Widget -->
 <div id="giscus">
-<script src="https://giscus.app/client.js"
-        data-repo="choongzhanhong/choongzhanhong.github.io"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNzE1Njc5MDM="
-        data-category="General"
-        data-category-id="DIC_kwDOFiWtH84DBuAJ"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
+<script src="https://giscus.app/client.js" data-repo="choongzhanhong/choongzhanhong.github.io" data-repo-id="MDEwOlJlcG9zaXRvcnkzNzE1Njc5MDM=" data-category="General" data-category-id="DIC_kwDOFiWtH84DBuAJ" data-mapping="pathname" data-strict="0" data-reactions-enabled="0" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" data-loading="lazy" crossorigin="anonymous" async="">
 </script>
 </div>
 </article>
 
-<aside class="back-to-top">
-    <a href="#">Back to top</a><br>
+<aside>
+    <a href="#"><b>Top</b></a>
+	<div class="toc">
+        <ul><li><a href="#postcard-front">Postcard Front </a></li><li><a href="#flipping-the-postcard">Flipping the Postcard </a><ul><li><a href="#stacking-the-elements">Stacking the Elements </a></li><li><a href="#transition-animation">Transition Animation </a></li><li><a href="#tricky-bits">Tricky Bits </a></li></ul></li><li><a href="#postcard-back">Postcard Back </a><ul><li><a href="#writing-on-the-back">Writing on the back </a></li><li><a href="#arranging-the-text-boxes">Arranging the Text Boxes </a></li></ul></li><li><a href="#the-end-product">The end product </a></li></ul>
+      </div>
 </aside>
   
 <p>
