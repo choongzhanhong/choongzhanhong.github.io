@@ -16,7 +16,9 @@ tags:
 
 In May, combining my paid time off with two public holidays, 
 I went to Kyrgyzstan (or "Xbox country" as I call it due to the flag[^flag]),
-with two other friends.
+with two other friends, Ama and JQ.
+
+We flew in and out of Almaty, Kazakhstan, and did a hike near Karakol and spent some time in Bishkek as well.
 
 In my opinion, Kyrgyzstan is one of the best travel spots you can go to now. The nature
 is incredible, the people are warm and welcoming. The only thing they lack is the 
@@ -29,12 +31,13 @@ say it has more to offer in terms of nature. In any case, I think it's a great i
 to visit the big 3 stans: Uzbekistan, Kazakhstan, Kyrgyzstan, and if you're feeling 
 adventurous, the others nearby. That's a goal for me another day.
 
+![](./3_sirota.jpg)
+
 This was a trip filled with many ups and downs. Apart from the elevation gain,
 I also brought my friends to a hike we were sorely underprepared for.
 
 I am fairly certain too that we were the first to hike the trail from Karakol Gorge
 to Ala-Kol lake, and then to Ala-Kol pass, then to Altyn Arashan, for the hiking season of 2026.
-
 The lake was still frozen, and we miraculously avoided any and all snowstorms and rain.
 
 After the hikes, we also kicked back in the capital city of Bishkek. Many friends were 
@@ -52,9 +55,7 @@ Please read on and let me know if you have any questions! I'd love to revisit th
 Our trip began in Almaty, Kazakhstan. It was slightly cheaper to fly in from Singapore
 via Kuala Lumpur, Malaysia. The route is pretty, too. If you sit on the right side of the
 plane on the trip from KUL to ALA, it passes by the Himalayan mountain range and it's
-a sight to behold.
-
-(Likewise, on the left on the way back)
+a sight to behold (likewise, on the left on the way back).
 
 <figure>
 
@@ -63,7 +64,43 @@ a sight to behold.
 <figcaption>Brought to you by AirAsia.</figcaption>
 </figure>
 
-### Border Crossing at Karkara 
+### Night Walk 
+
+I was the last of 3 to fly in. JQ had spent the past week in Uzbekistan (which, 
+according to him, is the nicest of the 3), and Ama came from Astana. It was all 
+our first night in Almaty.
+
+We went walking around [Zhibek Zholy](https://maps.app.goo.gl/ALeuWsJxvKs35qAg7),
+a walking street that's bustling at night,
+which gave me the impression of Hongdae in Seoul, only much smaller. I should mention 
+that the Korean population in central Asia is quite significant.
+
+![](./1_zhibek.jpg)
+
+Our taxi driver recommended Navat, a chain restaurant that's favoured by locals. It 
+easily became my favourite, and we kept going back in different locations.
+
+<figure>
+
+<row>
+
+![](1_navat_plov.jpg)
+![](1_navat_beshbarmak.jpg)
+
+</row>
+
+<figcaption>
+On the left: Plov... MY LOVE!
+and the right: Beshbarmak, both local specialties you must try.
+</figcaption>
+</figure>
+
+At night, we decided to take the metro then take a long walk back to our apartment,
+since the metro stations don't reach very far. The weather was perfectly cool.
+
+![](./1_park.jpg)
+
+## Border Crossing at Karkara 
 
 The majority of the 2nd day was spent on a bus ride to the eastern side of Kazakhstan,
 to cross the border to Kyrgyzstan at [Karkara](https://maps.app.goo.gl/BcfLXHQwtbaSmuTg8).

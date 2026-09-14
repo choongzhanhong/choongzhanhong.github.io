@@ -139,11 +139,18 @@ display: inline;
 }
 
 row p {
-display: flex;
+    display: flex;
+}
+
+row picture {
+    flex: 1 1 0;
+	min-width: 0;
 }
 
 row img {
-height: 100%;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
 }
 
 img, svg, video, audio {
