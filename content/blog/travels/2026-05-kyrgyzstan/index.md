@@ -109,7 +109,7 @@ Booking and boarding the bus was fuss-free. I followed this [useful guide](https
 to book the bus. Upon reflection, a bus ride might be your best choice to get to Karakol.
 While there is an airport at Karakol, I doubt it'd be worth the cost.
 
-Anyway, the only improvement I can think of is if you can find a way to stop by along the 
+Anyway, the only improvement I can think of is if you can rent a car and stop by along the 
 way to the border. Going east from Almaty, you get to visit places like [Black Canyon](https://maps.app.goo.gl/s5fLsMLMrJjgCKMp6)
 along the way.
 
@@ -123,7 +123,8 @@ The first major stop in our Kyrgyzstan trip was the quiet town of Karakol.
 Most people come here to visit the nearby Ak-Suu traverse, featuring Ala-Kol lake and 
 Altyn Arashan. The town itself is rather small, but I might actually prefer it to Bishkek.
 
-Upon arrival, we decided to walk to the hostel. We stopped at [Dastorkon](https://maps.app.goo.gl/mbVV1kveYNJURRZD8)
+Upon arrival, we drew some Kyrgyz Som at an ATM in the building next to the bus station.
+While walking towards the hostel, we stopped at [Dastorkon](https://maps.app.goo.gl/mbVV1kveYNJURRZD8)
 for dinner, delicious as expected. I got the feeling that seeing tourists like us was 
 still a novelty based on the interactions with the staff, very friendly and pleasant.
 We weren't the only group of Singaporeans in the restaurant, though. 
@@ -147,7 +148,24 @@ same, if you were curious), and the supermarkets.
 
 ---
 
-## Ala-Kol
+## Hike Day 1: Karakol Gorge 
+
+Now, the hike! We began our 3-day hike on 25 May starting from Karakol Gorge. Some 
+might call it the second bridge. If you choose to start there, a UAZ transfer to the 
+gorge will cost you KGS 10,000 or somewhere above USD 100. 
+
+We wanted a more condensed hike given the few days we had to spend, so we did just that.
+The road leading up to the gorge is mostly off-road, some muddy, some rocky. Totally walkable.
+
+The views were already incredible driving up to the trail. 
+
+### Setting Off 
+
+Anyway, the day's
+
+## Hike Day 2: Ala-Kol Pass
+
+On the morning of day 2, we made the difficult decision
 
 ## Altyn Arashan
 
