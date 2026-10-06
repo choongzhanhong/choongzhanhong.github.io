@@ -224,6 +224,15 @@ red kings worth -2. 7 to 10 were also power cards (e.g. "7 or 8, look at a mate"
 As we arrived in Bishkek, the weather had transitioned into summer heat, and we once 
 again had to acclimate to it after having endured sub-zero temperatures.
 
+### Ala Archa National Park
+
+There's so much you can do in this national park for a cheap 300KGS ticket and 
+a 50KGS bus ride from Bishkek. 
+
+I later met some friends of a friend who did some alpine training in the national park.
+If you go past the accessible paths, the park is actually home to some incredible mountains
+that are very much climbable if you have the tools.
+
 ---
 
 ## Itinerary
