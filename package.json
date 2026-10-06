@@ -13,14 +13,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.0",
+    "22": "^0.0.0",
+    "@11ty/eleventy": "^3.1.6",
     "@11ty/eleventy-img": "^7.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "eleventy-plugin-toc": "^1.1.5",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.1",
-    "markdown-it-link-attributes": "^4.0.1",
-    "package-lock.json": "^1.0.0"
+    "markdown-it-link-attributes": "^4.0.1"
   },
   "devDependencies": {
     "@11ty/eleventy-navigation": "^1.0.4",
@@ -28,5 +28,8 @@
     "gh-pages": "^6.3.0",
     "luxon": "^3.6.1",
     "markdown-it-footnote": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
