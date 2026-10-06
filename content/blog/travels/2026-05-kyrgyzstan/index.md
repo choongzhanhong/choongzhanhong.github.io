@@ -15,10 +15,11 @@ tags:
 ![Group photo along the Ala-Kol trail](./3_groupdigi.jpg)
 
 In May, combining my paid time off with two public holidays, 
-I went to Kyrgyzstan (or "Xbox country" as I call it due to the flag[^flag]),
+I went to Kyrgyzstan (or "Xbox country" as I called it due to the flag[^flag]),
 with two other friends, Ama and JQ.
 
-We flew in and out of Almaty, Kazakhstan, and did a hike near Karakol and spent some time in Bishkek as well.
+We flew in and out of Almaty (Kazakhstan), nearly died hiking in Karakol,
+and spent some time in Bishkek as well.
 
 In my opinion, Kyrgyzstan is one of the best travel spots you can go to now. The nature
 is incredible, the people are warm and welcoming. The only thing they lack is the 
@@ -38,7 +39,8 @@ I also brought my friends to a hike we were sorely underprepared for.
 
 I am fairly certain too that we were the first to hike the trail from Karakol Gorge
 to Ala-Kol lake, and then to Ala-Kol pass, then to Altyn Arashan, for the hiking season of 2026.
-The lake was still frozen, and we miraculously avoided any and all snowstorms and rain.
+The lake was still frozen, and we miraculously avoided any and all rain and snow storms,
+some of which occurred a day or two before and after our hiking days.
 
 After the hikes, we also kicked back in the capital city of Bishkek. Many friends were 
 made and good food eaten. There wasn't a day I didn't enjoy.
@@ -157,17 +159,70 @@ gorge will cost you KGS 10,000 or somewhere above USD 100.
 We wanted a more condensed hike given the few days we had to spend, so we did just that.
 The road leading up to the gorge is mostly off-road, some muddy, some rocky. Totally walkable.
 
-The views were already incredible driving up to the trail. 
+The views were already incredible driving up to the trail. The first part of the trail 
+was mostly hiking through forested paths, which was somewhat steep.
 
-### Setting Off 
+### To the Lake
 
-Anyway, the day's
+Once the lake came into view, we could see it was completely frozen, and it was beautiful,
+yet nothing like the pictures online where it's vibrant blue, and green grassy hills in the summer.
+
+### Reaching the Camp
+
+By the time we reached the campsite, it was nearly night-time. Thankfully, the summer 
+days are generously long, and the last bits of illumination only faded away past 9pm.
+
+There weren't many yurts set up, if at all, aside from ours. The guide told us that 
+we were the first tourists to stay at Ala-Kol for the season. The few other hikers we saw
+along the way up just did an out-and-back hike.
+
+We could see the other guides transporting camp materials along Ala-Kol pass, mostly 
+their torchlights in the darkness. They'll be building the yurts for summer.
 
 ## Hike Day 2: Ala-Kol Pass
 
-On the morning of day 2, we made the difficult decision
+On the morning of day 2, we made the difficult decision to split up. I wasn't too keen 
+on abandoning the trail; I wanted to see it through, and I had heard that the terrain
+in Altyn Arashan, beyond Ala-Kol pass, would be far easier to navigate.
+
+Unfortunately, to even get to that point, we would have to cross the pass itself, which 
+was around 3900m elevation, from our 3600m camp site. The climb up is steep and treacherous,
+not to mention the fact that it's blanketed in snow on the other side.
+
+### Snow at the Pass
+
+It must have been a crazy sight seeing someone come DOWN from the pass.
+
+### The rest of the walk
+
+As I descended in altitude, the scenery gradually changed to more vibrant greens.
+It was absolutely breathtaking. Every once in a while, someone on a horse would 
+pass by.
+
+I soon realised that having a horse made the trek around Altyn Arashan much easier.
+While it's entirely doable on foot, the river crossings can be risky or unpredictable.
 
 ## Altyn Arashan
+
+I was told there'd be hot springs here. Apparently, for my guesthouse at least, it
+was in a private room that you had to book. I was fortunately able to book a slot for the 
+next morning.
+
+The hot spring itself is quite roomy and could probably fit a whole bunch of people.
+The water temperature was not that hot, really. I had a nice shower.
+
+I met some people from the UK who taught me a card game that's played with a standard 
+deck plus jokers. I ended up being quite invested in it and shared it with my friends 
+once we reunited as well. It's apparently called [Cabo](https://en.wikipedia.org/wiki/Cabo_(game)),
+and there's probably variants on the rules. For ours, the joker was worth -1 and 
+red kings worth -2. 7 to 10 were also power cards (e.g. "7 or 8, look at a mate").
+
+---
+
+## Bishkek
+
+As we arrived in Bishkek, the weather had transitioned into summer heat, and we once 
+again had to acclimate to it after having endured sub-zero temperatures.
 
 ---
 
@@ -201,8 +256,8 @@ Use Yandex Go for taxis. Also, very useful to have Google Translate prepared.
 - Accommodations:
 	- Yurt package ([Kyrgyz Life](https://kyrgyzlife.com/)):
 	Roughly SGD 700 ($233/pax) or KGS 44,800/USD 515 (KGS 5800 per pax, KGS 10,000 for UAZ transfer)
-- Flights: SGD1143.50 (AirAsia)
-- Food, purchases, tips: I spent roughly $70
+- Flights: SGD 1143.50 (AirAsia)
+- Food, purchases, tips: I spent roughly SGD 70, or let's just round it up to 100.
 
 Altogether, we spent about somewhere around or under SGD 2000; most of it being the flights and 
 the accommodations. The yurt stays and UAZ rides were fairly expensive, I believe we might have been

@@ -199,3 +199,22 @@ were perfect accompaniments.
 
 ## Yilan
 
+This was a quiet 
+
+---
+
+## Itinerary
+
+### Getting Around
+
+Taiwan has a reliable rail network that let us get around the major cities with no 
+issues. Within cities, we took the bus and taxis sometimes.
+
+To get to Yushan, you definitely should arrange for transport, rent a car, or make sure 
+you do not miss a bus. Getting up and down the national park headquarters to the nearby
+towns is still a long drive.
+
+### Costs 
+
+It's been a while since this trip so I can't say I remember, but altogether it was 
+under SGD 1000 per pax, costs being split over 3 guys.
