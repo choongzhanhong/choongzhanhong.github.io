@@ -19,9 +19,13 @@ or Jade Mountain, the highest peak in Taiwan at just a bit under 4000 meters of 
 We made it, but the climb was not gentle on us. The moisture and cold made us
 appreciate the ground-level temperature after the hike.
 
-The rest of the trip was spent lollygagging around most of Taiwan,
+The rest of the trip was spent trying to clear most of Taiwan,
 and while I didn't fully circumnavigate the entire island (missed out the southeast coast),
-I can say that I'd seen enough of what Taiwan had to offer.
+I can say that I'd seen enough of what Taiwan had to offer for my first time there.
+
+This was my first proper hike that got me into the activity as a whole. 
+I was so terribly under-equipped, but somehow made it through and enjoyed the 
+experience enough to do it again. 
 
 ## Summiting Jade Mountain
 
@@ -30,9 +34,17 @@ I can say that I'd seen enough of what Taiwan had to offer.
 ![Three of us at the start of the mountain trail](./yushan-base.jpg)
 
 <figcaption>Left to right: Aung, with a penchant for aura farming.
-JQ, who planned it all, and me, whose boots would not end up surviving the way down.
+JQ, who planned it all, and me, whose shiny boots would not end up surviving the way down.
 </figcaption>
 </figure>
+
+The hike was the first thing in our itinerary. The first day or two were spent
+gearing up and getting to the hike. On the day of the hike, we took a bus
+from Shuili up to the national park, specifically Paiyun Mountaineering Service Centre.
+
+This was the summer where [brat (Charli XCX)](https://en.wikipedia.org/wiki/Brat_(album)) released
+and I enjoyed listening to it for the first time on the bus. Little did I know
+just how impactful this album would be. Anyway.
 
 We set off full of gusto, (unbeknownst to us) underdressed, and inadequately waterproofed.
 
@@ -55,7 +67,10 @@ My jacket was soaked, although it put up some resistance. My passport, which I h
 had to be replaced after this trip.
 
 There were several stops along the way up where you could rest and seek shelter.
-Eventually, we stopped somewhere to devour the food we had bought that morning.
+Eventually, we stopped somewhere to devour the food we had bought in Shuili.
+
+Whenever the sun peeked out of the clouds, we made sure to soak up as much of 
+it as we could to both warm up, and dry off.
 
 <figure>
 
@@ -68,16 +83,17 @@ by a single sandwich.</figcaption>
 Eventually, the mountain lodge slowly made itself visible. Due to our slow pace
 and late starting time, we were the last to reach the lodge for the day.
 
-### At the lodge
+### Day 1 - At Paiyun Lodge
 
 ![](./yushan-lodge.jpg)
 
 Our stop for the first day was at Paiyun Lodge, some 3400m of elevation above sea level.
 
 By the time we got there, we were soaked.
-There are places to hang our equipment to dry, though
+There were hooks at the lobby to hang your wet equipment, though
 the humidity and temperature made it difficult to
-get fully dry. We still managed to an acceptable level, though!
+get fully dry. It was also full, so we hung our stuff in the cabin, and 
+managed to get our stuff *somewhat* dry. I was shivering the entire time.
 
 I was so happy to finally have something warm in my hands: generous servings of Taiwan's braised pork rice.
 
@@ -89,30 +105,38 @@ I was so happy to finally have something warm in my hands: generous servings of 
 <figcaption>The lobby, and generous servings of food to help yourself to.</figcaption>
 </figure>
 
-There were drying areas at the lobby, but they were pretty much all occupied. 
-We went to the cabins to rest and dry up.
-
 #### The cabins
 
-Since we were soaked, we changed and spread all the clothes out to hang.
-Even my sleeping bag was wet, but I found enough dry spots to lie on, hoping it'd 
-dry up if I were to spread it out on the bed mat.
-
+I like to imagine myself a good engineer, so here's what we did to dry up.
 The genius that I am, I strung up some rope for us to dry our clothes and maximise
 surface area. I'd say we were successful enough; we were dry enough to finish the climb,
 and then the way down.
 
+Frankly speaking, I don't recall why and for what I brought that spool of 
+rope (if you can even call it that). But I won't question providence.
+
+Since we were soaked, we changed and spread all the clothes out to hang.
+Even my sleeping bag was wet, but when spread out, there were enough dry spots to lie on.
+
+<figure>
+
 ![](./yushan-lodgebed.jpg)
 
-There were some electrical sockets for us to charge our devices.
+<figcaption>
 
-The night got dark, and we didn't have much else to do but rest for an early departure
-the next day.
+Maximal exposed surface area
+
+</figcaption>
+</figure>
+
+There were some electrical sockets by the beds for us to charge our devices.
+
+The night got dark, and we didn't have much else to do but rest for an early summit.
 
 ### Day 2 - Summit and then down
 
-In the early morning of day 2, around 2-3am, the lodge comes alive again as
-everyone gets ready to hike the remainder of the trail to the summit.
+In the early morning of day 2, around 2-3am, the lodge came alive again as
+everyone got ready to hike the remainder of the trail to the summit.
 
 If you keep a good pace, you can reach the summit by sunrise and hopefully
 enjoy the view.

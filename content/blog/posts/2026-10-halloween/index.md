@@ -3,6 +3,7 @@ title: "Halloween 2026!"
 date: 2026-10-31
 tags:
   - "miscellaneous"
+  - "draft"
 layout: "layouts/post.njk"
 ---
 
