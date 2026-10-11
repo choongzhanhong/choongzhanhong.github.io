@@ -123,6 +123,7 @@ margin: 1.5em 10px;
 padding: 0.5em 10px;
 quotes: "\201C""\201D""\2018""\2019";
 font-size: 18px;
+text-wrap: balance;
 }
 
 blockquote:before {
@@ -138,12 +139,29 @@ blockquote p {
 display: inline;
 }
 
+blockquote cite {
+  display: block;
+  text-align: right;
+  font-size: 0.8em;
+}
+
+blockquote cite::before {
+  content: "\2014\00a0";
+}
+
 row p {
-display: flex;
+    display: flex;
+}
+
+row picture {
+    flex: 1 1 0;
+	min-width: 0;
 }
 
 row img {
-height: 100%;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
 }
 
 img, svg, video, audio {
