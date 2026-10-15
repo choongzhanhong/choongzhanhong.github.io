@@ -14,10 +14,9 @@ Please don't mind me if the posts are incomplete, I have a habit of starting new
 posts while still having drafts. 
 
 {# Loop through the array of years from our collection #}
-{% for yearData in collections.postsByYear %}
+{% for yearData in collections.allByYear %}
   <h2 id="y{{ yearData.year }}">{{ yearData.year }}</h2>
   <ul class="blogList">
-    {# Loop through the posts for the current year #}
     {% for post in yearData.posts %}
       <li>
         <time datetime="{{ post.date | readableDate('yyyy-LL-dd') }}">
@@ -25,7 +24,14 @@ posts while still having drafts.
         </time>
         <a href="{{ post.url }}" {% if "draft" in post.data.tags %} class="draft" {% endif %}>
           {{ post.data.title }} {% if "draft" in post.data.tags %} (DRAFT) {% endif %}
-		  </a>
+        </a>
+        {# 
+        <!-- Don't really want these labels right now.
+        {% if "travel" in post.data.tags %} <span class="post-type">Travel</span>
+        {% elif "writing" in post.data.tags %} <span class="post-type">Writing</span>
+        {% endif %} 
+        -->
+        #}
       </li>
     {% endfor %}
   </ul>
@@ -34,6 +40,6 @@ posts while still having drafts.
 <hr>
 <h2>Browse by Tag</h2>
 <div class="tag-list">
-  {% for tag in collections.tagList %}{% if tag != "posts" %}
-    <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>{% endif %}{% endfor %}
+  {% for tag in collections.tagList %}
+    <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>{% endfor %}
 </div>

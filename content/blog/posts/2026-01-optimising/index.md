@@ -2,7 +2,7 @@
 title: "Relentless Optimising"
 date: 2026-01-22
 tags:
-  - "miscellaneous"
+  
 layout: "layouts/post.njk"
 ---
 

@@ -2,7 +2,7 @@
 title: "Video Postcards"
 date: 2025-12-30
 tags:
-  - "miscellaneous"
+  
 layout: "layouts/post.njk"
 ---
 

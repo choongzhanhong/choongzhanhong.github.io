@@ -2,7 +2,7 @@
 title: "A Remark on Jurong East, and MRT Station Designs"
 date: 2026-05-05
 tags:
-  - "miscellaneous"
+  - "singapore"
 layout: "layouts/post.njk"
 ---
 

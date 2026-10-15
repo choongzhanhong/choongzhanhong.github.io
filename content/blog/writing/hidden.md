@@ -1,9 +1,9 @@
 ---
 title: "Artificial Theory of Mind"
-subtitle: "They're getting smarter"
 date: 2026-01-22
 tags:
   - "sci-fi"
+  - "draft"
 ---
 
 ## 1

@@ -17,9 +17,7 @@ layout: "layouts/base.njk"
     <p class="tag-list">
         Tags:
         {% for tag in tags %}
-          {% if tag != "posts" %} {# A little trick to exclude Eleventy's automatic 'posts' tag #}
             <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>
-          {% endif %}
         {% endfor %}
       </p>
     {% endif %}

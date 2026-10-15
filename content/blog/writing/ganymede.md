@@ -3,7 +3,8 @@ title: "Ganymede"
 date: 2026-03-20
 tags:
   - "sci-fi"
-layout: "layouts/post.njk"
+  - "dream fiction"
+  - "draft"
 ---
 
 `[21E9, F2 Jov 09:A0]:` 

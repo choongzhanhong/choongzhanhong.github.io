@@ -2,7 +2,7 @@
 title: "DIY Mattress Making"
 date: 2025-08-04
 tags:
-  - "miscellaneous"
+  
 layout: "layouts/post.njk"
 ---
 

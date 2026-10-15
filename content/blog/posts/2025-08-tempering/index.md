@@ -2,7 +2,6 @@
 title: "Tempering/Temperance"
 date: 2025-09-08
 tags:
-  - "miscellaneous"
   - "singapore"
 layout: "layouts/post.njk"
 ---

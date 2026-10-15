@@ -2,7 +2,7 @@
 title: "Halloween 2025!! and an archive of previous years"
 date: 2025-11-03
 tags:
-  - "miscellaneous"
+  - "halloween"
 layout: "layouts/post.njk"
 ---
 

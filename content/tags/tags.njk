@@ -1,14 +1,8 @@
 ---
 pagination:
-  data: collections
+  data: collections.tagList
   size: 1
   alias: tag
-  filter:
-    - all
-    - nav
-    - posts
-    - postsByYear
-  addAllPagesToCollections: true
 layout: "layouts/base.njk"
 permalink: "/tags/{{ tag }}.html"
 ---
@@ -22,4 +16,4 @@ permalink: "/tags/{{ tag }}.html"
 </ol>
 
 <hr>
-<a href="/blog.html"><== Back to Blog</a>
+<a href="{{ '/blog.html' | url }}"><== Back to Blog</a>
