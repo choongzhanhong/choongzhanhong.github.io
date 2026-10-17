@@ -78,7 +78,7 @@ console could not find it in themselves to sit comfortably. Those watching
 the pilots were at the edge of their seats. Those further back were at least 
 leaning forward to get a better look.
 
-A crack drew itself on the surface of the window, followwed by a deep shudder 
+A crack drew itself on the surface of the window, followed by a deep shudder 
 as the impact of an asteroid shook the ship and permeated its way to the cockpit.
 
 "Cherie, this ain't it. I'm calling it." Ahmed called out to the back.
