@@ -40,6 +40,6 @@ posts while still having drafts.
 <hr>
 <h2>Browse by Tag</h2>
 <div class="tag-list">
-  {% for tag in collections.tagList %}
-    <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>{% endfor %}
+  {% for tag in collections.tagList %}{% if tag != "draft" %}
+  <a href="{{ ('/tags/' + tag + '.html') | url }}" class="tag-badge">#{{ tag }}</a>{% endif %}{% endfor %}
 </div>
