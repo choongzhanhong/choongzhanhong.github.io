@@ -464,6 +464,8 @@ font-family: var(--font_mono);
 
 .draft {
 color: #aaa;
+pointer-events: none;
+cursor: default;
 }
 
 .tag-badge {
