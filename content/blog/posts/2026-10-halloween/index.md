@@ -11,6 +11,7 @@ I was pretty set on becoming Tung Tung Tung Sahur *months* before the day,
 and it surprised me how easy it was to execute.
 
 ![Me in costume on the street](./tung.jpg)
+![Group photo](./group.jpg)
 
 Tung Tung Tung Sahur is some AI-generated character that I adore because 
 he looks so stupid and frankly, creepy as well. People on the street mostly
@@ -55,3 +56,5 @@ anonymity and sensory deprivation.
 
 I'm just wondering what I'll do next year. We're already looking forward to it.
 Enjoy the photos!
+
+![Ronald McDonald feeding me a fry through my eyehole](./mcdonalds.jpg)
