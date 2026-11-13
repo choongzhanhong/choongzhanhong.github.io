@@ -19,12 +19,13 @@ called me "Triple T". So cool!
 
 ![The original Tung Tung Tung Sahur](./tung_original.png)
 
+This costume was made with a single cardboard box, originally for a suitcase I'd bought.
 I don't mean to brag, but it's times like these that I can consider myself a true 
 engineer. There were some constraints I worked with: I had to ensure I could 
 get in and out of the costume, that I could see, and that it wouldn't get loose 
 while wearing it.
 
-Having an arm hole as the "locking" mechanism solved two of those problems, rather 
+Having an arm hole as the "locking" mechanism solved the integrity problems, rather 
 elegantly I must say. I happened to get the arm hole and eye socket placements 
 right the first time as well. I just wish I could've made the face larger, but 
 I'm very happy with the end product, which in truth took no more than an hour in total.
@@ -51,6 +52,13 @@ guy with thunder thighs running right at you...
 
 Naturally, I couldn't really see, hear, or talk much, but I kinda enjoyed the 
 anonymity and sensory deprivation.
+
+I really love seeing everyone's creativity during Halloween. I didn't really bother
+using my phone (which was kept in a fanny pack), so I didn't take any photos myself.
+
+Some people were really rough with my costume, probably not realising there's a living 
+human being inside. I got pushed, pulled, hit by some, I can only hope, drunk people,
+who were trying to get a photo. Ah well. The costume really withstood the blows!
 
 ![Us in costumes at Orchard road](./orchardroad.jpg)
 

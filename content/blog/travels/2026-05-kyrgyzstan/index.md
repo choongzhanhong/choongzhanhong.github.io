@@ -193,7 +193,7 @@ not to mention the fact that it's blanketed in snow on the other side.
 
 It must have been a crazy sight seeing someone come DOWN from the pass.
 
-### The rest of the walk
+### Horses and Rivers
 
 As I descended in altitude, the scenery gradually changed to more vibrant greens.
 It was absolutely breathtaking. Every once in a while, someone on a horse would 
@@ -217,6 +217,26 @@ once we reunited as well. It's apparently called [Cabo](https://en.wikipedia.org
 and there's probably variants on the rules. For ours, the joker was worth -1 and 
 red kings worth -2. 7 to 10 were also power cards (e.g. "7 or 8, look at a mate").
 
+## Hike Day 3: Altyn Arashan to Ak-Suu
+
+The last day of my time on the mountains, I walked down the trail from Altyn Arashan 
+to the nearby town of Ak-Suu, which is right next to Karakol. Along the way, I passed 
+by many hikers going up.
+
+Expectedly, it was a very easy trail, especially compared to the one from Karakol
+Gorge. The view and weather was great all the way, but there's nothing really 
+waiting for you at the bottom. 
+
+Ak-Suu itself is pretty small and quiet. I met up with JQ at the base to 
+head to the Arashan hot springs.
+
+### Last Night in Karakol
+
+Happy to be back in the comfort of the hostel, we caught up with each other. 
+Ama reflected that he felt it wasn't his time to die yet, and they safely made 
+it back. We arranged for a car to bring us to Bishkek the next morning, which 
+would be the "fun" leg of the trip.
+
 ---
 
 ## Bishkek
@@ -233,9 +253,40 @@ I later met some friends of a friend who did some alpine training in the nationa
 If you go past the accessible paths, the park is actually home to some incredible mountains
 that are very much climbable if you have the tools.
 
+### City Views
+
+#### Ala-Too Square
+
+#### Irish Bar
+
 ---
 
 ## Itinerary
+
+### Getting Around
+
+Bishkek and Karakol are all quite far away from each other. I'd say for getting to Karakol,
+I'm satisfied with the bus from Almaty. Apart from flying in, I think that's the best 
+way to get to the small town.
+
+If you started your trip in Bishkek, there are some options. You could get a bus, 
+marshrutka, or taxi to drive across the country, along Issyk-Kul. If you do this,
+I'd highly recommend stopping by Issyk-Kul, something we didn't do.
+
+Another seasonal option is the summer train from Bishkek to Balykchy. It looks so 
+beautiful online, but we didn't take it. From Balykchy, you can continue as you would 
+normally the remaining distance.
+
+The border crossings were all smooth, though you'll need to arrange transportation
+in/out.
+
+Coming from Singapore, I can't ever get used to driving for hours. Anyway, these 
+countries are huge... so I think I'd rent a car next time I visit. Almaty has a metro,
+but it doesn't extend far. Bishkek doesn't have trains, and it seems like walking is a normal way 
+of getting around.
+
+Between bigger cities, you can still find trains. I think this is more true in Kazakhstan.
+Ama visited Astana before Almaty, and made some friends on the train.
 
 ### Packing Notes
 
@@ -249,8 +300,8 @@ at the lake especially when there's snow. The cold is tolerable in the city area
 Ala-Kol pass was also covered with snow. I borrowed crampons, but you may not necessarily 
 need them. The other hikers I met didn't bring any.
 
-The last few days of our trip, the summer sun came on strong. Each day was extremely sunny 
-and hot. Regardless of season, bring proper UV protection.
+The last few days of our trip (which was still within the week), the summer sun came on strong. 
+Each day was extremely sunny and hot. Regardless of season, bring proper UV protection.
 
 #### Apps to Download
 
