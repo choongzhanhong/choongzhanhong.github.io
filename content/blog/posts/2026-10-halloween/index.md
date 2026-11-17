@@ -7,7 +7,7 @@ layout: "layouts/post.njk"
 ---
 
 The stars aligned for us to have a Halloween on a Saturday this year.
-I was pretty set on becoming Tung Tung Tung Sahur *months* before the day,
+I was pretty set on becoming Tung Tung Tung Sahur *months* before the actual occasion,
 and it surprised me how easy it was to execute.
 
 ![Me in costume on the street](./tung.jpg)
@@ -53,16 +53,37 @@ guy with thunder thighs running right at you...
 Naturally, I couldn't really see, hear, or talk much, but I kinda enjoyed the 
 anonymity and sensory deprivation.
 
+<video muted controls>
+  <source src="./orchard.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video>
+
 I really love seeing everyone's creativity during Halloween. I didn't really bother
-using my phone (which was kept in a fanny pack), so I didn't take any photos myself.
+using my phone (which was kept in a fanny pack, and out of reach due to the costume),
+so I didn't take any photos myself.
 
 Some people were really rough with my costume, probably not realising there's a living 
 human being inside. I got pushed, pulled, hit by some, I can only hope, drunk people,
 who were trying to get a photo. Ah well. The costume really withstood the blows!
+Guys and girls... be gentle!
 
 ![Us in costumes at Orchard road](./orchardroad.jpg)
 
 I'm just wondering what I'll do next year. We're already looking forward to it.
 Enjoy the photos!
 
+<figure>
+
+![Me and girlfriend as balloon boy from Five Nights at Freddie's](./gf.jpg)
+
+<figcaption>
+
+Me, and my girlfriend as balloon boy from FNAF.
+
+</figcaption>
+</figure>
+
 ![Ronald McDonald feeding me a fry through my eyehole](./mcdonalds.jpg)
+![](./pregame.jpg)
+![](./tung2.jpg)
+![](./orchard.jpg)
