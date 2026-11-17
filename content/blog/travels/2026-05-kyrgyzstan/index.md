@@ -162,7 +162,17 @@ The road leading up to the gorge is mostly off-road, some muddy, some rocky. Tot
 The views were already incredible driving up to the trail. The first part of the trail 
 was mostly hiking through forested paths, which was somewhat steep.
 
+<row>
+
+![](./3_alakol.jpg)
+![](./3_alakol2.jpg)
+
+</row>
+
 ### To the Lake
+
+![](./3_alakol3.jpg)
+![](./3_alakol4.jpg)
 
 Once the lake came into view, we could see it was completely frozen, and it was beautiful,
 yet nothing like the pictures online where it's vibrant blue, and green grassy hills in the summer.
@@ -180,6 +190,9 @@ We could see the other guides transporting camp materials along Ala-Kol pass, mo
 their torchlights in the darkness. They'll be building the yurts for summer.
 
 ## Hike Day 2: Ala-Kol Pass
+
+![](./4_yurt2.jpg)
+![](./4_yurt.jpg)
 
 On the morning of day 2, we made the difficult decision to split up. I wasn't too keen 
 on abandoning the trail; I wanted to see it through, and I had heard that the terrain
@@ -202,7 +215,7 @@ pass by.
 I soon realised that having a horse made the trek around Altyn Arashan much easier.
 While it's entirely doable on foot, the river crossings can be risky or unpredictable.
 
-## Altyn Arashan
+### Altyn Arashan
 
 I was told there'd be hot springs here. Apparently, for my guesthouse at least, it
 was in a private room that you had to book. I was fortunately able to book a slot for the 
@@ -255,9 +268,15 @@ that are very much climbable if you have the tools.
 
 ### City Views
 
+![](./6_bishkek.jpg)
+![](./6_bishkek2.jpg)
+
 #### Ala-Too Square
 
-#### Irish Bar
+#### Nights Out with Locals
+
+![](./8_irishbar.jpg)
+![](./8_irishbar2.jpg)
 
 ---
 
